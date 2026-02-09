@@ -1,0 +1,20 @@
+{
+  "name": "rt-news-data",
+  "version": "1.0.0",
+  "description": "Automated daily news pipeline for Rethinking Tech mobile app",
+  "main": "calculate-bias.js",
+  "scripts": {
+    "update": "node calculate-bias.js",
+    "test": "node calculate-bias.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/harinda/rt-news-data.git"
+  },
+  "keywords": ["news", "bias-detection", "rethinking-tech"],
+  "author": "Rethinking Tech",
+  "license": "MIT",
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.35.0"
+  }
+}
