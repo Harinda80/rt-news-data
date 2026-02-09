@@ -1,0 +1,44 @@
+name: Daily News Pipeline
+
+on:
+  schedule:
+    # Run daily at 14:00 UTC (3 PM Rome time) - after Lovable finishes their generation
+    - cron: '0 14 * * *'
+  workflow_dispatch: # Allow manual trigger for testing
+
+jobs:
+  update-articles:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      
+      - name: Install dependencies
+        run: npm install
+      
+      - name: Run bias analysis
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: node calculate-bias.js
+      
+      - name: Commit and push if changed
+        run: |
+          git config user.name "RT Pipeline Bot"
+          git config user.email "pipeline@rethinkingtech.co"
+          git add data/analyzed-articles.json
+          git diff --staged --quiet || git commit -m "Daily update: $(date -u +%Y-%m-%d)"
+          git push
+      
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./data
+          publish_branch: gh-pages
+          cname: news-data.rethinkingtech.co
