@@ -1,8 +1,8 @@
 {
   "date": "2026-02-09",
   "count": 63,
-  "generated_at": "2026-02-09T13:58:52.094Z",
-  "lovable_generated_at": "2026-02-09T13:58:09.303Z",
+  "generated_at": "2026-02-09T14:57:07.506Z",
+  "lovable_generated_at": "2026-02-09T14:56:22.069Z",
   "articles": [
     {
       "id": "5eec09bf-309b-4b98-86a8-f828fd343c83",
@@ -37,8 +37,8 @@
         "language": "en"
       },
       "political_score": -0.8,
-      "tech_score": 0.1,
-      "trust_score": 8
+      "tech_score": -0.7,
+      "trust_score": 7
     },
     {
       "id": "46303540-a360-4fbe-bfcf-6cdb6386c9fd",
@@ -71,8 +71,8 @@
         "paywall": false,
         "language": "en"
       },
-      "political_score": 0.1,
-      "tech_score": 0.7,
+      "political_score": 0,
+      "tech_score": 0.5,
       "trust_score": 8
     },
     {
@@ -142,7 +142,7 @@
         "language": "en"
       },
       "political_score": 0,
-      "tech_score": 0.8,
+      "tech_score": 1,
       "trust_score": 8
     },
     {
@@ -179,7 +179,7 @@
       },
       "political_score": 0,
       "tech_score": 0.8,
-      "trust_score": 7
+      "trust_score": 6
     },
     {
       "id": "6299b506-6475-46f0-bd0e-2d324dbd4250",
@@ -212,7 +212,7 @@
         "language": "en"
       },
       "political_score": 0.1,
-      "tech_score": 0.3,
+      "tech_score": 0.4,
       "trust_score": 8
     },
     {
@@ -245,8 +245,8 @@
         "paywall": false,
         "language": "en"
       },
-      "political_score": 0,
-      "tech_score": 0.7,
+      "political_score": 0.1,
+      "tech_score": 0.8,
       "trust_score": 8
     },
     {
@@ -281,9 +281,9 @@
         "paywall": true,
         "language": "en"
       },
-      "political_score": 0.1,
-      "tech_score": 0,
-      "trust_score": 7
+      "political_score": 0,
+      "tech_score": 0.2,
+      "trust_score": 8
     },
     {
       "id": "1b90d86d-01f3-435e-84b0-c661946ca89c",
@@ -316,7 +316,7 @@
         "language": "en"
       },
       "political_score": 0,
-      "tech_score": 0.7,
+      "tech_score": 0.8,
       "trust_score": 8
     },
     {
@@ -384,8 +384,8 @@
         "language": "en"
       },
       "political_score": 0,
-      "tech_score": 0.8,
-      "trust_score": 7
+      "tech_score": 0.7,
+      "trust_score": 8
     },
     {
       "id": "88ac57dc-dc79-46d2-b65a-96dfced7b117",
@@ -419,8 +419,8 @@
         "paywall": true,
         "language": "en"
       },
-      "political_score": 0.3,
-      "tech_score": -0.1,
+      "political_score": 0.5,
+      "tech_score": 0.2,
       "trust_score": 8
     },
     {
@@ -455,7 +455,7 @@
         "paywall": false,
         "language": "en"
       },
-      "political_score": -0.5,
+      "political_score": -0.7,
       "tech_score": 0,
       "trust_score": 7
     },
@@ -491,8 +491,8 @@
         "paywall": false,
         "language": "en"
       },
-      "political_score": 0.2,
-      "tech_score": -0.1,
+      "political_score": 0,
+      "tech_score": 0.1,
       "trust_score": 7
     },
     {
@@ -528,7 +528,7 @@
         "language": "en"
       },
       "political_score": -0.5,
-      "tech_score": 0,
+      "tech_score": 0.1,
       "trust_score": 7
     },
     {
@@ -563,8 +563,8 @@
         "paywall": true,
         "language": "en"
       },
-      "political_score": -0.7,
-      "tech_score": 0.1,
+      "political_score": -0.6,
+      "tech_score": -0.8,
       "trust_score": 7
     },
     {
@@ -666,9 +666,9 @@
         "paywall": false,
         "language": "en"
       },
-      "political_score": 0.1,
+      "political_score": 0.2,
       "tech_score": 0.7,
-      "trust_score": 7
+      "trust_score": 8
     },
     {
       "id": "f52fc8ab-f209-4be4-996a-231550d36f33",
@@ -703,7 +703,7 @@
         "language": "en"
       },
       "political_score": 0,
-      "tech_score": 0.2,
+      "tech_score": 0.1,
       "trust_score": 8
     },
     {
@@ -772,7 +772,7 @@
         "paywall": false,
         "language": "en"
       },
-      "political_score": -0.2,
+      "political_score": 0.2,
       "tech_score": 0.1,
       "trust_score": 7
     },
@@ -807,7 +807,7 @@
         "language": "en"
       },
       "political_score": 0,
-      "tech_score": 0.5,
+      "tech_score": 0.7,
       "trust_score": 8
     },
     {
@@ -842,7 +842,7 @@
       },
       "political_score": 0.5,
       "tech_score": 0.2,
-      "trust_score": 7
+      "trust_score": 8
     },
     {
       "id": "b50f0464-28bb-4515-a92c-4dc975c111bb",
@@ -877,7 +877,7 @@
         "language": "en"
       },
       "political_score": 0,
-      "tech_score": 1,
+      "tech_score": 0.7,
       "trust_score": 7
     },
     {
@@ -945,9 +945,9 @@
         "paywall": true,
         "language": "en"
       },
-      "political_score": -0.8,
-      "tech_score": 0,
-      "trust_score": 6
+      "political_score": -0.7,
+      "tech_score": 0.2,
+      "trust_score": 7
     },
     {
       "id": "16e11ef3-593f-40ea-8e77-33b45752a403",
@@ -983,7 +983,7 @@
       },
       "political_score": 0,
       "tech_score": 0.2,
-      "trust_score": 7
+      "trust_score": 8
     },
     {
       "id": "af6bb9dc-4149-4347-9e6b-688be4cdea73",
@@ -1017,8 +1017,8 @@
         "paywall": true,
         "language": "en"
       },
-      "political_score": 0,
-      "tech_score": 0.2,
+      "political_score": 0.1,
+      "tech_score": -0.2,
       "trust_score": 7
     },
     {
@@ -1054,7 +1054,7 @@
         "language": "en"
       },
       "political_score": 0.1,
-      "tech_score": 0.2,
+      "tech_score": -0.1,
       "trust_score": 7
     },
     {
@@ -1089,8 +1089,8 @@
         "paywall": true,
         "language": "en"
       },
-      "political_score": 0.1,
-      "tech_score": 0.8,
+      "political_score": 0,
+      "tech_score": 0.7,
       "trust_score": 8
     },
     {
@@ -1125,7 +1125,7 @@
         "language": "en"
       },
       "political_score": 0,
-      "tech_score": 0.2,
+      "tech_score": -0.1,
       "trust_score": 7
     },
     {
@@ -1161,7 +1161,7 @@
         "language": "en"
       },
       "political_score": 0,
-      "tech_score": 0.8,
+      "tech_score": 0.7,
       "trust_score": 7
     },
     {
@@ -1194,8 +1194,8 @@
         "paywall": true,
         "language": "en"
       },
-      "political_score": 0.2,
-      "tech_score": 0.6,
+      "political_score": 0.3,
+      "tech_score": 0.7,
       "trust_score": 7
     },
     {
@@ -1228,7 +1228,7 @@
         "paywall": false,
         "language": "en"
       },
-      "political_score": 0.2,
+      "political_score": 0.3,
       "tech_score": 0.7,
       "trust_score": 7
     },
@@ -1264,9 +1264,9 @@
         "paywall": true,
         "language": "en"
       },
-      "political_score": -0.4,
-      "tech_score": 0.2,
-      "trust_score": 7
+      "political_score": -0.2,
+      "tech_score": -0.4,
+      "trust_score": 8
     },
     {
       "id": "6acb9ba4-ce05-46d1-8f05-9297ce790d15",
@@ -1301,8 +1301,8 @@
         "language": "en"
       },
       "political_score": 0,
-      "tech_score": 0.7,
-      "trust_score": 7
+      "tech_score": 0.8,
+      "trust_score": 8
     },
     {
       "id": "15e566bc-7a32-4f6f-99ed-ded7b17a5d4f",
@@ -1338,7 +1338,7 @@
       },
       "political_score": 0,
       "tech_score": 1,
-      "trust_score": 8
+      "trust_score": 9
     },
     {
       "id": "7aad2752-e872-411f-9b7f-4b792d095f48",
@@ -1372,7 +1372,7 @@
       },
       "political_score": 0,
       "tech_score": 0.5,
-      "trust_score": 8
+      "trust_score": 7
     },
     {
       "id": "37926936-c03e-466d-a4a9-d4816233f3a8",
@@ -1475,8 +1475,8 @@
         "language": "en"
       },
       "political_score": 0,
-      "tech_score": 1,
-      "trust_score": 8
+      "tech_score": 0.7,
+      "trust_score": 7
     },
     {
       "id": "cc57c99b-0ae6-4d7c-b4b6-bcb0df870f69",
@@ -1511,7 +1511,7 @@
         "language": "en"
       },
       "political_score": 0,
-      "tech_score": 0.3,
+      "tech_score": 0.2,
       "trust_score": 8
     },
     {
@@ -1581,7 +1581,7 @@
         "paywall": true,
         "language": "en"
       },
-      "political_score": 0.1,
+      "political_score": 0,
       "tech_score": 0.2,
       "trust_score": 7
     },
@@ -1721,7 +1721,7 @@
       },
       "political_score": 0,
       "tech_score": 0.8,
-      "trust_score": 8
+      "trust_score": 9
     },
     {
       "id": "04622fb0-f699-4603-9d09-2b266072a104",
@@ -1753,8 +1753,8 @@
         "paywall": false,
         "language": "en"
       },
-      "political_score": 0.1,
-      "tech_score": 0.7,
+      "political_score": 0,
+      "tech_score": 0.8,
       "trust_score": 8
     },
     {
@@ -1787,8 +1787,8 @@
         "paywall": false,
         "language": "en"
       },
-      "political_score": 0.1,
-      "tech_score": 0.7,
+      "political_score": 0,
+      "tech_score": 0.5,
       "trust_score": 8
     },
     {
@@ -1821,9 +1821,9 @@
         "paywall": false,
         "language": "en"
       },
-      "political_score": 0,
-      "tech_score": 0.5,
-      "trust_score": 8
+      "political_score": 0.1,
+      "tech_score": 0.2,
+      "trust_score": 7
     },
     {
       "id": "e203782f-fb80-4d16-ad63-8e056885a325",
@@ -1857,7 +1857,7 @@
       },
       "political_score": 0,
       "tech_score": 0,
-      "trust_score": 8
+      "trust_score": 1
     },
     {
       "id": "f016011c-6896-4f70-8a5f-4f56aaaa16df",
@@ -1890,7 +1890,7 @@
         "language": "en"
       },
       "political_score": 0,
-      "tech_score": 0.8,
+      "tech_score": 0.7,
       "trust_score": 8
     },
     {
@@ -1924,7 +1924,7 @@
         "language": "en"
       },
       "political_score": 0,
-      "tech_score": 0.7,
+      "tech_score": 0.8,
       "trust_score": 8
     },
     {
@@ -1958,7 +1958,7 @@
         "language": "en"
       },
       "political_score": 0,
-      "tech_score": 0.1,
+      "tech_score": 0,
       "trust_score": 8
     },
     {
@@ -1991,8 +1991,8 @@
         "paywall": false,
         "language": "en"
       },
-      "political_score": 0.1,
-      "tech_score": 0.7,
+      "political_score": 0,
+      "tech_score": 0.5,
       "trust_score": 8
     },
     {
@@ -2026,7 +2026,7 @@
         "language": "en"
       },
       "political_score": -0.5,
-      "tech_score": -0.5,
+      "tech_score": 0,
       "trust_score": 7
     },
     {
@@ -2097,9 +2097,9 @@
         "paywall": true,
         "language": "en"
       },
-      "political_score": 0.7,
-      "tech_score": 0.2,
-      "trust_score": 7
+      "political_score": 0.8,
+      "tech_score": 0.1,
+      "trust_score": 8
     },
     {
       "id": "17448743-9f27-427b-aa46-4a5c03d26a57",
@@ -2134,7 +2134,7 @@
         "language": "en"
       },
       "political_score": 1,
-      "tech_score": 0.5,
+      "tech_score": 0.2,
       "trust_score": 7
     },
     {
@@ -2168,7 +2168,7 @@
         "language": "en"
       },
       "political_score": 0,
-      "tech_score": 0.3,
+      "tech_score": 0.5,
       "trust_score": 8
     },
     {
