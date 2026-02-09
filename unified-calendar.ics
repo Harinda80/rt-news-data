@@ -1,0 +1,354 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Harinda Unified Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Harinda Unified Calendar
+X-WR-TIMEZONE:Europe/Rome
+X-WR-CALDESC:Unified view of FAO, UNICEF, and Personal calendars
+BEGIN:VTIMEZONE
+TZID:Europe/Rome
+BEGIN:STANDARD
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:UNICEF-040000008200E00074C5B7101A82E00800000000D2182FE61D8ADC0100000000000000001000000059F8E58D98F0FA4685EBE1BB9B163EF2
+DTSTAMP:20260209T174123
+DTSTART;TZID=Europe/Rome:20260210T150000
+DTEND;TZID=Europe/Rome:20260210T160000
+SUMMARY:[UNICEF] Monthly check-in: PM <> Business Mentor <> AGENTSIA
+DESCRIPTION:I'll be on leave on 17 Feb. Can we shift it 1 week earlier on 10 Feb?\n________________________________\nExtending our future monthly meetings by 15m to give us the full hour.\n________________________________\nUpdate: The original monthly 1.5h check-in meeting recurring every 3rd Tue of the month at 9AM (EST/Boston), 2PM (GMT/Mali), 3PM (CET/Rome/Stockholm) ending on May 2027.will be split into 2 x 45m on the same meeting link.\n\n  *\nAgenda for first 45m (involving Harinda) (this meeting): Workplan progress update on key progress and issues/roadblocks (non-technical) (20m) + business mentorship (25m)\n  *\nAgenda for 2nd 45m (involving Alex, your main technical mentor) : Update on open source and technical milestones in the workplan (20m) + open source/technical mentorship (25m)\n\n________________________________\n\nThis is a monthly 1.5h check-in meeting recurring every 3rd Tue of the month at 9AM (EST/Boston), 2PM (GMT/Mali), 3PM (CET/Rome/Stockholm) ending on May 2027.\n\nAGENTSIA’s contract details are as such:\nStart date\nEnd date\n26.11.2025\n31.05.2027\n\nPlease inform me beforehand if you wish to reschedule e.g. It lands on a public holiday.\nWe will start with 1.5h every month involving Harinda (Business Strategy Mentor) and decide later whether to split this into 2 meetings (45m) if you wish to have more dedicated face-time for Business Strategy Mentorship or keep it as it is.\n\n\n  *   Agenda: Workplan progress update on key progress and issues/roadblocks (45m) + business mentorship (45m)\n  *   Please choose from one of the reporting options:\n     *   Karma<https://www.karmahq.xyz/projects>\n     *   ​​​​UNICEF Monthly Report_AGENTSIA.pptx<https://unicef.sharepoint.com/:p:/r/teams/OOI-Venture/Ventures%20Shared%20Folder/Venture%20Fund/Startup%20Portfolio%20Management/Data%20Trust%20Cohort%20(2026)/Company%20Folders/AGENTSIA/Monthly%20Updates/UNICEF%20Monthly%20Report_AGENTSIA.pptx?d=w92528610969d42a0afa1b3febe432f88&csf=1&web=1&e=Mgs8Du>​​​​\n     *    ​​​​​AGENTSIA SAS_Workplan+financials FINAL.xlsx<https://unicef.sharepoint.com/:x:/r/teams/OOI-Venture/Ventures%20Shared%20Folder/Venture%20Fund/Startup%20Portfolio%20Management/Data%20Trust%20Cohort%20(2026)/Company%20Folders/AGENTSIA/Workplan/AGENTSIA%20SAS_Workplan+financials%20FINAL.xlsx?d=w2aee04d860284a7eafba935b2cf14118&csf=1&web=1&e=7YhrRr>​​​​\n     *   Your open source and data privacy milestones can be updated separately in these checklists to allow timely check-ins and verification between you and your mentors:\n           *   ​​​​Open Source Contractual Obligations Checklist.docx<https://unicef.sharepoint.com/:w:/r/teams/OOI-Venture/Ventures%20Shared%20Folder/Venture%20Fund/Startup%20Portfolio%20Management/Data%20Trust%20Cohort%20(2026)/Company%20Folders/AGENTSIA/Workplan/Open%20Source%20Contractual%20Obligations%20Checklist.docx?d=w338dea96f3d5413181281a0dda41ae76&csf=1&web=1&e=3OIbOr>​​​​\n           *   ​​​​Privacy & Security Awareness Contractual Obligations Checklist.docx<https://unicef.sharepoint.com/:w:/r/teams/OOI-Venture/Ventures%20Shared%20Folder/Venture%20Fund/Startup%20Portfolio%20Management/Data%20Trust%20Cohort%20(2026)/Company%20Folders/AGENTSIA/Workplan/Privacy%20%26%20Security%20Awareness%20Contractual%20Obligations%20Checklist.docx?d=wd4260a18ebbd40bc9aac6b2e55acdb9b&csf=1&web=1&e=5qWrMk>​​​​ (Your Q1 milestone will require you to complete your ​​​​Privacy Impact Assessment (PIA).docx<https://unicef.sharepoint.com/:w:/r/teams/OOI-Venture/Ventures%20Shared%20Folder/Venture%20Fund/Startup%20Portfolio%20Management/Data%20Trust%20Cohort%20(2026)/Company%20Folders/AGENTSIA/Workplan/Privacy%20Impact%20Assessment%20(PIA).docx?d=w122cfd09498d43aca8c258edfcb6c73a&csf=1&web=1&e=XEcF3s>​​​​)\n\n\n\n\n\n________________________________________________________________________________\nMicrosoft Teams meeting\nJoin: https://teams.microsoft.com/meet/39636765420780?p=FwS4eJglnDaEFq079M\nMeeting ID: 396 367 654 207 80\nPasscode: 7HJ73Xc3\n________________________________\nNeed help?<https://aka.ms/JoinTeamsMeeting?omkt=en-US> | System reference<https://teams.microsoft.com/l/meetup-join/19%3ameeting_YTVkOWMyZTktNmZiYy00YTNhLTg0YWItOTFiYTA0ZTdlMjU3%40thread.v2/0?context=%7b%22Tid%22%3a%2277410195-14e1-4fb8-904b-ab1892023667%22%2c%22Oid%22%3a%22fe9df8d3-c4eb-4de2-8a3f-132a68ff0030%22%7d>\nDial in by phone\n+45 32 72 47 86,,107452077#<tel:+4532724786,,107452077#> Denmark, All locations\nFind a local number<https://dialin.teams.microsoft.com/48734644-d9b5-4906-a15b-79fd7a5f1272?id=107452077>\nPhone conference ID: 107 452 077#\nJoin on a video conferencing device\nTenant key: teams@unicef.onpexip.com\nVideo ID: 121 993 938 8\nMore info<https://pexip.me/teams/unicef.onpexip.com/1219939388>\nFor organizers: Meeting options<https://teams.microsoft.com/meetingOptions/?organizerId=fe9df8d3-c4eb-4de2-8a3f-132a68ff0030&tenantId=77410195-14e1-4fb8-904b-ab1892023667&threadId=19_meeting_YTVkOWMyZTktNmZiYy00YTNhLTg0YWItOTFiYTA0ZTdlMjU3@thread.v2&messageId=0&language=en-US> | Reset dial-in PIN<https://dialin.teams.microsoft.com/usp/pstnconferencing>\n________________________________________________________________________________\n
+LOCATION:Microsoft Teams Meeting
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:FAO-040000008200E00074C5B7101A82E00800000000D544A2C94489DC0100000000000000001000000030AF2D911E97A443A68426082597C540
+DTSTAMP:20260209T174123
+DTSTART;TZID=Europe/Rome:20260210T170000
+DTEND;TZID=Europe/Rome:20260210T190000
+SUMMARY:[FAO] Aperitivo Karen
+DESCRIPTION:
+LOCATION:rosso
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:UNICEF-040000008200E00074C5B7101A82E00800000000B99CB9C9AC91DC01000000000000000010000000425E637FCF1C62428021DA147317337F
+DTSTAMP:20260209T174123
+DTSTART;TZID=Europe/Rome:20260211T113000
+DTEND;TZID=Europe/Rome:20260211T123000
+SUMMARY:[UNICEF] Matific Intro
+DESCRIPTION:\n________________________________________________________________________________\nMicrosoft Teams meeting\nJoin: https://teams.microsoft.com/meet/36135924887180?p=HO9BSbhdAZbKVbjuJv\nMeeting ID: 361 359 248 871 80\nPasscode: gm6HN9du\n________________________________\nNeed help?<https://aka.ms/JoinTeamsMeeting?omkt=en-GB> | System reference<https://teams.microsoft.com/l/meetup-join/19%3ameeting_NjcyMzk2NDYtMzEyMC00YjQwLWEwOGUtMjQ4ZTA3MDJlNDM4%40thread.v2/0?context=%7b%22Tid%22%3a%2277410195-14e1-4fb8-904b-ab1892023667%22%2c%22Oid%22%3a%22aca8de03-30d7-4438-8f04-792cd470898a%22%7d>\nDial in by phone\n+45 32 72 47 86,,280488706#<tel:+4532724786,,280488706#> Denmark, All locations\nFind a local number<https://dialin.teams.microsoft.com/48734644-d9b5-4906-a15b-79fd7a5f1272?id=280488706>\nPhone conference ID: 280 488 706#\nJoin on a video conferencing device\nTenant key: teams@unicef.onpexip.com\nVideo ID: 123 278 246 8\nMore info<https://pexip.me/teams/unicef.onpexip.com/1232782468>\nFor organisers: Meeting options<https://teams.microsoft.com/meetingOptions/?organizerId=aca8de03-30d7-4438-8f04-792cd470898a&tenantId=77410195-14e1-4fb8-904b-ab1892023667&threadId=19_meeting_NjcyMzk2NDYtMzEyMC00YjQwLWEwOGUtMjQ4ZTA3MDJlNDM4@thread.v2&messageId=0&language=en-GB> | Reset dial-in PIN<https://dialin.teams.microsoft.com/usp/pstnconferencing>\n________________________________________________________________________________\n
+LOCATION:Microsoft Teams Meeting
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:FAO-040000008200E00074C5B7101A82E008000000007BC46D5F0695DC01000000000000000010000000FAA52029C279A3429879A7A5D782AF84
+DTSTAMP:20260209T174123
+DTSTART;TZID=Europe/Rome:20260211T140000
+DTEND;TZID=Europe/Rome:20260211T150000
+SUMMARY:[FAO] RE: AI + Soil :: Use Cases
+DESCRIPTION:
+LOCATION:Microsoft Teams Meeting
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:UNICEF-040000008200E00074C5B7101A82E00800000000D860C63B5E85DC01000000000000000010000000F551DAD32194A446B298084CA57AC64F
+DTSTAMP:20260209T174123
+DTSTART;TZID=Europe/Rome:20260211T140000
+DTEND;TZID=Europe/Rome:20260211T150000
+SUMMARY:[UNICEF] Health Cohort Graduation/Closeout: Impact, Insights & What’s Next
+DESCRIPTION:Great news—the founders are all available and set for next week! I’ve updated the calendar invite accordingly. Excited to dive in with you next Wed.\n\nP.s. I'll keep the cal hold on 11 Mar for the time being just in case of follow-ups/any cohort fellows want to reconnect. 🙂\n\n________________________________\n\nDear Health Cohort\n\nWe're hosting a virtual group recap session to reflect, share learnings, and celebrate the work your team and others have advanced over the past year.\n\nIn this 60 minute session, companies will have the opportunity to:\n\n  *   Share what you built or improved during the cohort - 4 minutes per company (you're welcome to show your user-facing front-end demo  and/or share the impact slides you had prepared for your graduation roundtable)- 15-20 minutes in total\n  *   Highlight key lessons learned - 15 minutes\n  *   Briefly discuss next steps in your journey - 15 minutes\n  *   Offer feedback on the experience and support provided - 10 minutes\n\nThe goal is to spotlight the momentum you've created and provide pathways for shared learnings and potential collaboration. We hope you can join us!\n\nThe tentative dates (holds sent) are 11 Feb (Wed) or 11 Mar (Wed) in the following local time zones.\n\nPlease rsvp directly indicating your availability to both holds/dates so that I can go with the date where ideally all the founders from BITZ, CareNX, Docokids and Moner Bondhu and most of the other team members/mentor are available.\n\nLocation\nTimezone\nOffset\nLocal Time\nSweden / CET\nCET\nUTC+1\n2:00 PM\nNew York / Washington\nEST\nUTC-5\n8:00 AM\nColombia\nCOT\nUTC-5\n8:00 AM\nKenya\nEAT\nUTC+3\n4:00 PM\nIndia\nIST\nUTC+5:30\n6:30 PM\nBangladesh\nBST\nUTC+6\n7:00 PM\nRegards\nDesiree\n\n\n________________________________________________________________________________\nMicrosoft Teams meeting\nJoin: https://teams.microsoft.com/meet/33360105185877?p=XBcV5f4wnyVvuuH59W\nMeeting ID: 333 601 051 858 77\nPasscode: Ys6uc9Fu\n________________________________\nNeed help?<https://aka.ms/JoinTeamsMeeting?omkt=en-US> | System reference<https://teams.microsoft.com/l/meetup-join/19%3ameeting_N2EwMzA4NWEtYWRlYy00M2IwLWJlZDUtNGM4MGNhY2QxZDY3%40thread.v2/0?context=%7b%22Tid%22%3a%2277410195-14e1-4fb8-904b-ab1892023667%22%2c%22Oid%22%3a%22fe9df8d3-c4eb-4de2-8a3f-132a68ff0030%22%7d>\nDial in by phone\n+45 32 72 47 86,,330991181#<tel:+4532724786,,330991181#> Denmark, All locations\nFind a local number<https://dialin.teams.microsoft.com/48734644-d9b5-4906-a15b-79fd7a5f1272?id=330991181>\nPhone conference ID: 330 991 181#\nJoin on a video conferencing device\nTenant key: teams@unicef.onpexip.com\nVideo ID: 128 826 381 9\nMore info<https://pexip.me/teams/unicef.onpexip.com/1288263819>\nFor organizers: Meeting options<https://teams.microsoft.com/meetingOptions/?organizerId=fe9df8d3-c4eb-4de2-8a3f-132a68ff0030&tenantId=77410195-14e1-4fb8-904b-ab1892023667&threadId=19_meeting_N2EwMzA4NWEtYWRlYy00M2IwLWJlZDUtNGM4MGNhY2QxZDY3@thread.v2&messageId=0&language=en-US> | Reset dial-in PIN<https://dialin.teams.microsoft.com/usp/pstnconferencing>\n________________________________________________________________________________\n
+LOCATION:Microsoft Teams Meeting
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:Personal-fddc509c-0f0e-4ad0-914e-352168d2eb89
+DTSTAMP:20260209T174123
+DTSTART;TZID=Europe/Rome:20260211T153000
+DTEND;TZID=Europe/Rome:20260211T163000
+SUMMARY:[Personal] [RT] RT - Weekly Meeting
+DESCRIPTION:<br><br>Hi all,<br><br>We'll meet on Riverside for these team meetings. If you aren't already, please get familiar with Riverside since you'll be spending a lot of time on it :) <br><br>Also, if you can't make a meeting on any week, please let us know as soon as possible. <br><br>Chat soon,<br>Aparna<br><br>Riverside Link: <a href=https://riverside.com/studio/aparnas-studio-I9wsv?t=0aef488e6affa6dd709c target=_blank><u>https://riverside.com/studio/aparnas-studio-I9wsv?t=0aef488e6affa6dd709c</u></a><br><br><ol><br></ol>\n\nJoin with Google Meet: https://meet.google.com/qpw-frth-ruc\n\nLearn more about Meet at: https://support.google.com/a/users/answer/9282720\n\nPartecipa con Google Meet: https://meet.google.com/qpw-frth-ruc\n\nScopri di più su Meet all’indirizzo: https://support.google.com/a/users/answer/9282720
+LOCATION:https://riverside.com/studio/aparnas-studio-I9wsv?t=0aef488e6affa6dd709c
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:Personal-7nhq70p5648hi6852k5vgo3nth@google.com
+DTSTAMP:20260209T174123
+DTSTART;TZID=Europe/Rome:20260211T163000
+DTEND;TZID=Europe/Rome:20260211T173000
+SUMMARY:[Personal] RT - Weekly Meeting
+DESCRIPTION:<br><br>Hi all,<br><br>We'll meet on Riverside for these team meetings. If you aren't already, please get familiar with Riverside since you'll be spending a lot of time on it :) <br><br>Also, if you can't make a meeting on any week, please let us know as soon as possible. <br><br>Chat soon,<br>Aparna<br><br>Riverside Link: <a href="https://riverside.com/studio/aparnas-studio-I9wsv?t=0aef488e6affa6dd709c" target="_blank"><u>https://riverside.com/studio/aparnas-studio-I9wsv?t=0aef488e6affa6dd709c</u></a><br><br><ol><br></ol>\n\nPartecipa con Google Meet: https://meet.google.com/qpw-frth-ruc\n\nScopri di più su Meet all’indirizzo: https://support.google.com/a/users/answer/9282720
+LOCATION:https://riverside.com/studio/aparnas-studio-I9wsv?t=0aef488e6affa6dd709c
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:FAO-6pufmmmofjk6fb925fif4j72qc@google.com
+DTSTAMP:20260209T174123
+DTSTART;TZID=Europe/Rome:20260211T173000
+DTEND;TZID=Europe/Rome:20260211T180000
+SUMMARY:[FAO] Connect re: FAO data & AI projects
+DESCRIPTION:
+LOCATION:US-SFO-MKT1-10-H-Free Fallin (7) [GVC]; https://meet.google.com/bnj-dptf-gcj
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:FAO-040000008200E00074C5B7101A82E00800000000D0741F9F7C97DC01000000000000000010000000B6480E7B7D85C248B6F8F903D6D5D4F4
+DTSTAMP:20260209T174123
+DTSTART;TZID=Europe/Rome:20260212T143000
+DTEND;TZID=Europe/Rome:20260212T151500
+SUMMARY:[FAO] Data & AI strategy for digital agriculture and agrifood systems
+DESCRIPTION:
+LOCATION:OIN-Meeting-room-C604
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:Personal-8c286f2d-d997-4d43-9f0d-b29caf9712ac
+DTSTAMP:20260209T174123
+DTSTART;TZID=Europe/Rome:20260212T153000
+DTEND;TZID=Europe/Rome:20260212T173000
+SUMMARY:[Personal] [Personal] X10s + weekly 
+DESCRIPTION:\n________________________________________________________________________________\nMicrosoft Teams meeting\nJoin: https://teams.microsoft.com/meet/34549438112309?p=8L0WqrJWYm4Vj1c24N\nMeeting ID: 345 494 381 123 09\nPasscode: vV2ko7LF\n________________________________\nNeed help?<https://aka.ms/JoinTeamsMeeting?omkt=en-US> | System reference<https://teams.microsoft.com/l/meetup-join/19%3ameeting_N2ZjNDA2YzctM2E2YS00YzRjLThiYTgtN2UwMDUzOWYwYzBm%40thread.v2/0?context=%7b%22Tid%22%3a%22b3e5db5e-2944-4837-99f5-7488ace54319%22%2c%22Oid%22%3a%22d1c450a4-44f4-40fd-b30b-3b011582d403%22%7d>\nJoin on a video conferencing device\nTenant key: teams@undp.onpexip.com\nVideo ID: 126 008 702 1\nMore info<https://pexip.me/teams/undp.onpexip.com/1260087021>\nFor organizers: Meeting options<https://teams.microsoft.com/meetingOptions/?organizerId=d1c450a4-44f4-40fd-b30b-3b011582d403&tenantId=b3e5db5e-2944-4837-99f5-7488ace54319&threadId=19_meeting_N2ZjNDA2YzctM2E2YS00YzRjLThiYTgtN2UwMDUzOWYwYzBm@thread.v2&messageId=0&language=en-US>\n________________________________________________________________________________\n
+LOCATION:Microsoft Teams Meeting
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:Personal-040000008200E00074C5B7101A82E008000000004859A37D8E97DC01000000000000000010000000C2F2F3DDEAF6554B9961917EC6EE28EE
+DTSTAMP:20260209T174123
+DTSTART;TZID=Europe/Rome:20260212T163000
+DTEND;TZID=Europe/Rome:20260212T183000
+SUMMARY:[Personal] X10s + weekly 
+DESCRIPTION:\n________________________________________________________________________________\nMicrosoft Teams meeting\nJoin: https://teams.microsoft.com/meet/34549438112309?p=8L0WqrJWYm4Vj1c24N\nMeeting ID: 345 494 381 123 09\nPasscode: vV2ko7LF\n________________________________\nNeed help?<https://aka.ms/JoinTeamsMeeting?omkt=en-US> | System reference<https://teams.microsoft.com/l/meetup-join/19%3ameeting_N2ZjNDA2YzctM2E2YS00YzRjLThiYTgtN2UwMDUzOWYwYzBm%40thread.v2/0?context=%7b%22Tid%22%3a%22b3e5db5e-2944-4837-99f5-7488ace54319%22%2c%22Oid%22%3a%22d1c450a4-44f4-40fd-b30b-3b011582d403%22%7d>\nJoin on a video conferencing device\nTenant key: teams@undp.onpexip.com\nVideo ID: 126 008 702 1\nMore info<https://pexip.me/teams/undp.onpexip.com/1260087021>\nFor organizers: Meeting options<https://teams.microsoft.com/meetingOptions/?organizerId=d1c450a4-44f4-40fd-b30b-3b011582d403&tenantId=b3e5db5e-2944-4837-99f5-7488ace54319&threadId=19_meeting_N2ZjNDA2YzctM2E2YS00YzRjLThiYTgtN2UwMDUzOWYwYzBm@thread.v2&messageId=0&language=en-US>\n________________________________________________________________________________\n
+LOCATION:Microsoft Teams Meeting
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:Personal-8c172b3f-2a5f-4273-b627-a72ff2143f42
+DTSTAMP:20260209T174123
+DTSTART;TZID=Europe/Rome:20260212T220000
+DTEND;TZID=Europe/Rome:20260212T223000
+SUMMARY:[Personal] [Personal] [FAO] Nick / Harinda
+DESCRIPTION:
+LOCATION:Microsoft Teams Meeting
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:Personal-0577c5c2-e32f-4580-958d-91e84b25744d
+DTSTAMP:20260209T174123
+DTSTART;TZID=Europe/Rome:20260212T220000
+DTEND;TZID=Europe/Rome:20260212T223000
+SUMMARY:[Personal] [FAO] Nick / Harinda
+DESCRIPTION:
+LOCATION:Microsoft Teams Meeting
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:FAO-040000008200E00074C5B7101A82E0080000000072A441EB1292DC0100000000000000001000000061A4FEA04896E447B3B9FF9626CB779D
+DTSTAMP:20260209T174123
+DTSTART;TZID=Europe/Rome:20260212T230000
+DTEND;TZID=Europe/Rome:20260212T233000
+SUMMARY:[FAO] Nick / Harinda
+DESCRIPTION:
+LOCATION:Microsoft Teams Meeting
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:Personal-9078a980-7dc8-40dc-bc37-5fd7a6f6c95a
+DTSTAMP:20260209T174123
+DTSTART;TZID=Europe/Rome:20260212T230000
+DTEND;TZID=Europe/Rome:20260212T233000
+SUMMARY:[Personal] [FAO] Nick / Harinda
+DESCRIPTION:
+LOCATION:Microsoft Teams Meeting
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:Personal-c87749a9-4e0d-4e23-bd84-b7dd0fd62316
+DTSTAMP:20260209T174123
+DTSTART;TZID=Europe/Rome:20260212T230000
+DTEND;TZID=Europe/Rome:20260212T233000
+SUMMARY:[Personal] [UNICEF] Busy-F
+DESCRIPTION:Auto-blocking invite for: Nick / Harinda\nTime: 2/12/2026, 11:00:00 PM - 2/12/2026, 11:30:00 PM\n\nThis blocks your calendar to prevent double-bookings.\n
+LOCATION:
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:Personal-41205062-ec9a-46ff-b300-5d557ad81b16
+DTSTAMP:20260209T174123
+DTSTART;TZID=Europe/Rome:20260216T153000
+DTEND;TZID=Europe/Rome:20260216T163000
+SUMMARY:[Personal] [Personal] [Personal] x10s 
+DESCRIPTION:\n________________________________________________________________________________\nMicrosoft Teams meeting\nJoin: https://teams.microsoft.com/meet/36912895892103?p=1N6AEleECzr7hWhd8O\nMeeting ID: 369 128 958 921 03\nPasscode: U2Wi9Nv6\n________________________________\nNeed help?<https://aka.ms/JoinTeamsMeeting?omkt=en-US> | System reference<https://teams.microsoft.com/l/meetup-join/19%3ameeting_OGVkZmEyZmYtZmI1Mi00N2E4LTkzNjctYTA3MWJmMTcyMmE2%40thread.v2/0?context=%7b%22Tid%22%3a%22b3e5db5e-2944-4837-99f5-7488ace54319%22%2c%22Oid%22%3a%22d1c450a4-44f4-40fd-b30b-3b011582d403%22%7d>\nJoin on a video conferencing device\nTenant key: teams@undp.onpexip.com\nVideo ID: 124 268 759 7\nMore info<https://pexip.me/teams/undp.onpexip.com/1242687597>\nFor organizers: Meeting options<https://teams.microsoft.com/meetingOptions/?organizerId=d1c450a4-44f4-40fd-b30b-3b011582d403&tenantId=b3e5db5e-2944-4837-99f5-7488ace54319&threadId=19_meeting_OGVkZmEyZmYtZmI1Mi00N2E4LTkzNjctYTA3MWJmMTcyMmE2@thread.v2&messageId=0&language=en-US>\n________________________________________________________________________________\n
+LOCATION:Microsoft Teams Meeting
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:Personal-040000008200E00074C5B7101A82E00800000000AC726C938E97DC010000000000000000100000003565D42677C1934CB522C9322FD40A27
+DTSTAMP:20260209T174123
+DTSTART;TZID=Europe/Rome:20260216T163000
+DTEND;TZID=Europe/Rome:20260216T173000
+SUMMARY:[Personal] x10s 
+DESCRIPTION:\n________________________________________________________________________________\nMicrosoft Teams meeting\nJoin: https://teams.microsoft.com/meet/36912895892103?p=1N6AEleECzr7hWhd8O\nMeeting ID: 369 128 958 921 03\nPasscode: U2Wi9Nv6\n________________________________\nNeed help?<https://aka.ms/JoinTeamsMeeting?omkt=en-US> | System reference<https://teams.microsoft.com/l/meetup-join/19%3ameeting_OGVkZmEyZmYtZmI1Mi00N2E4LTkzNjctYTA3MWJmMTcyMmE2%40thread.v2/0?context=%7b%22Tid%22%3a%22b3e5db5e-2944-4837-99f5-7488ace54319%22%2c%22Oid%22%3a%22d1c450a4-44f4-40fd-b30b-3b011582d403%22%7d>\nJoin on a video conferencing device\nTenant key: teams@undp.onpexip.com\nVideo ID: 124 268 759 7\nMore info<https://pexip.me/teams/undp.onpexip.com/1242687597>\nFor organizers: Meeting options<https://teams.microsoft.com/meetingOptions/?organizerId=d1c450a4-44f4-40fd-b30b-3b011582d403&tenantId=b3e5db5e-2944-4837-99f5-7488ace54319&threadId=19_meeting_OGVkZmEyZmYtZmI1Mi00N2E4LTkzNjctYTA3MWJmMTcyMmE2@thread.v2&messageId=0&language=en-US>\n________________________________________________________________________________\n
+LOCATION:Microsoft Teams Meeting
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:Personal-d64ea9d7-bd63-4b75-8950-167f761126d5
+DTSTAMP:20260209T174123
+DTSTART;TZID=Europe/Rome:20260217T140000
+DTEND;TZID=Europe/Rome:20260217T150000
+SUMMARY:[Personal] [UNICEF] Monthly check-in: PM <> Business Mentor <> AGENTSIA
+DESCRIPTION:Extending our future monthly meetings by 15m to give us the full hour.\n________________________________\nUpdate: The original monthly 1.5h check-in meeting recurring every 3rd Tue of the month at 9AM (EST/Boston), 2PM (GMT/Mali), 3PM (CET/Rome/Stockholm) ending on May 2027.will be split into 2 x 45m on the same meeting link.\n\n  *\nAgenda for first 45m (involving Harinda) (this meeting): Workplan progress update on key progress and issues/roadblocks (non-technical) (20m) + business mentorship (25m)\n  *\nAgenda for 2nd 45m (involving Alex, your main technical mentor) : Update on open source and technical milestones in the workplan (20m) + open source/technical mentorship (25m)\n\n________________________________\n\nThis is a monthly 1.5h check-in meeting recurring every 3rd Tue of the month at 9AM (EST/Boston), 2PM (GMT/Mali), 3PM (CET/Rome/Stockholm) ending on May 2027.\n\nAGENTSIA’s contract details are as such:\nStart date\nEnd date\n26.11.2025\n31.05.2027\n\nPlease inform me beforehand if you wish to reschedule e.g. It lands on a public holiday.\nWe will start with 1.5h every month involving Harinda (Business Strategy Mentor) and decide later whether to split this into 2 meetings (45m) if you wish to have more dedicated face-time for Business Strategy Mentorship or keep it as it is.\n\n\n  *   Agenda: Workplan progress update on key progress and issues/roadblocks (45m) + business mentorship (45m)\n  *   Please choose from one of the reporting options:\n     *   Karma<https://www.karmahq.xyz/projects>\n     *   ​​​UNICEF Monthly Report_AGENTSIA.pptx<https://unicef.sharepoint.com/:p:/r/teams/OOI-Venture/Ventures%20Shared%20Folder/Venture%20Fund/Startup%20Portfolio%20Management/Data%20Trust%20Cohort%20(2026)/Company%20Folders/AGENTSIA/Monthly%20Updates/UNICEF%20Monthly%20Report_AGENTSIA.pptx?d=w92528610969d42a0afa1b3febe432f88&csf=1&web=1&e=Mgs8Du>​​​\n     *    ​​​​AGENTSIA SAS_Workplan+financials FINAL.xlsx<https://unicef.sharepoint.com/:x:/r/teams/OOI-Venture/Ventures%20Shared%20Folder/Venture%20Fund/Startup%20Portfolio%20Management/Data%20Trust%20Cohort%20(2026)/Company%20Folders/AGENTSIA/Workplan/AGENTSIA%20SAS_Workplan+financials%20FINAL.xlsx?d=w2aee04d860284a7eafba935b2cf14118&csf=1&web=1&e=7YhrRr>​​​\n     *   Your open source and data privacy milestones can be updated separately in these checklists to allow timely check-ins and verification between you and your mentors:\n           *   ​​​Open Source Contractual Obligations Checklist.docx<https://unicef.sharepoint.com/:w:/r/teams/OOI-Venture/Ventures%20Shared%20Folder/Venture%20Fund/Startup%20Portfolio%20Management/Data%20Trust%20Cohort%20(2026)/Company%20Folders/AGENTSIA/Workplan/Open%20Source%20Contractual%20Obligations%20Checklist.docx?d=w338dea96f3d5413181281a0dda41ae76&csf=1&web=1&e=3OIbOr>​​​\n           *   ​​​Privacy & Security Awareness Contractual Obligations Checklist.docx<https://unicef.sharepoint.com/:w:/r/teams/OOI-Venture/Ventures%20Shared%20Folder/Venture%20Fund/Startup%20Portfolio%20Management/Data%20Trust%20Cohort%20(2026)/Company%20Folders/AGENTSIA/Workplan/Privacy%20%26%20Security%20Awareness%20Contractual%20Obligations%20Checklist.docx?d=wd4260a18ebbd40bc9aac6b2e55acdb9b&csf=1&web=1&e=5qWrMk>​​​ (Your Q1 milestone will require you to complete your ​​​Privacy Impact Assessment (PIA).docx<https://unicef.sharepoint.com/:w:/r/teams/OOI-Venture/Ventures%20Shared%20Folder/Venture%20Fund/Startup%20Portfolio%20Management/Data%20Trust%20Cohort%20(2026)/Company%20Folders/AGENTSIA/Workplan/Privacy%20Impact%20Assessment%20(PIA).docx?d=w122cfd09498d43aca8c258edfcb6c73a&csf=1&web=1&e=XEcF3s>​​​)\n\n\n\n\n\n________________________________________________________________________________\nMicrosoft Teams meeting\nJoin: https://teams.microsoft.com/meet/39636765420780?p=FwS4eJglnDaEFq079M\nMeeting ID: 396 367 654 207 80\nPasscode: 7HJ73Xc3\n________________________________\nNeed help?<https://aka.ms/JoinTeamsMeeting?omkt=en-US> | System reference<https://teams.microsoft.com/l/meetup-join/19%3ameeting_YTVkOWMyZTktNmZiYy00YTNhLTg0YWItOTFiYTA0ZTdlMjU3%40thread.v2/0?context=%7b%22Tid%22%3a%2277410195-14e1-4fb8-904b-ab1892023667%22%2c%22Oid%22%3a%22fe9df8d3-c4eb-4de2-8a3f-132a68ff0030%22%7d>\nDial in by phone\n+45 32 72 47 86,,107452077#<tel:+4532724786,,107452077#> Denmark, All locations\nFind a local number<https://dialin.teams.microsoft.com/48734644-d9b5-4906-a15b-79fd7a5f1272?id=107452077>\nPhone conference ID: 107 452 077#\nJoin on a video conferencing device\nTenant key: teams@unicef.onpexip.com\nVideo ID: 121 993 938 8\nMore info<https://pexip.me/teams/unicef.onpexip.com/1219939388>\nFor organizers: Meeting options<https://teams.microsoft.com/meetingOptions/?organizerId=fe9df8d3-c4eb-4de2-8a3f-132a68ff0030&tenantId=77410195-14e1-4fb8-904b-ab1892023667&threadId=19_meeting_YTVkOWMyZTktNmZiYy00YTNhLTg0YWItOTFiYTA0ZTdlMjU3@thread.v2&messageId=0&language=en-US> | Reset dial-in PIN<https://dialin.teams.microsoft.com/usp/pstnconferencing>\n________________________________________________________________________________\n
+LOCATION:Microsoft Teams Meeting
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:FAO-040000008200E00074C5B7101A82E00800000000CCA803D40695DC01000000000000000010000000BB3CF6C19DD608418E923D3A9875FC75
+DTSTAMP:20260209T174123
+DTSTART;TZID=Europe/Rome:20260219T110000
+DTEND;TZID=Europe/Rome:20260219T170000
+SUMMARY:[FAO] RE: AI + Soil :: Workshop
+DESCRIPTION:
+LOCATION:Microsoft Teams Meeting; OIN-Meeting-room-C604
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:FAO-040000008200E00074C5B7101A82E0080000000020B8A452AF8EDC0100000000000000001000000021BD393B30A8ED45A18EB59B6581B434
+DTSTAMP:20260209T174123
+DTSTART;TZID=Europe/Rome:20260227T100000
+DTEND;TZID=Europe/Rome:20260227T110000
+SUMMARY:[FAO] Save-the-Date - OIN Think Lab
+DESCRIPTION:
+LOCATION:Microsoft Teams Meeting
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:FAO-040000008200E00074C5B7101A82E00800000000857BC4B0EA94DC01000000000000000010000000FF7B3E0AFF2F88438C0C3E3DFF17F04E
+DTSTAMP:20260209T174123
+DTSTART;TZID=Europe/Rome:20260304T090000
+DTEND;TZID=Europe/Rome:20260304T160000
+SUMMARY:[FAO] SAVE THE DATE-Workshop 1-FAO & Illy-innovation scenarios on coffee
+DESCRIPTION:
+LOCATION:AZ
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:FAO-040000008200E00074C5B7101A82E0080000000055EAE104EB94DC01000000000000000010000000FB45AB8D01D3344E981E3E6036571523
+DTSTAMP:20260209T174123
+DTSTART;TZID=Europe/Rome:20260305T090000
+DTEND;TZID=Europe/Rome:20260305T160000
+SUMMARY:[FAO] SAVE THE DATE-Workshop 2-FAO & Illy-innovation scenarios on coffee
+DESCRIPTION:
+LOCATION:AZ
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:Personal-kat3dg8bjs2elqqjee0ace30mg@google.com
+DTSTAMP:20260209T174123
+DTSTART;TZID=Europe/Rome:20260307T080000
+DTEND;TZID=Europe/Rome:20260307T121500
+SUMMARY:[Personal] Apply verderame
+DESCRIPTION:Partecipa con Google Meet: https://meet.google.com/eve-fsyb-eop\n\nScopri di più su Meet all’indirizzo: https://support.google.com/a/users/answer/9282720
+LOCATION:
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:UNICEF-040000008200E00074C5B7101A82E00800000000D78ADC91AC8EDC0100000000000000001000000077E3E60EDD6C8648BEE0881D6E22B346
+DTSTAMP:20260209T174123
+DTSTART;TZID=Europe/Rome:20260311T140000
+DTEND;TZID=Europe/Rome:20260311T150000
+SUMMARY:[UNICEF] [Hold 2/2] Health Cohort Graduation/Closeout: Impact, Insights & What’s Next
+DESCRIPTION:Dear Health Cohort\n\nWe're hosting a virtual group recap session to reflect, share learnings, and celebrate the work your team and others have advanced over the past year.\n\nIn this 60 minute session, companies will have the opportunity to:\n\n  *\nShare what you built or improved during the cohort - 4 minutes per company  (you're welcome to show your user-facing front-end demo  and/or share the impact slides you had prepared for your graduation roundtable)- 15-20 minutes in total\n  *   Highlight key lessons learned - 15 minutes\n  *   Briefly discuss next steps in your journey - 15 minutes\n  *   Offer feedback on the experience and support provided - 10 minutes\n\nThe goal is to spotlight the momentum you've created and provide pathways for shared learnings and potential collaboration. We hope you can join us!\n\nThe tentative dates (holds sent) are 11 Feb (Wed) or 11 Mar (Wed) in the following local time zones.\n\nPlease rsvp directly indicating your availability to both holds/dates so that I can go with the date where ideally all the founders from BITZ, CareNX, Docokids and Moner Bondhu and most of the other team members/mentor are available.\n\n\nLocation\nTimezone\nOffset\nLocal Time\nSweden / CET\nCET\nUTC+1\n2:00 PM\nNew York / Washington\nEST\nUTC-5\n8:00 AM\nColombia\nCOT\nUTC-5\n8:00 AM\nKenya\nEAT\nUTC+3\n4:00 PM\nIndia\nIST\nUTC+5:30\n6:30 PM\nBangladesh\nBST\nUTC+6\n7:00 PM\nRegards\nDesiree\n\n\n________________________________________________________________________________\nMicrosoft Teams meeting\nJoin: https://teams.microsoft.com/meet/31300494627824?p=eXjJn1kQq4MgdZndOR\nMeeting ID: 313 004 946 278 24\nPasscode: je6QU2gN\n________________________________\nNeed help?<https://aka.ms/JoinTeamsMeeting?omkt=en-US> | System reference<https://teams.microsoft.com/l/meetup-join/19%3ameeting_OGM4YzRmYzItYTAzNS00NzE4LThiYmEtNGM2YWIyNzNlOWJj%40thread.v2/0?context=%7b%22Tid%22%3a%2277410195-14e1-4fb8-904b-ab1892023667%22%2c%22Oid%22%3a%22fe9df8d3-c4eb-4de2-8a3f-132a68ff0030%22%7d>\nDial in by phone\n+45 32 72 47 86,,752039768#<tel:+4532724786,,752039768#> Denmark, All locations\nFind a local number<https://dialin.teams.microsoft.com/48734644-d9b5-4906-a15b-79fd7a5f1272?id=752039768>\nPhone conference ID: 752 039 768#\nJoin on a video conferencing device\nTenant key: teams@unicef.onpexip.com\nVideo ID: 122 731 109 7\nMore info<https://pexip.me/teams/unicef.onpexip.com/1227311097>\nFor organizers: Meeting options<https://teams.microsoft.com/meetingOptions/?organizerId=fe9df8d3-c4eb-4de2-8a3f-132a68ff0030&tenantId=77410195-14e1-4fb8-904b-ab1892023667&threadId=19_meeting_OGM4YzRmYzItYTAzNS00NzE4LThiYmEtNGM2YWIyNzNlOWJj@thread.v2&messageId=0&language=en-US> | Reset dial-in PIN<https://dialin.teams.microsoft.com/usp/pstnconferencing>\n________________________________________________________________________________\n
+LOCATION:Microsoft Teams Meeting
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:UNICEF-040000008200E00074C5B7101A82E0080000000094245F19A199DC0100000000000000001000000057C5CBC2EEB5664093D669159D319833
+DTSTAMP:20260209T174123
+DTSTART;TZID=Europe/Rome:20260316T130000
+DTEND;TZID=Europe/Rome:20260316T140000
+SUMMARY:[UNICEF] Monthly check-in: Dabbal <> PM <> Business Mentor
+DESCRIPTION:Updating our monthly meeting to happen every 3rd Mon instead from March 26 onwards.\n\n________________________________\n\nUpdate: The original monthly 2h check-in meeting recurring every 2nd  Mon of the month will be split into 2 x 1h on the same meeting link.\n\n  *\nAgenda for first 1h (involving Harinda) (this meeting): Workplan progress update on key progress and issues/roadblocks (non-technical) (30m) + business mentorship (25m)\n  *   Agenda for 2nd 1h (involving Alex, your main technical mentor): Update on open source and technical milestones in the workplan (30m) + open source/technical mentorship (25m)\n\n________________________________\n\nMonthly 2h check-ins on every 3rd  Mon of the month:\n\n  1.\nfrom Jan to Oct 26 (2 more months than the contract duration to also facilitate the scheduling of graduation roundtables/demos)\n  2.\nexcept for those landing on weekends/public holidays and days with fixed meetings to be moved manually.\n  3.\nMay end earlier if we have covered all the topics and/or\n  4.\nMay be converted into mentorship meetings with other mentors.\n\nOur standard agenda will follow the below:\n\n  1.\n​​​​Workplan<https://unicef.sharepoint.com/:x:/r/teams/OOI-Venture/Ventures%20Shared%20Folder/Venture%20Fund/Startup%20Portfolio%20Management/Data%20Trust%20Cohort%20(2026)/Company%20Folders/DABBAL/Workplan/04.%20DABBAL_Workplan+financials%20FINAL.xlsx?d=w5116ade0d8014d94a7896ba7156aec26&csf=1&web=1&e=I8cbte>​​​​ progress overview. You can report your open source & data privacy & security milestones in the 2 documents below directly.\n     *\n​[https://res.public.onecdn.static.microsoft/assets/fluentui-resources/1.1.0/app-min/assets/item-types/24/docx.png]Open Source Contractual Obligations Checklist.docx<https://unicef.sharepoint.com/:w:/r/teams/OOI-Venture/Ventures%20Shared%20Folder/Venture%20Fund/Startup%20Portfolio%20Management/Data%20Trust%20Cohort%20(2026)/Company%20Folders/DABBAL/Workplan/Open%20Source%20Contractual%20Obligations%20Checklist.docx?d=w9412ecc256ad470b96fe1ebadb24c903&csf=1&web=1&e=mogGty>​\n     *\n​[https://res.public.onecdn.static.microsoft/assets/fluentui-resources/1.1.0/app-min/assets/item-types/24/docx.png]Privacy & Security Awareness Contractual Obligations Checklist.docx<https://unicef.sharepoint.com/:w:/r/teams/OOI-Venture/Ventures%20Shared%20Folder/Venture%20Fund/Startup%20Portfolio%20Management/Data%20Trust%20Cohort%20(2026)/Company%20Folders/DABBAL/Workplan/Privacy%20%26%20Security%20Awareness%20Contractual%20Obligations%20Checklist.docx?d=w82d1d7d1153c4397b3b7b7fa890c1278&csf=1&web=1&e=6LfWhX>​\n  2.\nOverview of milestones accomplished this month\n  3.\nOverview of milestones planned for the next month\n  4.\nTopics for discussion\n\n\nMonthly updates will be on Asana<https://app.asana.com/1/1212253425168717/project/1212213033480916/list/1212254219312664> and ready milestones for external communications will be published on Karma.\n\nYour contract start date: 26.11.2025\nYour contract start date: 31.08.2026 (this meeting will run 2 more months as buffer)\n\n\n\n________________________________________________________________________________\nMicrosoft Teams Need help?<https://aka.ms/JoinTeamsMeeting?omkt=en-US>\nJoin the meeting now<https://teams.microsoft.com/l/meetup-join/19%3ameeting_MGI5NTZjNTAtMGRmNy00M2U3LWFlZWYtNGM0MDQyMjNlZDQ5%40thread.v2/0?context=%7b%22Tid%22%3a%2277410195-14e1-4fb8-904b-ab1892023667%22%2c%22Oid%22%3a%22fe9df8d3-c4eb-4de2-8a3f-132a68ff0030%22%7d>\nMeeting ID: 351 849 264 686 32\nPasscode: FP2iY9uj\n________________________________\nDial in by phone\n+45 32 72 47 86,,531301757#<tel:+4532724786,,531301757#> Denmark, All locations\nFind a local number<https://dialin.teams.microsoft.com/48734644-d9b5-4906-a15b-79fd7a5f1272?id=531301757>\nPhone conference ID: 531 301 757#\nJoin on a video conferencing device\nTenant key: teams@unicef.onpexip.com\nVideo ID: 129 039 342 5\nMore info<https://pexip.me/teams/unicef.onpexip.com/1290393425>\nFor organizers: Meeting options<https://teams.microsoft.com/meetingOptions/?organizerId=fe9df8d3-c4eb-4de2-8a3f-132a68ff0030&tenantId=77410195-14e1-4fb8-904b-ab1892023667&threadId=19_meeting_MGI5NTZjNTAtMGRmNy00M2U3LWFlZWYtNGM0MDQyMjNlZDQ5@thread.v2&messageId=0&language=en-US> | Reset dial-in PIN<https://dialin.teams.microsoft.com/usp/pstnconferencing>\n________________________________________________________________________________\n
+LOCATION:Microsoft Teams Meeting
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:Personal-a4e7472c-a3cd-4415-ac4c-15a7aae3059a
+DTSTAMP:20260209T174123
+DTSTART;TZID=Europe/Rome:20260501T060000
+DTEND;TZID=Europe/Rome:20260501T063000
+SUMMARY:[Personal] [Personal] [Personal] Pay 1787€ to MOF 2007
+DESCRIPTION:
+LOCATION:
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:Personal-ec89f071-8482-4724-8056-c2ff4ee31919
+DTSTAMP:20260209T174123
+DTSTART;TZID=Europe/Rome:20260501T060000
+DTEND;TZID=Europe/Rome:20260501T063000
+SUMMARY:[Personal] [Personal] Pay 1787€ to MOF 2007
+DESCRIPTION:
+LOCATION:
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:Personal-9hef72t2v1p4h6r90u4bmmoirg@google.com
+DTSTAMP:20260209T174123
+DTSTART;TZID=Europe/Rome:20260501T080000
+DTEND;TZID=Europe/Rome:20260501T083000
+SUMMARY:[Personal] Pay 1787€ to MOF 2007
+DESCRIPTION:
+LOCATION:
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:Personal-3174ec4a-a1b0-4c1a-9111-1c3d195045ee
+DTSTAMP:20260209T174123
+DTSTART;TZID=Europe/Rome:20260501T080000
+DTEND;TZID=Europe/Rome:20260501T083000
+SUMMARY:[Personal] [Personal] Pay 1787€ to MOF 2007
+DESCRIPTION:
+LOCATION:
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+END:VCALENDAR
