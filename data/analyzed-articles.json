@@ -1,8 +1,8 @@
 {
   "date": "2026-02-22",
   "count": 98,
-  "generated_at": "2026-02-22T14:31:36.990Z",
-  "lovable_generated_at": "2026-02-22T14:30:30.346Z",
+  "generated_at": "2026-02-23T14:53:18.134Z",
+  "lovable_generated_at": "2026-02-23T14:52:05.213Z",
   "articles": [
     {
       "id": "503002c0-cbc4-4372-89cd-690c7a09bb63",
@@ -12,7 +12,7 @@
       "source": "Nikkei Asia",
       "source_url": "https://asia.nikkei.com",
       "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/can-india-live-up-to-its-pitch-as-the-ai-use-case-capital-of-the-world",
-      "published_at": "2026-02-22T14:30:30.180Z",
+      "published_at": "2026-02-23T14:52:04.924Z",
       "category": "technology",
       "tags": [],
       "content": null,
@@ -37,8 +37,8 @@
         "language": "en"
       },
       "political_score": 0,
-      "tech_score": 0.8,
-      "trust_score": 8
+      "tech_score": 0.7,
+      "trust_score": 7
     },
     {
       "id": "b7ea59b3-4cf5-4d11-8879-3fddf2aafa88",
@@ -48,7 +48,7 @@
       "source": "Nikkei Asia",
       "source_url": "https://asia.nikkei.com",
       "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/hitachi-wields-machine-control-know-how-to-train-physical-ai",
-      "published_at": "2026-02-22T14:30:30.180Z",
+      "published_at": "2026-02-23T14:52:04.924Z",
       "category": "technology",
       "tags": [],
       "content": null,
@@ -73,7 +73,7 @@
         "language": "en"
       },
       "political_score": 0,
-      "tech_score": 0.8,
+      "tech_score": 0.7,
       "trust_score": 8
     },
     {
@@ -84,7 +84,7 @@
       "source": "Nikkei Asia",
       "source_url": "https://asia.nikkei.com",
       "url": "https://asia.nikkei.com/economy/trade-war/trump-tariffs/trump-now-wants-to-impose-15-tariff-after-supreme-court-decision",
-      "published_at": "2026-02-22T14:30:30.180Z",
+      "published_at": "2026-02-23T14:52:04.924Z",
       "category": "geopolitics",
       "tags": [],
       "content": null,
@@ -108,9 +108,9 @@
         "paywall": false,
         "language": "en"
       },
-      "political_score": -0.7,
-      "tech_score": 0.1,
-      "trust_score": 7
+      "political_score": -0.8,
+      "tech_score": 0,
+      "trust_score": 8
     },
     {
       "id": "a71688f2-4df9-455b-b18e-4b83c56eb6f9",
@@ -120,7 +120,7 @@
       "source": "Taipei Times",
       "source_url": "https://www.taipeitimes.com",
       "url": "https://www.taipeitimes.com/News/front/archives/2026/02/22/2003852674",
-      "published_at": "2026-02-22T14:30:30.180Z",
+      "published_at": "2026-02-23T14:52:04.924Z",
       "category": "geopolitics",
       "tags": [],
       "content": null,
@@ -144,9 +144,9 @@
         "paywall": false,
         "language": "en"
       },
-      "political_score": 0.1,
-      "tech_score": 0.8,
-      "trust_score": 7
+      "political_score": 0,
+      "tech_score": 0.5,
+      "trust_score": 8
     },
     {
       "id": "de798b59-c5af-4cef-9f3f-240ac51cd9c3",
@@ -156,7 +156,7 @@
       "source": "Taipei Times",
       "source_url": "https://www.taipeitimes.com",
       "url": "https://www.taipeitimes.com/News/front/archives/2026/02/22/2003852673",
-      "published_at": "2026-02-22T14:30:30.180Z",
+      "published_at": "2026-02-23T14:52:04.924Z",
       "category": "technology",
       "tags": [],
       "content": null,
@@ -181,8 +181,8 @@
         "language": "en"
       },
       "political_score": 0,
-      "tech_score": 0.9,
-      "trust_score": 7
+      "tech_score": 0.8,
+      "trust_score": 8
     },
     {
       "id": "336f9da2-6de8-4ef5-ad61-625dd41f65cc",
@@ -192,7 +192,7 @@
       "source": "Nikkei Asia",
       "source_url": "https://asia.nikkei.com",
       "url": "https://asia.nikkei.com/economy/trade-war/trump-tariffs/indonesia-us-sign-tariff-deal-with-exemptions-for-key-soft-commodities",
-      "published_at": "2026-02-22T14:30:30.180Z",
+      "published_at": "2026-02-23T14:52:04.924Z",
       "category": "geopolitics",
       "tags": [],
       "content": null,
@@ -217,7 +217,7 @@
         "language": "en"
       },
       "political_score": 0.1,
-      "tech_score": 0.1,
+      "tech_score": 0,
       "trust_score": 8
     },
     {
@@ -228,7 +228,7 @@
       "source": "Taipei Times",
       "source_url": "https://www.taipeitimes.com",
       "url": "https://www.taipeitimes.com/News/front/archives/2026/02/22/2003852675",
-      "published_at": "2026-02-22T14:30:30.180Z",
+      "published_at": "2026-02-23T14:52:04.924Z",
       "category": "geopolitics",
       "tags": [],
       "content": null,
@@ -253,7 +253,7 @@
         "language": "en"
       },
       "political_score": 0.1,
-      "tech_score": 0.1,
+      "tech_score": 0.2,
       "trust_score": 7
     },
     {
@@ -264,7 +264,7 @@
       "source": "Taipei Times",
       "source_url": "https://www.taipeitimes.com",
       "url": "https://www.taipeitimes.com/News/front/archives/2026/02/21/2003852631",
-      "published_at": "2026-02-22T14:30:30.180Z",
+      "published_at": "2026-02-23T14:52:04.924Z",
       "category": "geopolitics",
       "tags": [],
       "content": null,
@@ -324,7 +324,7 @@
         "paywall": false,
         "language": "en"
       },
-      "political_score": 0.1,
+      "political_score": 0,
       "tech_score": 0.7,
       "trust_score": 8
     },
@@ -360,8 +360,8 @@
         "paywall": false,
         "language": "en"
       },
-      "political_score": -0.1,
-      "tech_score": 0.7,
+      "political_score": 0,
+      "tech_score": 0.8,
       "trust_score": 7
     },
     {
@@ -397,7 +397,7 @@
         "language": "en"
       },
       "political_score": 0,
-      "tech_score": 0.6,
+      "tech_score": 0.5,
       "trust_score": 8
     },
     {
@@ -433,8 +433,8 @@
         "language": "en"
       },
       "political_score": 0.1,
-      "tech_score": -0.3,
-      "trust_score": 7
+      "tech_score": -0.2,
+      "trust_score": 8
     },
     {
       "id": "06c3249b-f3f4-40fb-9096-a6a801e18d8b",
@@ -469,8 +469,8 @@
         "language": "en"
       },
       "political_score": -0.2,
-      "tech_score": 0,
-      "trust_score": 7
+      "tech_score": 0.1,
+      "trust_score": 8
     },
     {
       "id": "99508106-c6b3-465c-bb1f-4e30a5b8dbae",
@@ -505,7 +505,7 @@
         "language": "en"
       },
       "political_score": 0,
-      "tech_score": 0.2,
+      "tech_score": 0.5,
       "trust_score": 8
     },
     {
@@ -577,7 +577,7 @@
         "language": "en"
       },
       "political_score": 0,
-      "tech_score": 0,
+      "tech_score": 0.1,
       "trust_score": 8
     },
     {
@@ -612,9 +612,9 @@
         "paywall": false,
         "language": "en"
       },
-      "political_score": 0.1,
+      "political_score": 0,
       "tech_score": 0,
-      "trust_score": 7
+      "trust_score": 8
     },
     {
       "id": "e546b23d-0251-4aa4-bd7b-400712aae08a",
@@ -650,7 +650,7 @@
       },
       "political_score": 0,
       "tech_score": 0.5,
-      "trust_score": 8
+      "trust_score": 7
     },
     {
       "id": "778e0fee-eefc-4fa8-ad1b-c4a385cdbccb",
@@ -684,9 +684,9 @@
         "paywall": false,
         "language": "en"
       },
-      "political_score": 0.1,
+      "political_score": -0.1,
       "tech_score": 0,
-      "trust_score": 7
+      "trust_score": 8
     },
     {
       "id": "b95c4597-ffbd-4c88-9f02-f0796e0c9e0b",
@@ -722,7 +722,7 @@
       },
       "political_score": 0,
       "tech_score": 0.5,
-      "trust_score": 9
+      "trust_score": 8
     },
     {
       "id": "71e8b494-6bdc-4ab9-b14d-96571190cb70",
@@ -757,7 +757,7 @@
         "language": "en"
       },
       "political_score": -0.7,
-      "tech_score": 0,
+      "tech_score": 0.1,
       "trust_score": 7
     },
     {
@@ -768,7 +768,7 @@
       "source": "Taipei Times",
       "source_url": "https://www.taipeitimes.com",
       "url": "https://www.taipeitimes.com/News/front/archives/2026/02/22/2003852675",
-      "published_at": "2026-02-22T14:30:30.180Z",
+      "published_at": "2026-02-23T14:52:04.925Z",
       "category": "geopolitics",
       "tags": [],
       "content": null,
@@ -792,8 +792,8 @@
         "paywall": false,
         "language": "en"
       },
-      "political_score": -0.1,
-      "tech_score": 0.2,
+      "political_score": 0.2,
+      "tech_score": 0.1,
       "trust_score": 7
     },
     {
@@ -828,8 +828,8 @@
         "paywall": false,
         "language": "en"
       },
-      "political_score": -0.7,
-      "tech_score": 0,
+      "political_score": 0.8,
+      "tech_score": -0.2,
       "trust_score": 7
     },
     {
@@ -864,9 +864,9 @@
         "paywall": false,
         "language": "en"
       },
-      "political_score": -0.2,
+      "political_score": 0.2,
       "tech_score": 0,
-      "trust_score": 7
+      "trust_score": 8
     },
     {
       "id": "c66d0a47-6237-4cbb-a2dd-16799be2d8d6",
@@ -900,7 +900,7 @@
         "paywall": false,
         "language": "en"
       },
-      "political_score": 0,
+      "political_score": 0.1,
       "tech_score": 0.2,
       "trust_score": 8
     },
@@ -936,8 +936,8 @@
         "paywall": false,
         "language": "en"
       },
-      "political_score": 0,
-      "tech_score": 0.7,
+      "political_score": 0.1,
+      "tech_score": 0.8,
       "trust_score": 8
     },
     {
@@ -972,9 +972,9 @@
         "paywall": false,
         "language": "en"
       },
-      "political_score": 0.7,
+      "political_score": 0.5,
       "tech_score": -0.3,
-      "trust_score": 8
+      "trust_score": 7
     },
     {
       "id": "90f1b311-285d-4df1-a5a6-c23ad48ae0b5",
@@ -1009,8 +1009,8 @@
         "language": "en"
       },
       "political_score": 0,
-      "tech_score": 0.9,
-      "trust_score": 8
+      "tech_score": 0.8,
+      "trust_score": 9
     },
     {
       "id": "a9720e1a-1ce6-4bea-baa9-259de76ea8ee",
@@ -1044,8 +1044,8 @@
         "paywall": false,
         "language": "en"
       },
-      "political_score": 0.1,
-      "tech_score": 0.2,
+      "political_score": 0,
+      "tech_score": 0.5,
       "trust_score": 8
     },
     {
@@ -1081,7 +1081,7 @@
         "language": "en"
       },
       "political_score": 0,
-      "tech_score": 0.7,
+      "tech_score": 0.6,
       "trust_score": 8
     },
     {
@@ -1189,7 +1189,7 @@
         "language": "en"
       },
       "political_score": 0,
-      "tech_score": 0.8,
+      "tech_score": 0.7,
       "trust_score": 8
     },
     {
@@ -1224,9 +1224,9 @@
         "paywall": false,
         "language": "en"
       },
-      "political_score": 0.1,
-      "tech_score": 0,
-      "trust_score": 8
+      "political_score": 0.3,
+      "tech_score": -0.1,
+      "trust_score": 7
     },
     {
       "id": "a060dc98-98b4-4d14-bf17-2320a8cdf4f3",
@@ -1260,9 +1260,9 @@
         "paywall": false,
         "language": "en"
       },
-      "political_score": 0.1,
-      "tech_score": 0.2,
-      "trust_score": 7
+      "political_score": 0.2,
+      "tech_score": 0.1,
+      "trust_score": 8
     },
     {
       "id": "02fc47c4-f2c0-4145-b8a5-efbc4117ac8c",
@@ -1296,9 +1296,9 @@
         "paywall": false,
         "language": "en"
       },
-      "political_score": 0,
-      "tech_score": 0.5,
-      "trust_score": 7
+      "political_score": 0.1,
+      "tech_score": 0.6,
+      "trust_score": 8
     },
     {
       "id": "0e196624-7de3-44de-b255-1811ff334913",
@@ -1334,7 +1334,7 @@
       },
       "political_score": 0,
       "tech_score": 0.8,
-      "trust_score": 8
+      "trust_score": 9
     },
     {
       "id": "e9262023-b0ad-4d9d-aed2-79f3e344903e",
@@ -1369,8 +1369,8 @@
         "language": "en"
       },
       "political_score": 0,
-      "tech_score": 1,
-      "trust_score": 8
+      "tech_score": 0.8,
+      "trust_score": 7
     },
     {
       "id": "a7a113ba-4b90-4391-85c9-b17a8264102a",
@@ -1404,8 +1404,8 @@
         "paywall": false,
         "language": "en"
       },
-      "political_score": -0.1,
-      "tech_score": -0.7,
+      "political_score": -0.5,
+      "tech_score": -0.8,
       "trust_score": 7
     },
     {
@@ -1441,7 +1441,7 @@
         "language": "en"
       },
       "political_score": 0,
-      "tech_score": 0.8,
+      "tech_score": 0.9,
       "trust_score": 8
     },
     {
@@ -1477,7 +1477,7 @@
         "language": "en"
       },
       "political_score": 0,
-      "tech_score": 0.8,
+      "tech_score": 0.7,
       "trust_score": 8
     },
     {
@@ -1550,7 +1550,7 @@
       },
       "political_score": 0,
       "tech_score": 0.5,
-      "trust_score": 8
+      "trust_score": 7
     },
     {
       "id": "81216ac2-3b93-4ffd-8c6a-59a1ff726b9b",
@@ -1585,7 +1585,7 @@
         "language": "en"
       },
       "political_score": 0,
-      "tech_score": 0.8,
+      "tech_score": 0.7,
       "trust_score": 8
     },
     {
@@ -1620,8 +1620,8 @@
         "paywall": false,
         "language": "en"
       },
-      "political_score": -0.2,
-      "tech_score": 0.1,
+      "political_score": 0,
+      "tech_score": 0,
       "trust_score": 8
     },
     {
@@ -1657,7 +1657,7 @@
         "language": "en"
       },
       "political_score": 0,
-      "tech_score": 0.3,
+      "tech_score": 0.5,
       "trust_score": 8
     },
     {
@@ -1694,7 +1694,7 @@
       },
       "political_score": 0,
       "tech_score": 1,
-      "trust_score": 9
+      "trust_score": 8
     },
     {
       "id": "93db80f3-53cf-4b8e-9e15-a38d98dd94d8",
@@ -1729,7 +1729,7 @@
         "language": "en"
       },
       "political_score": 0.1,
-      "tech_score": 0.8,
+      "tech_score": 0.7,
       "trust_score": 7
     },
     {
@@ -1764,7 +1764,7 @@
         "paywall": false,
         "language": "en"
       },
-      "political_score": -0.5,
+      "political_score": -0.8,
       "tech_score": 0,
       "trust_score": 7
     },
@@ -1798,8 +1798,8 @@
         "paywall": false,
         "language": "en"
       },
-      "political_score": -0.2,
-      "tech_score": 0.6,
+      "political_score": 0,
+      "tech_score": 0.8,
       "trust_score": 7
     },
     {
@@ -1833,8 +1833,8 @@
         "language": "en"
       },
       "political_score": 0,
-      "tech_score": 0.9,
-      "trust_score": 8
+      "tech_score": 1,
+      "trust_score": 7
     },
     {
       "id": "08bb34f9-7607-472b-bb34-140d772fdb64",
@@ -1867,7 +1867,7 @@
         "language": "en"
       },
       "political_score": 0,
-      "tech_score": 0.7,
+      "tech_score": 1,
       "trust_score": 8
     },
     {
@@ -1936,7 +1936,7 @@
       },
       "political_score": -0.3,
       "tech_score": 0.1,
-      "trust_score": 8
+      "trust_score": 7
     },
     {
       "id": "c32ba5f5-65cb-4a9b-873b-752ff62eec42",
@@ -1969,7 +1969,7 @@
         "language": "en"
       },
       "political_score": 0,
-      "tech_score": 0.8,
+      "tech_score": 0.7,
       "trust_score": 8
     },
     {
@@ -2003,8 +2003,8 @@
         "language": "en"
       },
       "political_score": 0,
-      "tech_score": 0.1,
-      "trust_score": 8
+      "tech_score": -0.2,
+      "trust_score": 7
     },
     {
       "id": "96295181-e0b7-4c7b-94fd-2cd3de44f3b4",
@@ -2071,7 +2071,7 @@
         "language": "en"
       },
       "political_score": 0.2,
-      "tech_score": 0.9,
+      "tech_score": 0.8,
       "trust_score": 7
     },
     {
@@ -2105,7 +2105,7 @@
         "language": "en"
       },
       "political_score": 0,
-      "tech_score": 0.1,
+      "tech_score": -0.5,
       "trust_score": 7
     },
     {
@@ -2139,7 +2139,7 @@
         "language": "en"
       },
       "political_score": 0,
-      "tech_score": 1,
+      "tech_score": 0.8,
       "trust_score": 8
     },
     {
@@ -2173,8 +2173,8 @@
         "language": "en"
       },
       "political_score": -0.5,
-      "tech_score": 0,
-      "trust_score": 7
+      "tech_score": -0.5,
+      "trust_score": 8
     },
     {
       "id": "4d58024e-23f0-4e59-8376-be645131151d",
@@ -2206,7 +2206,7 @@
         "paywall": false,
         "language": "en"
       },
-      "political_score": 0,
+      "political_score": 0.1,
       "tech_score": 0.8,
       "trust_score": 8
     },
@@ -2241,7 +2241,7 @@
         "language": "en"
       },
       "political_score": 0,
-      "tech_score": -0.2,
+      "tech_score": 0.2,
       "trust_score": 8
     },
     {
@@ -2309,7 +2309,7 @@
         "language": "en"
       },
       "political_score": 0,
-      "tech_score": 0.8,
+      "tech_score": 1,
       "trust_score": 8
     },
     {
@@ -2342,9 +2342,9 @@
         "paywall": false,
         "language": "en"
       },
-      "political_score": -0.1,
-      "tech_score": 0.2,
-      "trust_score": 7
+      "political_score": -0.2,
+      "tech_score": 0.1,
+      "trust_score": 8
     },
     {
       "id": "7693640b-0a38-45cd-8372-0c2d1858015a",
@@ -2377,8 +2377,8 @@
         "language": "en"
       },
       "political_score": 0,
-      "tech_score": 0.8,
-      "trust_score": 9
+      "tech_score": 0.7,
+      "trust_score": 8
     },
     {
       "id": "8fb9c2fc-f838-40dd-b4e9-2ac0b35c690a",
@@ -2445,7 +2445,7 @@
         "language": "en"
       },
       "political_score": 0,
-      "tech_score": 1,
+      "tech_score": 0.8,
       "trust_score": 8
     },
     {
@@ -2480,7 +2480,7 @@
       },
       "political_score": 0.1,
       "tech_score": 0.7,
-      "trust_score": 8
+      "trust_score": 7
     },
     {
       "id": "4a98c27c-9118-4db7-8f50-0eae8d3e9b8b",
@@ -2512,8 +2512,8 @@
         "paywall": false,
         "language": "en"
       },
-      "political_score": 0.7,
-      "tech_score": -0.2,
+      "political_score": 0.5,
+      "tech_score": 0.1,
       "trust_score": 7
     },
     {
@@ -2546,7 +2546,7 @@
         "paywall": false,
         "language": "en"
       },
-      "political_score": 0,
+      "political_score": 0.2,
       "tech_score": 0.8,
       "trust_score": 7
     },
@@ -2580,8 +2580,8 @@
         "paywall": false,
         "language": "en"
       },
-      "political_score": 0.8,
-      "tech_score": 0.2,
+      "political_score": 0.6,
+      "tech_score": 0,
       "trust_score": 7
     },
     {
@@ -2615,7 +2615,7 @@
         "language": "en"
       },
       "political_score": 0,
-      "tech_score": 1,
+      "tech_score": 0.8,
       "trust_score": 9
     },
     {
@@ -2649,9 +2649,9 @@
         "paywall": false,
         "language": "en"
       },
-      "political_score": -0.8,
+      "political_score": -0.7,
       "tech_score": 0.2,
-      "trust_score": 7
+      "trust_score": 8
     },
     {
       "id": "85559b29-91c6-4295-9608-4139b5305ab6",
@@ -2719,8 +2719,8 @@
         "paywall": false,
         "language": "en"
       },
-      "political_score": -0.8,
-      "tech_score": -0.6,
+      "political_score": -0.7,
+      "tech_score": 0.2,
       "trust_score": 7
     },
     {
@@ -2754,8 +2754,8 @@
         "paywall": false,
         "language": "en"
       },
-      "political_score": 0.1,
-      "tech_score": 0.2,
+      "political_score": 0,
+      "tech_score": 0.3,
       "trust_score": 7
     },
     {
@@ -2790,8 +2790,8 @@
         "language": "en"
       },
       "political_score": -0.2,
-      "tech_score": 0,
-      "trust_score": 8
+      "tech_score": -0.7,
+      "trust_score": 7
     },
     {
       "id": "388d5b3b-a4c8-463b-8fe3-63ee9373d767",
@@ -2860,8 +2860,8 @@
         "language": "en"
       },
       "political_score": 0,
-      "tech_score": 1,
-      "trust_score": 9
+      "tech_score": 0.7,
+      "trust_score": 8
     },
     {
       "id": "90b48c61-1fbc-4098-bcba-d3d0edf0c893",
@@ -2964,8 +2964,8 @@
         "paywall": false,
         "language": "en"
       },
-      "political_score": 0,
-      "tech_score": 0,
+      "political_score": 0.1,
+      "tech_score": 0.3,
       "trust_score": 8
     },
     {
@@ -3000,7 +3000,7 @@
         "language": "en"
       },
       "political_score": 0,
-      "tech_score": 1,
+      "tech_score": 0.8,
       "trust_score": 8
     },
     {
@@ -3034,8 +3034,8 @@
         "paywall": false,
         "language": "en"
       },
-      "political_score": -0.5,
-      "tech_score": 0,
+      "political_score": -0.2,
+      "tech_score": 0.1,
       "trust_score": 7
     },
     {
@@ -3139,9 +3139,9 @@
         "paywall": false,
         "language": "en"
       },
-      "political_score": -0.2,
-      "tech_score": -0.7,
-      "trust_score": 8
+      "political_score": -0.1,
+      "tech_score": -0.6,
+      "trust_score": 7
     },
     {
       "id": "9b84380d-8a24-48c7-b500-552da784c406",
@@ -3174,9 +3174,9 @@
         "paywall": false,
         "language": "en"
       },
-      "political_score": -0.5,
-      "tech_score": 0,
-      "trust_score": 8
+      "political_score": -0.7,
+      "tech_score": 0.1,
+      "trust_score": 7
     },
     {
       "id": "9817cf14-8a02-4552-8047-5e8b52e09ceb",
@@ -3211,7 +3211,7 @@
       },
       "political_score": 0,
       "tech_score": 0.7,
-      "trust_score": 9
+      "trust_score": 8
     },
     {
       "id": "e8793104-ff58-4474-bd7d-799ac340dd31",
@@ -3244,7 +3244,7 @@
         "paywall": false,
         "language": "en"
       },
-      "political_score": -0.2,
+      "political_score": -0.3,
       "tech_score": 0.7,
       "trust_score": 8
     },
@@ -3314,9 +3314,9 @@
         "paywall": false,
         "language": "en"
       },
-      "political_score": -0.1,
+      "political_score": 0,
       "tech_score": 0,
-      "trust_score": 7
+      "trust_score": 1
     },
     {
       "id": "08dea319-1772-4b0f-9831-897271feb7b5",
@@ -3349,7 +3349,7 @@
         "paywall": false,
         "language": "en"
       },
-      "political_score": 0.1,
+      "political_score": 0,
       "tech_score": -0.5,
       "trust_score": 7
     },
@@ -3384,9 +3384,9 @@
         "paywall": false,
         "language": "en"
       },
-      "political_score": -0.2,
-      "tech_score": 0,
-      "trust_score": 8
+      "political_score": 0.1,
+      "tech_score": -0.2,
+      "trust_score": 7
     },
     {
       "id": "d0a5eb76-ca99-494b-b372-c8e313b33dfa",
@@ -3420,7 +3420,7 @@
         "language": "en"
       },
       "political_score": 0,
-      "tech_score": 1,
+      "tech_score": 0.8,
       "trust_score": 9
     },
     {
@@ -3454,9 +3454,9 @@
         "paywall": false,
         "language": "en"
       },
-      "political_score": -0.2,
-      "tech_score": -0.4,
-      "trust_score": 7
+      "political_score": 0,
+      "tech_score": 0.1,
+      "trust_score": 8
     }
   ]
 }
