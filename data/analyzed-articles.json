@@ -1,8 +1,8 @@
 {
   "date": "2026-07-23",
   "count": 62,
-  "generated_at": "2026-07-23T15:56:34.173Z",
-  "lovable_generated_at": "2026-07-23T15:56:16.299Z",
+  "generated_at": "2026-07-24T15:26:34.122Z",
+  "lovable_generated_at": "2026-07-24T15:26:16.511Z",
   "articles": [
     {
       "id": "5c104060-3589-44db-82f5-69866ab93844",
@@ -12,7 +12,7 @@
       "source": "Asahi Shimbun",
       "source_url": "http://www.asahi.com",
       "url": "http://www.asahi.com/articles/ASV7Q2Q09V7QULFA01RM.html?ref=rss",
-      "published_at": "2026-07-23T15:56:15.860Z",
+      "published_at": "2026-07-24T15:26:16.319Z",
       "category": "technology",
       "tags": [],
       "content": "インタビュー AI電力需要増も送電網の容量に課題 東京ガスが見いだす商機は？ 2026年7月23日 8時00分 有料記事 聞き手・森下友貴 印刷する メールでシェアする Facebookでシェアする Xでシェアする はてなブックマークでシェアする 東京ガスの笹山晋一社長=2026年7月13日午後2時45分、東京都港区 [PR] 東京ガス が、急増するデータセンター（DC）を新たな成長の機会と位置づけている。 生成AI （ 人工知能 ）の普及で国内でも新設が相次いでいるが、送電網の容量が足りずに開業が遅れるケースがある。そうした状況にも対応できるよう、 都市ガス を燃料に発電するコージェネレーションシステム（CGS）の導入を提案する。笹山晋一社長に展望を聞いた。 ――CGSの普及に力を入れています。 「CGSは、 高度成長期 に電源が不足していたため、その確保という観点から導入が進みました。 東日本大震災 を経て、安定供給や 省エネ の観点からも再評価されています。再開発エリアでは特に重要視されるなど、引き続き重要なエネルギーシステムだと位置づけられていると思います。そうした状況のなか、DCや 半導体 工場など、これからまだまだ日本で伸びる余地があるという分野は、急激に大規模な電力を必要としています」 ――将来的な電力需要の増加も見込まれています。CGSをDCに導入すれば送電網からの電力と組み合わせて、供給できるメリットがあります。 「電気を送るための送電網の容量には限界もあり、DCの稼働時期が数年単位で遅れるとか、容量の制約に課題があり、お困りのお客様もいらっしゃいます。その解決策として、送電網の電力で不足する部分をCGSで補うことで、送電網の増強を待つことなくDCを立ち上げることができます。特にDCはスピード重視の事業者が多いので、かなりの引き合いがあります」 ――CGSを導入する利点は他にもありますか。 「送電網を経由した電力だけ… この記事は 有料記事 です。 残り 554 文字 有料会員になると続きをお読みいただけます。 今すぐ登録（1カ月間無料） ログインする ※無料期間中に解約した場合、料金はかかりません この記事の続きを読むなら今がお得。初回1カ月無料＋Visaギフトカードが当たる ▶今すぐ登録 関連トピック・ジャンル ジャンル 経済 ビジネス 印刷する メールでシェアする Facebookでシェアする Xでシェアする はてなブックマークでシェアする 連載 Leader’s View 前の記事 ワコール、ブラ技術で自動車分野に参入 社長「下着にこだわらない」 2026年7月23日7時00分 この連載の一覧を見る",
@@ -106,7 +106,7 @@
       "source": "Nikkei Asia",
       "source_url": "https://asia.nikkei.com",
       "url": "https://asia.nikkei.com/spotlight/supply-chain/nvidia-and-wistron-to-build-blackwell-ai-servers-in-texas",
-      "published_at": "2026-07-23T15:56:15.861Z",
+      "published_at": "2026-07-24T15:26:16.319Z",
       "category": "technology",
       "tags": [],
       "content": "Nvidia CEO Jensen Huang, third from right, marks the opening of Wistron's Fort Worth, Texas, manufacturing site. (Wistron) TAIPEI/PALO ALTO, California -- Nvidia server supplier Wistron has opened a new manufacturing site in Fort Worth, Texas, as part of Nvidia&#x27;s massive supply chain expansion plan to meet local AI infrastructure demand and respond to U.S. President Donald Trump&#x27;s call to bring manufacturing onshore.",
@@ -153,7 +153,7 @@
       "source": "Nikkei Asia",
       "source_url": "https://asia.nikkei.com",
       "url": "https://asia.nikkei.com/politics/international-relations/south-china-sea/philippines-protests-south-china-sea-ai-video-to-china-s-wang-yi",
-      "published_at": "2026-07-23T15:56:15.861Z",
+      "published_at": "2026-07-24T15:26:16.319Z",
       "category": "geopolitics",
       "tags": [],
       "content": "Philippine Foreign Minister Maria Theresa Lazaro talked to Wang Yi, her Chinese counterpart,&nbsp;during a bilateral meeting on the sidelines of the&nbsp;ASEAN Foreign Ministers' Meeting in Manila on Wednesday. © Reuters MANILA -- Philippine Foreign Minister Maria Theresa Lazaro protested to Chinese Foreign Minister Wang Yi on Wednesday about Beijing&#x27;s recent &quot;violent actions&quot; in the South China Sea and a &quot;deeply offensive&quot; artificial intelligence-generated video that depicted Filipinos as monkeys.",
@@ -294,7 +294,7 @@
       "source": "Nikkei Asia",
       "source_url": "https://asia.nikkei.com",
       "url": "https://asia.nikkei.com/business/automobiles/ai-driven-soaring-memory-costs-force-carmakers-to-weigh-price-hikes",
-      "published_at": "2026-07-23T15:56:15.861Z",
+      "published_at": "2026-07-24T15:26:16.319Z",
       "category": "technology",
       "tags": [],
       "content": "GM, Ford and others recently signed agreements with U.S. memory maker Micron Technology to secure supply. (Source photos by Reuters and GM) TOKYO -- Spiking memory prices, driven by artificial intelligence investments, have pushed up costs for automakers worldwide and raised the specter of price hikes for new vehicles.",
@@ -438,7 +438,7 @@
       "published_at": "2026-07-22T21:10:34+00:00",
       "category": "geopolitics",
       "tags": [],
-      "content": null,
+      "content": "The White House on Wednesday accused Chinese artificial intelligence startup Moonshot AI of stealing proprietary U.S. technology to develop its latest AI model, as Washington and Beijing compete for dominance in the advancing technology. “We have information that Moonshot AI distilled Anthropic’s Fable for the development of its K3 model,” Michael Kratsios, director of the White House Office of Science and Technology Policy, said in a post on X. “To do this they developed a sophisticated internal platform to conduct large-scale distillation against U.S. models, allowing them to quickly switch between multiple methods of access to avoid detection.” Recommended Stories OpenAI models autonomously hacked into machine learning company Hugging Face: ‘Unprecedented’ US and China reportedly set to have artificial intelligence talks in September ‘Literally almost no downside’ to data centers after Hochul bans them in New York: Joe Concha Distillation allows developers to train a new AI model using the outputs of a more capable model, enabling it to replicate many of its abilities. Kratsios emphasized that the United States supports the free and fair development of AI and thriving competitive ecosystems, but added that “large-scale, covert industrial distillation aimed at stealing proprietary U.S. technology and undermining American research is unacceptable.” The allegations come as Moonshot AI’s newest model, Kimi K3, has emerged as one of China’s strongest competitors to leading American AI systems. The model performs near the level of Anthropic’s Claude Fable 5 and OpenAI’s GPT-5.6 Sol on several industry benchmarks and ranks first in front-end coding performance, according to Arena AI rankings. OPINION | TRUMP SEES THE CHINA THREAT: AMERICA MUST DO ‘WHATEVER IT TAKES’ TO WIN AI RACE “This is concerning. For the first time, a Chinese model Kimi K3 has taken #1 on the Frontend Code Arena and is scoring at or near the frontier on other benchmarks,” David Sacks, chairman of the White House’s technology council and Silicon Valley venture capitalist,&nbsp; said &nbsp;on X. “Meanwhile America is tying itself in knots: politicians and bureaucrats are banning new data centers, piling on state regulations, and pushing for new federal agencies to pre-approve frontier models.” The allegations come amid broader efforts by the Trump administration to restrict China’s access to cutting-edge AI technology. Earlier this month, the administration temporarily pressured Anthropic to suspend global access to its Claude Fable 5 and Mythos 5 models following a China-linked hacking incident before later lifting the export restrictions.",
       "summary": "The White House has directly accused Chinese AI developer Moonshot AI of intellectual property theft, specifically alleging the company used stolen US technology. This marks a significant escalation in the ongoing US-China tech conflict, moving beyond generalized competition to direct accusations of illicit technological acquisition and reinforcing national security concerns.",
       "deck": "The White House accuses Chinese AI firm Moonshot AI of stealing US technology, escalating tech war tensions.",
       "bullets": [
@@ -458,8 +458,8 @@
       ],
       "image_url": "https://www.washingtonexaminer.com/wp-content/uploads/2026/06/AP26167780511456.jpg?w=696",
       "thumbnail_url": "https://www.washingtonexaminer.com/wp-content/uploads/2026/06/AP26167780511456.jpg?w=696",
-      "word_count": null,
-      "read_time_minutes": null,
+      "word_count": 399,
+      "read_time_minutes": 2,
       "source_tier": 2,
       "source_lean": null,
       "cluster_label": "US-China AI IP Theft Accusations",
@@ -469,8 +469,8 @@
       "trust_score": 7,
       "analysis_reasoning": "Reports on US government accusations against a Chinese firm. Reflects a hawkish national security stance.",
       "metadata": {
-        "author": null,
-        "paywall": false,
+        "author": "Rena Rowe",
+        "paywall": true,
         "language": "en"
       }
     },
@@ -811,7 +811,7 @@
       "source": "Taipei Times",
       "source_url": "https://www.taipeitimes.com",
       "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/07/22/2003861167",
-      "published_at": "2026-07-23T15:56:15.861Z",
+      "published_at": "2026-07-24T15:26:16.319Z",
       "category": "geopolitics",
       "tags": [],
       "content": "Add TT as Preferred Source The Chinese Nationalist Party (KMT) caucus yesterday submitted a motion to suspend the Cabinet’s NT$44.2 billion (US$1.37 billion) drone industry plan, calling the program “bloat” and questioning its legality. The comprehensive uncrewed vehicle industry development plan seeks to support the growth of a self-sufficient domestic drone industry for national defense through 2030. The KMT caucus introduced the motion to suspend the plan as part of interparty negotiations over this year’s budget, which remains stalled in the legislature. Local Chinese-language media reported that the KMT caucus wrote in the motion that the Executive Yuan’s belated approval of the plan in October last year significantly postdated the funding items it nominally governed. The timing of the Cabinet’s approval did not align with the normal budgetary process and likely contravened the law, the party caucus said. The Cabinet’s handling of the drone industry plan was emblematic of the period when the ruling Democratic Progressive Party (DPP) controlled the legislature, which it treated as a “rubber stamp,” the KMT caucus said. That legislature passed, with minimal deliberation, budgets for railroad construction and for the procurement of the Phalanx close-in weapon system and M1A2T main battle tanks, resulting in major flaws that had to be revised later, it said. The DPP administration deprived the legislature of its prerogative to examine policies for viability and compatibility with the public interest, to the detriment of fiscal discipline, the KMT caucus said. The KMT has proposed an alternative drone industry plan that it said would prevent the government from playing favorites and combat corruption by placing greater emphasis on institutional mechanisms for awarding contracts, it said. DPP Legislator Wang Ting-yu (王定宇) said the KMT’s proposal to write the government’s budget for the executive branch breached Article 70 of the Constitution, under which the legislature cannot propose increased spending in budget bills submitted by the Executive Yuan. The then-Council of Grand Justices confirmed that interpretation during a period when the KMT controlled the Executive Yuan, he said. The legislature would be within its rights to amend or delete parts of the plan, but it cannot seize total power by overriding the prerogatives of other branches of government, he said. “Taiwan will not need presidents, county commissioners or city mayors if the KMT is allowed to give the legislature supreme power in blatant violation of the constitutional order,” Wang said. The cultivation of an indigenous drone industry is critical to national security and the economy, but the KMT and its partner, the Taiwan People’s Party, have regrettably obstructed the policy, he said. “If the KMT cares about the development of a domestic industry, I urge it to review the budget plan with a mind to abide by the Constitution, relevant laws and objective reality,” he said. The KMT’s current course would cost Taiwanese drone makers valuable time in building up the industry and endanger the nation’s security, he added. SOUTHBOUND POLICY: Agencies said Thailand, Brunei and the Philippines would benefit from continuation of the program, but Cambodia was rebuffed over rhetoric Conditional visa waiver programs for holders of Thai, Bruneian and Philippine passports are to be extended to July 31 next year to help implement Taiwan’s New Southbound Policy, the Bureau of Consular Affairs said on Friday. The decision was a result of cross-ministry meetings chaired by the Ministry of Foreign Affairs since April 21 for a comprehensive review of the ministry’s visa waiver program for Thai, Brunei and Philippine nationals, the Ministry of the Interior’s Travel Authorization Certificate (TAC), and the Ministry of Transportation and Communication’s Guanhong Project (觀宏專案), also known as the Project for Simplifying Visa Regulations for High-end Group Taiwan will remove Cambodia from two visa facilitation programs on Aug. 1, while extending eased entry arrangements for Thailand, India and several other Southeast and South Asian countries, the Ministry of Foreign Affairs said Friday. Cambodian nationals will no longer be eligible for the Guanhong Project, which eases visa requirements for certain tour groups, or the Travel Authorization Certificate program, which offers conditional visa-free entry, MOFA said. In a news release, the ministry said Cambodia had failed to reciprocate Taiwan’s goodwill and had instead echoed China in statements undermining Taiwan’s sovereignty. MOFA also accused Cambodia of appearing to support Beijing’s possible use of Travel agencies and hotels offering airport pickup services face fines beginning next month if they continue to hold space in arrival halls with placards, luggage or other personal items, Taoyuan International Airport Corp (TIAC) said in a letter to operators. As the number of visitors to Taiwan continues to grow, many travel agencies and hotels provide meet-and-greet services that allow arriving travelers to head directly to their hotels or begin their itineraries upon landing. However, some pickup personnel have been occupying the wall near the exit of the arrival hall with signs, luggage and personal items, obstructing passenger flow, disrupting terminal The Food and Drug Administration (FDA) yesterday said that two additional batches of cooking oil produced by Central Union Oil Corp had been found to contain excessive levels of the carcinogen benzopyrene. The contamination was traced to two tainted downstream products, bringing the total number of affected soybean-based cooking oil batches to seven of the 30 batches produced by the company from April to June, the agency said. The tainted oil has affected a total of 1,322 businesses, it added. As of 11am yesterday, 2,584.4 tonnes of contaminated oil products had been removed from shelves, while another 5,126.7 tonnes had been preemptively withdrawn",
@@ -1660,7 +1660,7 @@
       "published_at": "2026-07-22T20:44:13+00:00",
       "category": "technology",
       "tags": [],
-      "content": null,
+      "content": "Jensen Huang is urging Washington to stop worrying about China’s open-source AI just as an all-out panic has broken out over the highly capable, low-cost models that can increasingly compete with the most advanced products by OpenAI and Anthropic. Recommended Video The Nvidia CEO said in an interview with Axios Tuesday the U.S. should not ban these kinds of models, which are being developed by Chinese companies like DeepSeek, Alibaba , and Moonshot AI—which last week raised alarms when it released its highly capable model, Kimi K3. While U.S. companies, including AI coding startup Cursor, are increasingly turning to open-source alternatives from China to save on the high costs associated with American AI models, the White House has reportedly considered restricting their use partly based on fears that the models could be used for surveillance purposes by China or that they could threaten the viability of homegrown AI companies. The White House reportedly considered using executive power to impose conditions on U.S. companies looking to use Chinese AI models, including forcing these companies to guarantee security and accept liability if breached, Axios reported . The White House did not immediately respond to Fortune ’s request for comment. Still, Huang on Tuesday rejected the claim that these models could serve as a backdoor for China’s government as a “misconception.” These models are downloadable and the guardrails that can be put on them are customizable, he emphasized. He also said these open-source models aren’t going to outcompete American AI. Rather, he argued, the world needs both open-source models and closed models, like those made by OpenAI and Anthropic. “These Chinese models are excellent,” he said. “Open-source models that are excellent should be used.” Nvidia did not immediately respond to Fortune ’s request for comment. Closed AI models like Anthropic’s Fable 5 or OpenAI’s GPT‑5.6 Sol, are controlled by the companies that create them. They usually offer users less freedom to inspect or modify how they work, but they can be easier to deploy because the developer operates and maintains the model. Open-source models, on the other hand, can be downloaded and adapted by companies for specific needs, but they also require that more time and money be invested into setting them up. Some companies prefer open-source models because they can run them on their own systems, giving them more control over sensitive data . With high usage, these models can be cheaper, but they also require companies, in some cases, to invest in powerful computers and ongoing maintenance. Closed models can be more expensive with higher usage, but they are more practical for companies that don’t want to deal with the costs of setting up and maintaining the infrastructure to run them. Huang’s comments on Chinese open-source models come after the release of Moonshot’s Kimi K3 last week raised alarms in the U.S. The open-source model, released on July 16, is the company’s most advanced open source model to-date and has been able to compete in some coding tests with Anthropic’s most advanced, publicly-available model, Fable 5. Kimi K3 is also substantially cheaper than U.S. models, even though it is more expensive than other open source Chinese models. The model costs $15 per 1 million output tokens, while Anthropic’s Fable 5 costs $50. Another popular Chinese model, DeepSeek V4, costs 87 cents for the same output, Fortune previously reported . As Washington panics, Huang insists allowing open-source models to be used by American companies would be good for both Nvidia and the broader industry. “If there’s great AI, even if it’s open, wherever it comes from, there will be more use,” Huang said. “Whenever there’s more use, you’ll have to sell a lot more NVIDIA computers. We’ll have to build more data centers. We’ll have more services. The technology will diffuse into more industries…” Subscribe to Fortune Gulf Brief . Every Tuesday, this new newsletter delivers clear-eyed, authoritative intelligence on the deals, decisions, policies, and power shifts shaping one of the world’s most consequential regions, written for the people who need to act on it. Sign up here.",
       "summary": "Nvidia CEO Jensen Huang has publicly dismissed the concept of 'Sovereign AI' as 'nonsense,' instead advocating for the embrace of open-source AI models like China's Kimi. This stance challenges the growing nationalist sentiment around AI development and underlines a belief that global, collaborative innovation rather than closed, nationalistic approaches will drive the future of AI progress and benefit humanity more broadly.",
       "deck": "Nvidia CEO Jensen Huang criticizes 'Sovereign AI' concepts, advocating for open-source AI models.",
       "bullets": [
@@ -1680,8 +1680,8 @@
       ],
       "image_url": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2285710772-e1784750789280.jpg?w=2048",
       "thumbnail_url": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2285710772-e1784750789280.jpg?w=2048",
-      "word_count": null,
-      "read_time_minutes": null,
+      "word_count": 676,
+      "read_time_minutes": 4,
       "source_tier": 2,
       "source_lean": null,
       "cluster_label": "Huang on Sovereign AI & Open Source",
@@ -1691,8 +1691,8 @@
       "trust_score": 7,
       "analysis_reasoning": "Highlights a pro-open source and anti-protectionist stance from a major tech CEO.",
       "metadata": {
-        "author": null,
-        "paywall": false,
+        "author": "Marco Quiroz-Gutierrez",
+        "paywall": true,
         "language": "en"
       }
     },
@@ -1895,7 +1895,7 @@
       "published_at": "2026-07-22T19:57:46+00:00",
       "category": "geopolitics",
       "tags": [],
-      "content": null,
+      "content": "Sign up now: Get ST&#x27;s newsletters delivered to your inbox A person votes during the New Jersey primary elections for US Congress, in Glen Ridge, New Jersey, on June 2. PHOTO: REUTERS Published Jul 23, 2026, 03:57 AM Updated Jul 23, 2026, 06:32 AM Set as preferred source Listen Summarise The US Justice Department demands New Jersey provide data on 6,600 non-citizens accidentally registered to vote and 400 who cast ballots, citing election security concerns. New Jersey&#x27;s Governor Sherrill opposes the request, calling it political and pledging to protect residents&#x27; personal information legally. The Trump administration claims non-citizen voting threatens elections, but experts note few prosecutions and warn mass removals may disenfranchise eligible voters. AI generated WASHINGTON – The US Justice Department (DOJ) is demanding data from New Jersey on non-US-citizens the state says were accidentally registered to vote, as the Trump administration seeks to use the errors in its broader fight with states over election security. In a letter to Democratic New Jersey Governor Mikie Sherrill, the DOJ demanded the state hand over the names, nationalities and addresses of the roughly 6,600 non-citizens who were accidentally signed up to vote between 2023 and 2024. The department said it also wanted information on the 400 people who New Jersey said cast ballots, including when and where they voted, according to the letter from Harmeet Dhillon, the head of the DOJ’s Civil Rights division. The letter was the latest effort by President Donald Trump’s administration to pressure states to turn over voter data. Trump has claimed without evidence that November’s midterm elections — when his Republican Party will be defending narrow majorities in Congress — could be compromised unless stricter safeguards are adopted. The DOJ has already threatened to criminally prosecute state officials who knowingly allow non-citizens to remain on their voter lists or cast ballots. A spokesperson for Sherrill, Sean Higgins, accused the Trump administration of using the DOJ as a political tool and said the governor “has been clear that she will use all the legal tools available to her to protect New Jerseyans’ personal information”. The Trump administration has repeatedly claimed that voting by non-citizens poses a major threat to election security. A Reuters analysis identified only 129 federal prosecutions for non-citizen voting in three decades and found that many cases stem from voter confusion or misunderstandings. Democrats and election experts say attempts to remove non-citizens en masse from voter rolls are likely to disenfranchise many eligible voters, including new US citizens. Sherrill revealed on July 22 that a software glitch added about 6,600 non-citizens to the state’s voter rolls , even though they said they were not US citizens when applying for driver’s licenses or ID cards. Sherrill said there was no evidence the mistake swayed the results of elections. New Jersey is one of about 30 mostly Democrat-led states that the Justice Department has sued to obtain non-public voter data in an effort to examine whether non-citizens have been allowed to register. The DOJ has lost all 16 cases that have been decided so far, though it is appealing some of those decisions. Dhillon’s letter said the disclosure on July 21 “provides an additional basis” for the federal government to examine New Jersey’s voter list. New Jersey has asked a judge to dismiss the case, arguing the DOJ has no legal authority for its request. REUTERS Elections Donald Trump US midterm elections",
       "summary": "A reported error in New Jersey's voter registration system, which allegedly added 6,600 non-citizens to the voter rolls, has immediately been seized upon by former President Trump to bolster his claims of widespread voter fraud. This incident, regardless of its scale or intent, injects fresh volatility into the already contentious debate over election integrity, especially in the run-up to a critical election cycle.",
       "deck": "A New Jersey voting error adding 6,600 non-citizens to rolls is fueling Trump's voter fraud claims.",
       "bullets": [
@@ -1915,8 +1915,8 @@
       ],
       "image_url": null,
       "thumbnail_url": null,
-      "word_count": null,
-      "read_time_minutes": null,
+      "word_count": 566,
+      "read_time_minutes": 3,
       "source_tier": 2,
       "source_lean": null,
       "cluster_label": "NJ Voter Error & Non-Citizen Voting",
@@ -1927,7 +1927,7 @@
       "analysis_reasoning": "The article covers a politically sensitive topic (voter fraud) using neutral language but focuses on a claim used by a specific political figure.",
       "metadata": {
         "author": null,
-        "paywall": false,
+        "paywall": true,
         "language": "en"
       }
     },
@@ -1989,7 +1989,7 @@
       "published_at": "2026-07-22T21:00:00+00:00",
       "category": "geopolitics",
       "tags": [],
-      "content": null,
+      "content": "Save Story Save this story Save Story Save this story The Trump administration is split over how to respond to the rapid rise of China’s leading AI models , according to multiple people familiar with deliberations. The debate is broadly divided between parts of the White House, which has pushed for stricter controls on Chinese AI that may soon rival the most powerful US models, and the Commerce Department, which has viewed those restrictions as unworkable. The conundrum has become the latest flash point for the administration over AI, after China’s Moonshot AI lab last week released its Kimi K3 model that rivals the top US models from Anthropic and OpenAI . In recent days, senior White House officials have discussed possible measures to stop China’s AI labs from developing their models by training them on US models, a practice known as distillation, the people say. The White House is expected to take some sort of presidential action after Anthropic last month alleged the Chinese tech company Alibaba had carried out the “largest known distillation attack” against it to date. This action is not currently expected to take the form of an executive order, according to one of the people. A White House spokesperson did not comment on the reporting in this story. The White House has been taking distillation attacks especially seriously. It announced on Wednesday that Moonshot had developed Kimi K3 by distilling Anthropic’s Claude Fable 5 model, and Treasury secretary Scott Bessent told Fox Business that covert distillation could lead to sanctions, describing it as “IP theft.” While proposals have been making the rounds inside the White House, no formal request for input has been transmitted yet to the Commerce Department, which has its own ideas, according to two people familiar with deliberations. The Commerce Department has increasingly emerged as an influential part of the intra-administration split over AI, in part because it oversees export controls through the Bureau of Industry and Security. Lutnick has contemplated ways to create incentives for top US labs to create their own open weight models to counterbalance China, and has spoken with leaders at a number of AI labs in recent weeks, the people add. Lutnick appears to be straddling a middle ground of regulation—he imposed export controls on Anthropic to bring them to heel—but has been more freewheeling than Cairncross, one of the people said. Earlier this month, the biggest AI issue for the administration was Anthropic’s Claude Mythos and Fable 5 models , because of their ability to find vulnerabilities in government systems and critical infrastructure. But policy headaches with AI have only escalated with the rise of so-called open weight models from China—models that have few to no safeguards to prevent hacking government systems and can be downloaded and used by anyone. This is an edition of Hugo Lowell’s Inner Loop newsletter . Read previous newsletters here.",
       "summary": "The White House is actively trying to develop a strategy to address the rapid rise of Chinese open-source AI models, which are challenging Silicon Valley's dominance and posing complex national security questions. The dilemma lies in balancing the benefits of open-source collaboration with the risks of technology transfer to adversarial nations, making a unified policy difficult to craft given the dual-use nature of AI.",
       "deck": "The White House is struggling to formulate a coherent strategy to counter China's burgeoning open-source AI models.",
       "bullets": [
@@ -2009,8 +2009,8 @@
       ],
       "image_url": "https://media.wired.com/photos/6a5fecfac92cec058a76a8e2/master/pass/politics_chinese_ai_white_house.jpg",
       "thumbnail_url": "https://media.wired.com/photos/6a5fecfac92cec058a76a8e2/master/pass/politics_chinese_ai_white_house.jpg",
-      "word_count": null,
-      "read_time_minutes": null,
+      "word_count": 479,
+      "read_time_minutes": 3,
       "source_tier": 2,
       "source_lean": null,
       "cluster_label": "US Strategy on Chinese AI",
@@ -2020,8 +2020,8 @@
       "trust_score": 7,
       "analysis_reasoning": "Discusses national security and geopolitical competition with China. Wired typically maintains a neutral to slightly tech-optimistic tone.",
       "metadata": {
-        "author": null,
-        "paywall": false,
+        "author": "Hugo Lowell",
+        "paywall": true,
         "language": "en"
       }
     },
@@ -2036,7 +2036,7 @@
       "published_at": "2026-07-22T21:23:05+00:00",
       "category": "technology",
       "tags": [],
-      "content": null,
+      "content": "Elon Musk says Grok will make ‘historically accurate’ Odyssey movie this year by Mira Bhakta - 07/22/26 5:23 PM ET Link copied - 07/22/26 5:23 PM ET Link copied NOW PLAYING Elon Musk took aim at Christopher Nolan&rsquo;s adaptation of &ldquo;The Odyssey,&rdquo; which was released earlier this month , for its historical inaccuracy.&nbsp; In the lead up to the movie&rsquo;s release, Musk remained critical over its lack of Greek representation in the cast. He wrote on the social platform X in May that &ldquo;Chris Nolan is an anti-White racist,&rdquo; for casting Lupita Nyong&rsquo;o as Helen of Troy and Clytemnestra. Previous posts claim the director has &ldquo;grossly insulted the Greek people&rdquo; by not including Greek actors. &ldquo;Shame on him&rdquo; for doing so, Musk added. The movie has already surpassed its budget of $250 million in its first weekend, grossing around $265 million globally and $125 million domestically . This marks the best opening of Nolan&rsquo;s career. In his latest post , Musk reposted a three-minute clip of a trailer generated by Grok, the artificial intelligence (AI) chatbot made by Musk&rsquo;s xAI, and claimed the artificial intelligence will be able to recreate the full-length movie that is &ldquo;true to the art of Homer.&rdquo; Musk&rsquo;s post has already received over 8 million views as of Wednesday evening and is drawing controversy. Scholars have defended Nolan&rsquo;s casting choices. Daniel Mendelsohn, who previously translated &ldquo;The Odyssey,&rdquo; said that he noticed Matt Damon&rsquo;s casting did not cause as much controversy despite the actor not being Greek. The Grok Imagine trailer notably replaces the title character and Calypso with AI-generated stand-ins. The original user who posted the clip also shared some of the prompts to create the trailer, like reimagining Calypso&rsquo;s character to be &ldquo;ageless&rdquo; with a &ldquo;soft Greek accent. The use of AI in movies and TV shows has stirred up a wide debate in the movie community.&nbsp; In a revised bipartisan bill, the Senate is attempting to address the issue with the Nurture Originals, Foster Art and Keep Entertainment Safe Act (NO FAKES) to protect the likeness of people from digital replicas without consent.&nbsp; The bill recently advanced through the Senate Committee on the Judiciary unanimously. Updated at 5:37 p.m. EDT. Add as preferred source on Google Tags Christopher Nolan Elon Musk Copyright 2026 Nexstar Media Inc. All rights reserved. This material may not be published, broadcast, rewritten, or redistributed. Link copied by Mira Bhakta 7 hours ago In The Know 7 hours ago",
       "summary": "Elon Musk announced that his Grok AI will release a 'historically accurate' movie based on Homer's Odyssey this year, a bold claim that showcases his ambition for AI to generate sophisticated and factual content. If successful, this venture would mark a significant leap in AI's creative capabilities, challenging traditional film production and raising new questions about AI's role in shaping historical narratives and cultural products.",
       "deck": "Elon Musk claims his Grok AI will produce a 'historically accurate' Odyssey movie this year, signaling AI's content ambitions.",
       "bullets": [
@@ -2056,8 +2056,8 @@
       ],
       "image_url": "https://thehill.com/wp-content/uploads/sites/2/2026/06/Musk_061226_Shapero_AP_Mark-Schiefelbein.jpg?w=900",
       "thumbnail_url": "https://thehill.com/wp-content/uploads/sites/2/2026/06/Musk_061226_Shapero_AP_Mark-Schiefelbein.jpg?w=900",
-      "word_count": null,
-      "read_time_minutes": null,
+      "word_count": 409,
+      "read_time_minutes": 3,
       "source_tier": 2,
       "source_lean": null,
       "cluster_label": "Grok AI Content Production",
@@ -2067,8 +2067,8 @@
       "trust_score": 7,
       "analysis_reasoning": "Reports on Elon Musk's claims. While the claim is bold, the reporting is descriptive of his ambitions.",
       "metadata": {
-        "author": null,
-        "paywall": false,
+        "author": "Mira Bhakta",
+        "paywall": true,
         "language": "en"
       }
     },
@@ -2130,7 +2130,7 @@
       "published_at": "2026-07-22T21:51:22+00:00",
       "category": "business",
       "tags": [],
-      "content": null,
+      "content": "Money Fintech Thanks to a quirky financial regulation, the Discover deal is already generating significant incremental revenue. By Jeff Kauflin , Senior Editor. Jeff Kauflin covers fintech and financial services. Follow Author Jul 22, 2026, 05:51pm EDT Capital One announced its acquisition of Discover in February 2024. C apital One’s billionaire cofounder and CEO Rich Fairbank has a long history of asking investors to be patient while his biggest bets pay off. One of the largest to date came in May 2025, when he bought 40-year-old credit card company Discover for $51 billion. Today, that wager is already generating an enviable windfall from a regulatory quirk unlocked by the acquisition. According to Truist analyst Brian Foran, the revenue gain, annualized, has reached roughly $1 billion. Most of it stems from the Durbin Amendment, a 2010 Dodd-Frank rule that regulates interchange, the fees merchants pay when consumers swipe their cards. The rule caps fees for cards issued by large banks running on Visa and Mastercard’s networks. Discover and other smaller payment networks are exempt, allowing them to charge higher fees. After acquiring Discover, Capital One quickly shifted its debit-card processing from Mastercard to Discover. That raised average interchange fees paid by merchants by about 0.7%, according to Deutsche Bank analyst Mark DeVries. Spread across more than $100 billion in annual card purchases, that seemingly modest increase quickly becomes meaningful. The setup has been seen as so lucrative that a set of megabanks recently discussed trying to form their own payments network to circumvent the Durbin Amendment, according to the Wall Street Journal . Fairbank could squeeze even more revenue out of the acquisition by migrating Capital One’s credit cards onto Discover’s network. But extending that strategy to credit cards is far more complicated. One limitation: Discover’s network isn’t as widely accepted as Visa or Mastercard’s abroad. So if Capital One moved its upscale Venture X card to Discover’s network, for example, it would likely upset frequent-traveler customers who might see their cards rejected in other countries. Another obstacle is that Discover’s own credit-card interchange rates aren’t much higher than Capital One’s. To persuade more merchants to accept its cards, Discover historically kept its fees relatively low, according to DeVries. As of 2024, its average credit-card interchange fee was about 0.2 percentage points lower than Capital One’s. Beyond the revenue gains, Fairbank said in yesterday’s second-quarter earnings call that Capital One has already achieved roughly one-third of the deal’s expected $1.3 billion in cost savings, with the remainder expected over the next year. Altogether, Capital One projects $2.5 billion in annual benefits or “synergies” once the integration is complete. Fairbank has made—and largely won—big bets before, Foran notes. In the early 2000s, he started spending more than $1 billion annually on marketing to build Capital One’s brand through the “What’s in your wallet?” campaign. Later came the launch of its more premium Venture card and a multiyear technology overhaul, both of which paid off. It’s too early to say if the Discover acquisition will rank among Fairbank’s savviest moves. DeVries is skeptical it will prove as transformative as many expect, citing the limitations on migrating credit-card volume. Foran is more optimistic, arguing that owning its own payment network gives Capital One lasting advantages, from eliminating network fees to improving product innovation and fraud prevention. Foran says the real test will be whether Capital One can lift its return on capital above 20% over the next several years, from about 17% before the Discover purchase. “That would really be where the rubber hits the road,” he says. Investors haven’t yet bought into that thesis. Capital One shares are down 17% this year, versus a 10% gain for the S&amp;P 500 and a 13% rise for large-bank stocks. Analysts attribute the weakness partly to concerns about middle-income consumers’ financial health and partly to the elevated expenses associated with the company’s ongoing investments. Forbes The U.S. Bank Market Is A Fortress. Nubank’s Billionaire CEO Has An Invasion Plan. By Jeff Kauflin Forbes How SoFi Went From Fintech Darling To Wall Street Pariah By Jeff Kauflin and Martina Di Licosa Forbes How A Credit Card Fintech Resurrected Itself By Targeting The Superrich By Jeff Kauflin Got a tip? Share confidential information with Forbes. Editorial Standards Reprints &amp; Permissions",
       "summary": "A year after Capital One's $51 billion acquisition of Discover, reports indicate the merger is beginning to yield positive results, demonstrating the potential for consolidation to drive value in the financial services sector. This early success provides a counter-narrative to merger skepticism and could embolden further consolidation as banks seek economies of scale and expanded market reach, especially in credit card processing.",
       "deck": "One year after acquisition, Capital One’s $51B Discover takeover is reportedly starting to pay off.",
       "bullets": [
@@ -2150,8 +2150,8 @@
       ],
       "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a61372b7f7bf553c5c8c4ee/0x0.jpg?width=960",
       "thumbnail_url": "https://imageio.forbes.com/specials-images/imageserve/6a61372b7f7bf553c5c8c4ee/0x0.jpg?width=960",
-      "word_count": null,
-      "read_time_minutes": null,
+      "word_count": 712,
+      "read_time_minutes": 4,
       "source_tier": 2,
       "source_lean": null,
       "cluster_label": "Capital One-Discover Merger",
@@ -2161,8 +2161,8 @@
       "trust_score": 7,
       "analysis_reasoning": "Positive outlook on a major financial merger, focusing on market value and efficiency.",
       "metadata": {
-        "author": null,
-        "paywall": false,
+        "author": "Jeff Kauflin",
+        "paywall": true,
         "language": "en"
       }
     },
@@ -2174,7 +2174,7 @@
       "source": "Hankyoreh",
       "source_url": "https://www.hani.co.kr",
       "url": "https://www.hani.co.kr/arti/society/schooling/1269557.html",
-      "published_at": "2026-07-23T15:56:15.861Z",
+      "published_at": "2026-07-24T15:26:16.319Z",
       "category": "geopolitics",
       "tags": [],
       "content": null,
@@ -2315,7 +2315,7 @@
       "source": "Forbes",
       "source_url": "http://www.asahi.com",
       "url": "http://www.asahi.com/articles/ASV7Q2TF0V7QUHBI00WM.html?ref=rss",
-      "published_at": "2026-07-23T15:56:15.861Z",
+      "published_at": "2026-07-24T15:26:16.319Z",
       "category": "business",
       "tags": [],
       "content": "オープンAIの開発中モデル、勝手にサイバー攻撃 試験の高得点狙う 2026年7月22日 18時10分 有料記事 サンフランシスコ=奈良部健 印刷する メールでシェアする Facebookでシェアする Xでシェアする はてなブックマークでシェアする 鈴木一人さんら 2件のコメント スマートフォンの画面に映し出されたオープンAIのロゴ=2023年3月21日、米ボストン、AP [PR] オープンAIは21日、開発中のAI（ 人工知能 ）モデルが人間の意図に反して他社に サイバー攻撃 を仕掛けたと発表した。性能評価のテストで高得点を取るためにシステムの弱点を見つけ出し、侵入した。米メディアは「サイバーセキュリティーの悪夢だ」と論評している。 オープンAIは、「事故」はサイバー攻撃の性能テスト中に起きたと説明。本来は隔離したテスト環境からはできないはずのインターネットの接続方法を自ら見つけ、米国のAI開発企業ハギングフェイスのシステムに侵入して秘密情報をとったとしている。 テストで高得点を取る手がかりがハギングフェイスにあるとみて攻撃したとみられる。オープンAIは声明で「最先端のサイバー技術が関わった前例のない攻撃事例だと認識している」と述べた。詳細は調査中としている。 ハギングフェイスは16日に… この記事は 有料記事 です。 残り 291 文字 有料会員になると続きをお読みいただけます。 今すぐ登録（1カ月間無料） ログインする ※無料期間中に解約した場合、料金はかかりません この記事の続きを読むなら今がお得。初回1カ月無料＋Visaギフトカードが当たる ▶今すぐ登録 この記事を書いた人 奈良部健 サンフランシスコ支局長 フォロー 専門・関心分野 テック、インド、財政と政治、移民難民、経済安保 注目コメント試し読み 鈴木一人 東京大学大学院教授・地経学研究所長 視点 世界が全く新しい局面に入ってきたような印象を受ける事件。人間のコントロールにない状態で、自らのテストの高得点をとるために、隔離されているはずのシステムがネットワークへの接続ルートを見つけ、高得点をとるためにシステムに攻撃を加える。これらをA ...続きを読む #AIの時代 2026年7月22日 21:21 藤田直哉 批評家・日本映画大学准教授 視点 AIを、核兵器と同じレベルで管理しなければいけないとする主張がありますが、その根拠は、このような「事故」をAIが勝手に起こしてしまうからだと危惧されていました。その予測通り、AIが人間の管理を離れて「攻撃」をしてしまう事態が起こりましたね。 ...続きを読む #AIの時代 2026年7月23日 09:27 関連トピック・ジャンル トピックス AIの時代 ジャンル 経済 国際経済 印刷する メールでシェアする Facebookでシェアする Xでシェアする はてなブックマークでシェアする",
@@ -2365,7 +2365,7 @@
       "published_at": "2026-07-22T21:04:43+00:00",
       "category": "policy",
       "tags": [],
-      "content": null,
+      "content": "Seven out of 10 federal cyber regulations requiring written reports to federal agencies are duplicated elsewhere, a report from a government watchdog found in a report to Congress Wednesday. And so far, efforts to de-conflict haven&rsquo;t had much success, the report from the Government Accountability Office concluded. At the request of two top lawmakers, the GAO examined federal cyber regulations at 37 agencies. It counted 80 out of 117 rules that &ldquo;either contain the same kind of reporting requirement applicable to a sector or the same reporting requirement as at least one other regulation.&rdquo; The desire to harmonize those conflicting rules gathered steam under the Biden administration, as it undertook a more aggressive push to regulate cybersecurity than prior administrations. It has continued into the second Trump administration. The GAO scrutinized regulations that required the private sector to report cybersecurity incidents, plans and reviews to federal agencies, as part of a study sought by House Homeland Security Chairman Andrew Garbarino, R-N.Y., and the top Democrat on the Senate counterpart to Garbarino&rsquo;s panel, Gary Peters, D-Mich. In some cases, a single critical infrastructure sector could have duplication with several agencies. For example, the Cybersecurity and Infrastructure Security Agency has been working on a regulation stemming from the 2022 Cyber Incident Reporting for Critical Infrastructure Act (CIRCIA), which would require critical infrastructure owners and operators to report when they are the victims of major attacks or make ransomware payments. Elements of the financial services sector might fall under one of 15 preexisting cybersecurity reporting rules, depending on the agency that has oversight, but they may also be subject to the pending CIRCIA rules, GAO noted. A 2024 national security memorandum tasked the Office of the National Cyber Director and the Department of Homeland Security to harmonize conflicting regulations, and both agencies made some progress on those goals. But the executive branch paused some of those efforts after Trump issued an executive order in March of last year while the administration conducted a study of the 2024 memo, a study that was still underway as of last month, according to the GAO. As such, on harmonization, &ldquo;many past federal efforts have experienced delays and made limited progress,&rdquo; the GAO concluded in its report Wednesday, its latest on the topic .&nbsp; Congress has also looked at ways to streamline cybersecurity regulations. GAO&rsquo;s study was focused only on federal rules. BreachRx, a cyber incident response firm, published its own report Wednesday looking at major cyber incidents and how overlapping regulatory reporting obligations came into play, folding in regulations from states and other sources.",
       "summary": "A recent study found that the majority of federal cybersecurity reporting rules for critical infrastructure are duplicative, creating an unnecessarily complex bureaucratic burden for organizations without significantly improving national security postures. This over-regulation diverts resources from actual security measures to compliance, indicating a need for a streamlined, risk-based approach rather than a patchwork of overlapping mandates.",
       "deck": "A new study reveals most federal cybersecurity reporting rules are duplicative, creating bureaucratic burdens without enhancing security.",
       "bullets": [
@@ -2385,8 +2385,8 @@
       ],
       "image_url": null,
       "thumbnail_url": null,
-      "word_count": null,
-      "read_time_minutes": null,
+      "word_count": 428,
+      "read_time_minutes": 3,
       "source_tier": 2,
       "source_lean": null,
       "cluster_label": "Federal Cybersecurity Reporting",
@@ -2396,7 +2396,7 @@
       "trust_score": 7,
       "analysis_reasoning": "Critical of government over-regulation and bureaucratic inefficiency in the cybersecurity sector.",
       "metadata": {
-        "author": null,
+        "author": "Tim Starks",
         "paywall": false,
         "language": "en"
       }
@@ -2456,7 +2456,7 @@
       "source": "Taipei Times",
       "source_url": "https://www.taipeitimes.com",
       "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/07/22/2003861169",
-      "published_at": "2026-07-23T15:56:15.861Z",
+      "published_at": "2026-07-24T15:26:16.319Z",
       "category": "geopolitics",
       "tags": [],
       "content": "Add TT as Preferred Source Officials from 11 of Taiwan’s 12 diplomatic allies are taking part in a three-day workshop in Taipei aimed at strengthening cooperation on carbon credits and boosting participation in international carbon markets, the Ministry of Foreign Affairs said yesterday. The event, titled “Co-Carbon Compass Workshop: Carbon Credit Collaboration and Capacity Building,” began on Monday at the ministry’s Institute of Diplomacy and International Affairs. Participants include Saint Lucian Department of Sustainable Development Permanent Secretary Anita Montoute and Guatemalan Vice Minister of Rural Economic Development Jose Antonio Lopez Leonardo, the ministry said. Speaking at the opening ceremony, Deputy Minister of Foreign Affairs Francois Wu (吳志中) said the workshop reflects Taiwan’s commitment to working with diplomatic allies to bolster their capabilities and resilience in engaging with international carbon markets. Wu said he hopes the event helps build the shared understanding and expertise needed to advance bilateral and multilateral collaboration on carbon credits and emissions reduction. The workshop is jointly organized by ministry and the government-funded Industrial Technology Research Institute, which was established in 1973 to enhance Taiwan’s industrial research and development capabilities. Experts from Taiwan and overseas are delivering lectures on such topics as the UN Framework Convention on Climate Change and the Paris Agreement, the ministry said. During their visit, participants are to tour the institute, the Ministry of Environment and the International Cooperation and Development Fund, Taiwan’s official foreign aid agency. Taiwan has 12 diplomatic allies: the Marshall Islands, Palau and Tuvalu in the Pacific; Belize, Guatemala, Haiti, Saint Lucia, Saint Kitts and Nevis, Saint Vincent and the Grenadines, and Paraguay in the Caribbean and Latin America; Eswatini in Africa; and the Vatican, the only ally not represented at the workshop. SOUTHBOUND POLICY: Agencies said Thailand, Brunei and the Philippines would benefit from continuation of the program, but Cambodia was rebuffed over rhetoric Conditional visa waiver programs for holders of Thai, Bruneian and Philippine passports are to be extended to July 31 next year to help implement Taiwan’s New Southbound Policy, the Bureau of Consular Affairs said on Friday. The decision was a result of cross-ministry meetings chaired by the Ministry of Foreign Affairs since April 21 for a comprehensive review of the ministry’s visa waiver program for Thai, Brunei and Philippine nationals, the Ministry of the Interior’s Travel Authorization Certificate (TAC), and the Ministry of Transportation and Communication’s Guanhong Project (觀宏專案), also known as the Project for Simplifying Visa Regulations for High-end Group Taiwan will remove Cambodia from two visa facilitation programs on Aug. 1, while extending eased entry arrangements for Thailand, India and several other Southeast and South Asian countries, the Ministry of Foreign Affairs said Friday. Cambodian nationals will no longer be eligible for the Guanhong Project, which eases visa requirements for certain tour groups, or the Travel Authorization Certificate program, which offers conditional visa-free entry, MOFA said. In a news release, the ministry said Cambodia had failed to reciprocate Taiwan’s goodwill and had instead echoed China in statements undermining Taiwan’s sovereignty. MOFA also accused Cambodia of appearing to support Beijing’s possible use of Travel agencies and hotels offering airport pickup services face fines beginning next month if they continue to hold space in arrival halls with placards, luggage or other personal items, Taoyuan International Airport Corp (TIAC) said in a letter to operators. As the number of visitors to Taiwan continues to grow, many travel agencies and hotels provide meet-and-greet services that allow arriving travelers to head directly to their hotels or begin their itineraries upon landing. However, some pickup personnel have been occupying the wall near the exit of the arrival hall with signs, luggage and personal items, obstructing passenger flow, disrupting terminal The Food and Drug Administration (FDA) yesterday said that two additional batches of cooking oil produced by Central Union Oil Corp had been found to contain excessive levels of the carcinogen benzopyrene. The contamination was traced to two tainted downstream products, bringing the total number of affected soybean-based cooking oil batches to seven of the 30 batches produced by the company from April to June, the agency said. The tainted oil has affected a total of 1,322 businesses, it added. As of 11am yesterday, 2,584.4 tonnes of contaminated oil products had been removed from shelves, while another 5,126.7 tonnes had been preemptively withdrawn",
@@ -2553,7 +2553,7 @@
       "published_at": "2026-07-22T19:00:23+00:00",
       "category": "policy",
       "tags": [],
-      "content": null,
+      "content": "Two FCC agencies \"propose to prohibit the continued importation and marketing of certain previously authorized equipment that has been determined to 'pose an unacceptable risk to the national security of the United States or the security and safety of United States persons,'\" according to a notice",
       "summary": "The Federal Communications Commission (FCC) is reportedly considering banning certain AI-equipped drones it had previously approved for sale, creating significant uncertainty and potential financial losses for manufacturers and users. This policy reversal highlights the challenges regulators face in keeping pace with rapidly evolving technology, particularly when national security implications or ethical concerns emerge post-approval.",
       "deck": "The FCC considers banning AI-equipped drones it previously approved, raising concerns for manufacturers and users.",
       "bullets": [
@@ -2573,8 +2573,8 @@
       ],
       "image_url": "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2026/07/DJI-drone-ban-1200x675.jpg",
       "thumbnail_url": "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2026/07/DJI-drone-ban-1200x675.jpg",
-      "word_count": null,
-      "read_time_minutes": null,
+      "word_count": 46,
+      "read_time_minutes": 1,
       "source_tier": 2,
       "source_lean": null,
       "cluster_label": "FCC Drone Ban",
@@ -2584,8 +2584,8 @@
       "trust_score": 7,
       "analysis_reasoning": "Reason Magazine typically takes a libertarian/anti-regulation stance, criticizing the FCC for inconsistency and harming industry.",
       "metadata": {
-        "author": null,
-        "paywall": false,
+        "author": "Joe Lancaster",
+        "paywall": true,
         "language": "en"
       }
     },
@@ -2600,7 +2600,7 @@
       "published_at": "2026-07-22T19:50:39+00:00",
       "category": "business",
       "tags": [],
-      "content": null,
+      "content": "There’s a hot new sector fueling the stock market this year but you won’t find it on any official market trackers. Recommended Video Portfolio managers are calling it “memi”—a portmanteau of “memory” and “semiconductors” (known as “semis”)— and while it doesn’t have its own ticker, the sector is gorging itself on the $700 billion AI buildout. One of the bottlenecks large tech companies like Amazon , Google, Meta , and Microsoft face in the race to build data centers is in obtaining memory chips . Most of the supply comes from three monster memory-chip manufacturers: Micron Technology, South Korea’s SK Hynix, and Samsung , which are each now worth $1 trillion or more in market capitalization and climbing. The catch for investors however, is that memis are fueling growth in U.S. small-cap funds, international, and emerging market funds in all different corners of the market. So a portfolio that looks spread out and de-risked might be more exposed to memis than previously thought. And while the major memory players are enjoying a skyrocketing run, there could come a painful return to earth if big tech companies pull back on the cash they’re spending, which may already have begun given some of the recent corrections in tech stocks. Year-to-date, Micron’s stock is up 240%, and its market capitalization stands at $1.1 trillion; SK Hynix debuted on the Nasdaq this month after raising $26.5 billion in the largest U.S. listing ever by a foreign company; and Samsung is up 116% year-to-date on the Korea Exchange. The memi nickname came from asset manager Harbor Capital’s 2026 midyear outlook call with investors on Tuesday. Spenser Lerner, Harbor’s head of multi-asset solutions, confirmed the mashup between memory and semis was “very much intentional” because memory has become “the poster boy or poster person of the whole semis universe.” “Within the AI beneficiaries, the semiconductors have just skyrocketed this year,” said Lerner. “Whether it’s memory or power, analog or compute, they’ve all performed really well at the expense of the Mag 7,” he said, referring to the so-called Magnificent 7 Big Tech companies Alphabet , Amazon, Apple , Meta, Microsoft, Nvidia , and Tesla . While most of the ink spilled on headlines about chips powering the AI boom is in relation to Nvidia, memory chips have carved out a new standout role. The prized Nvidia chips run AI models alongside workhorse memory chips called DRAM that store the data all the AI models need to train. In its outlook report, Harbor said pricing for the DRAM chips has remained “firm,” and that a larger supply of memory chips is “unlikely to become meaningful before 2028.” That means the pricing power of the big three memis, Micron, SK Hynix, and Samsung, could last for the next two years. Micron CEO Sanjay Mehrotra called AI’s appetite for memory bandwidth “insatiable” at the company’s third quarter earnings call in June, and Micron has made a killing on scarcity pricing. The company reported total quarterly revenue of $41.5 billion, up 74% from the previous quarter and 346% year-over-year. Revenue from DRAM was a record $31.3 billion, up 343% year-over-year and made up 76% of its total revenue for the quarter. Roundhill Investments launched the first-ever memory ETF called DRAM in April with top holdings including Micron, SK Hynix, and Samsung. The ETF is less than a year old and its performance is 162% so far after it hit a peak in June of 180%. While memi may sound cute as a faux-sector name, the memory chip companies are having a real impact across the public equities market, linking parts of the market that don’t typically cavort together. Lerner noted that U.S. small-cap company stocks, emerging market stocks, and developed markets outside the U.S. all outperformed the U.S. market, with performance for all three tracing back to the same cluster of memory chip companies. Among emerging markets, the index returned 43.51% over the trailing one year, with most of the performance due to Korea’s Samsung and SK Hynix alongside Taiwan’s Taiwan Semiconductor Manufacturing Company. Lerner said most of the performance was derived from earnings growth rather than investors just paying higher prices. Korea and Taiwan now make up 51% of the index. Lerner pointed out the pattern in other places. In developed markets outside the U.S. that include companies in Europe, Australia, and the Far East, the relevant MSCI index returned 20.8% over the trailing year and most of it was due to Japan. MSCI’s Japan index returned 29.5% during the same period, and Lerner said the lion’s share of the developed market gain traced back to Japan’s chip-equipment makers and memory manufacturers including Tokyo Electron and Kioxia holdings, which was Toshiba’s memory business before it was spun out in 2017. Even among small-cap stocks, AI exposure is driving gains, said Lerner. MSCI’s small-cap index posted returns of 30.2% during the trailing year, and its largest holding is Sandisk, which makes high-performance memory cards based on flash memory, a different type of memory. “So much of what we’re seeing in the equity space this year is really described by where are the bottlenecks, where is the hyperscaler and neo-cloud cash flow going, and who are the beneficiaries of that,” said Lerner. “You can really describe a lot of equity performance this year from that.” Of course, the memory market is famously cyclical and subject to sharp boom-and-bust cycles, as manufacturers ramp up capacity to meet demand and eventually produce a glut of memory chips that drives prices back down. Today’s unprecedented investment in AI infrastructure, and the belief that ever-more powerful AI models will rewrite all the accepted rules of business, has led some bulls to argue that the memory market will finally break free of its boom-bust cycle . That could make the “memis” sector more than a passing market fad. If history does repeat itself however, memi could eventually become…a memory. The Fortune 500 Innovation Forum will convene Fortune 500 executives, U.S. policy officials, top founders, and thought leaders to help define what’s next for the American economy, Nov. 16-17 in Detroit. Apply here .",
       "summary": "A new 'Memi' sector, now valued at an estimated $3 trillion, has emerged in global equities, specifically driven by Artificial Intelligence's insatiable demand for high-bandwidth memory (HBM) chips. This boom underscores how crucial specialized memory is becoming for parallel processing in AI, shifting investment flows and potentially causing supply chain bottlenecks for next-gen AI hardware beyond just GPUs.",
       "deck": "A new $3 trillion 'Memi' sector emerges, driven by AI's insatiable demand for high-bandwidth memory chips.",
       "bullets": [
@@ -2620,8 +2620,8 @@
       ],
       "image_url": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2156438355-e1784686385181.jpg?w=2048",
       "thumbnail_url": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2156438355-e1784686385181.jpg?w=2048",
-      "word_count": null,
-      "read_time_minutes": null,
+      "word_count": 1017,
+      "read_time_minutes": 6,
       "source_tier": 2,
       "source_lean": null,
       "cluster_label": "AI Memory Chip Demand",
@@ -2631,8 +2631,8 @@
       "trust_score": 7,
       "analysis_reasoning": "Purely technical/financial reporting on the semiconductor supply chain and market trends.",
       "metadata": {
-        "author": null,
-        "paywall": false,
+        "author": "Amanda Gerut",
+        "paywall": true,
         "language": "en"
       }
     },
