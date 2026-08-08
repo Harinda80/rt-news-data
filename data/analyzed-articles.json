@@ -1,8 +1,8 @@
 {
   "date": "2026-08-07",
   "count": 74,
-  "generated_at": "2026-08-07T14:55:22.181Z",
-  "lovable_generated_at": "2026-08-07T14:55:05.236Z",
+  "generated_at": "2026-08-08T14:34:10.554Z",
+  "lovable_generated_at": "2026-08-08T14:33:52.157Z",
   "articles": [
     {
       "id": "07aeb756-9f95-4560-9cb3-6a3f525bccea",
@@ -59,7 +59,7 @@
       "source": "Nikkei Asia",
       "source_url": "https://asia.nikkei.com",
       "url": "https://asia.nikkei.com/business/china-tech/ai-becomes-bigger-headache-than-tariffs-for-china-camera-maker-insta360",
-      "published_at": "2026-08-07T14:55:04.922Z",
+      "published_at": "2026-08-08T14:33:51.802Z",
       "category": "technology",
       "tags": [],
       "content": "Founded in 2015, Insta360 has become a world leader in 360-degree cameras. (Insta360) NEW YORK -- Chinese action camera brand Insta360 faces mounting pressure from surging chip costs driven by the AI boom, which it says is proving more challenging than U.S. tariffs as it expands in the American market.",
@@ -153,7 +153,7 @@
       "source": "Asahi Shimbun",
       "source_url": "http://www.asahi.com",
       "url": "http://www.asahi.com/articles/ASV853R4VV85UTIL026M.html?ref=rss",
-      "published_at": "2026-08-07T14:55:04.922Z",
+      "published_at": "2026-08-08T14:33:51.802Z",
       "category": "security",
       "tags": [],
       "content": "視点・解説 匿流のスマホ情報入手に「ポリスウェア」? 課題や検討のポイントは 2026年8月6日 10時06分 有料記事 編集委員・吉田伸八 印刷する メールでシェアする Facebookでシェアする Xでシェアする はてなブックマークでシェアする 端末情報入手の仕組みのイメージ [PR] 匿名・流動型犯罪グループ（匿流）による事件の被害防止を目的に、警察が犯行グループの スマートフォン などから情報を遠隔で入手する新たな手法の導入に向けた検討が進められることになった。 匿流の端末情報を遠隔入手、警察庁が検討 「通信の秘密」と整合性は 情報入手の対象とする スマホ 端末はどのように決め、情報をどう取得するのか。適正な運用の確保策や法整備のあり方は――。課題は多く、有識者の検討会で議論のポイントになるとみられる点を整理する。 端末に仕込む「ポリスウェア」 今回検討される手法は、 憲法 が保障する「通信の秘密」に大きく関わる。 まず端末の対象をどう定めるのか。 警察庁 は、匿流による強盗など重大な事件の発生が見込まれる場合に、指示役らグループの上位者に限って対象とすることを想定しているというが、対象をどう線引きするかは大きな課題だ。 指示役らのスマホなどからどういう方法で情報を入手するのか。何らかの方法でハッキングするとみられるが、想定される一つが、マルウェア（悪意のあるプログラム）を端末に仕込む手法だ。「ポリスウェア」などと呼ばれ、海外の 捜査機関 では以前から使われている。 日本で当局が相手の端末などに侵入する対応としては、 サイバー攻撃 を仕掛けてくるグループに対する「能動的サイバー防御（ACD）」の制度が導入された。警察などが相手側のサーバーなどに侵入して無害化する。侵入の具体的な方法は明らかにされていないが、関係者によると、今回検討される端末情報の取得は技術的にはACDと同様だという。 ■「現行の制度では…」… この記事は 有料記事 です。 残り 409 文字 有料会員になると続きをお読みいただけます。 今すぐ登録（1カ月間無料） ログインする ※無料期間中に解約した場合、料金はかかりません この記事を書いた人 吉田伸八 編集委員｜警察庁担当 フォロー 専門・関心分野 警察行政、事件、犯罪 関連トピック・ジャンル ジャンル 社会・調査報道 事件・事故・裁判 印刷する メールでシェアする Facebookでシェアする Xでシェアする はてなブックマークでシェアする",
@@ -342,7 +342,7 @@
       "source": "Taipei Times",
       "source_url": "https://www.taipeitimes.com",
       "url": "https://www.taipeitimes.com/News/front/archives/2026/08/07/2003862077",
-      "published_at": "2026-08-07T14:55:04.922Z",
+      "published_at": "2026-08-08T14:33:51.802Z",
       "category": "geopolitics",
       "tags": [],
       "content": "Add TT as Preferred Source The National Chungshan Institute of Science and Technology and a US-based start-up yesterday announced a successful test of artificial intelligence (AI) pilots controlling multiple Mighty Hornet III drones in a search operation. The success prompted the institute to renew its partnership with Shield AI to use its proprietary Hivemind AI pilots more broadly across Taiwan’s uncrewed aerial vehicle (UAV) fleet, the two said in a statement. In less than three months, institute engineers implemented the AI pilots in three attack drones, the statement said. The Hivemind-piloted UAVs “launched and coordinated ... a wide-area search while respecting a designated no-fly zone” before returning to base, all under autonomous control, it said. Each AI-piloted UAV was assigned a search area, maintained communications with the other platforms, while one drone “operated around a partial no-fly zone within its search sector,” the statement said. “What impressed us most was not only the high performance of the AI pilot, but Shield AI’s commitment to ensuring we could independently operate and employ the technology in such a short period,” institute president Li Shih-chiang (李世良) said in the statement. “Their hands-on training and technical expertise and mentorship gave Taiwanese engineers the confidence to integrate and use Hivemind on our own,” Li said. Shield AI president and cofounder Brandon Tseng (曾國光) said in the statement that “you can build 10 million drones, but you can’t train 10 million drone pilots.” “Autonomy is the critical enabling technology to effectively leverage drones on the battlefield,” Tseng said. “Hivemind’s ability to enable autonomous teaming is why autonomy is becoming one of the most important force multipliers in modern defense,” he added. Hivemind’s Web site says it is “an end-to-end software for building and scaling AI pilots” to operate in contested battlespaces that feature GPS and communications jamming. The software allows drones to autonomously execute operations and make use of coordinated multi-agent teaming and swarming, it said. The use of autonomous attack drones has been demonstrated as a key capability in the Ukraine-Russia war, with both sides routinely targeting UAVs with electronic warfare systems. As electronic warfare countermeasures target the wireless link between the machine and its human operator, an autonomous UAV operating independently of such connections would be immune to jamming, nullifying a mainstay in anti-drone defense. The Mighty Hornet III, a platform developed by the institute and private-sector partners, is an X-wing anti-armor attack drone that has a 3D-printed airframe, the institute said on its Web site. The vertical take-off-and-landing UAV has electro-optical sensors that enable autonomous navigation and target identification, it said. The main design goals of the platform are low cost, high mobility, and ease of manufacture and deployment, it said. Taiwanese travelers could face exit restrictions as China expands government control under new regulations, an analyst said yesterday. China’s State Council has released new exit and entry regulations that expand the authorities’ power to restrict travel. Hung Pu-chao (洪浦釗), deputy head of Tunghai University’s Center for Mainland China and Regional Development Research, said the new regulations focus on managing cross-border activities as a whole, bringing the movement of talent, technology, information and social networks under the scope of national security oversight. The 19-part rules, which take effect on Sept. 15, were issued by Beijing for “regulating exit and entry management, protecting legitimate MORE WORK AHEAD: Trains must be assembled when they arrive, and undergo static and dynamic testing, while operation-critical systems must be established, an official said Taiwan High Speed Rail Corp (THSRC) yesterday said it would implement its largest timetable overhaul in 20 years, including the introduction of “super express” trains linking northern and southern Taiwan without intermediate stops. The new timetable is scheduled to be announced in the fourth quarter of this year and could be implemented as early as the beginning of next year, it said. The last major timetable revision was in 2015, when stops in Miaoli, Changhua and Yunlin counties were added to select services. All 12 new N700ST trainsets are scheduled to enter service by September 2028, expanding the fleet to 46 from Japan’s Defense White Paper released yesterday highlighted Taiwan Strait security as a major concern, saying China has expanded military activities around Taiwan, used repeated drills to normalize the presence of the Chinese People’s Liberation Army (PLA), and strengthened blockade, precision strike, and joint operation capabilities. Chinese military aircraft entering Taiwan’s surrounding airspace surpassed 3,700 sorties last year, a sharp increase from about 970 in 2021, the paper said, adding that Chinese naval activity around Taiwan also rose to about 2,600 sorties. Since 2022, Beijing has repeatedly conducted large-scale military drills around Taiwan, said the paper, which is titled Security for the Future. The The National Park Service (NPS) is planning to charge visitors to many of the 100 Peaks of Taiwan as early as next year in order to fund environmental conservation and park operations. It has drafted amendments to the National Park Act (國家公園法) to establish a national park fund and charge visitors applying for an entry permit to ecologically protected areas of any of the nine national parks or the Shoushan National Nature Park (壽山國家自然公園). The draft would be sent to the Executive Yuan for review early next year, and could be implemented by the end of next year, sources said. The NPS sought",
@@ -389,7 +389,7 @@
       "source": "Nikkei Asia",
       "source_url": "https://asia.nikkei.com",
       "url": "https://asia.nikkei.com/business/finance/japan-to-weigh-changes-to-proprietary-trading-cap-as-volume-soars",
-      "published_at": "2026-08-07T14:55:04.922Z",
+      "published_at": "2026-08-08T14:33:51.802Z",
       "category": "business",
       "tags": [],
       "content": "Japan's Financial Services Agency has encouraged the growth of proprietary trading systems to ease the concentration of trading at the Tokyo Stock Exchange. (Photo by Yuji Murakami) TOKYO -- Japanese financial authorities will explore changing a rule that separates proprietary trading systems from full-fledged securities exchanges, Nikkei has learned, as the popularity of these alternative platforms grows.",
@@ -486,7 +486,7 @@
       "published_at": "2026-08-06T22:01:55+00:00",
       "category": "security",
       "tags": [],
-      "content": null,
+      "content": "German police disarmed a drone carrying explosives after it was discovered near Ukrainian cargo aircraft parked at Leipzig airport—and authorities are looking into the possibility of a second drone after an approaching aircraft collided with something midair.",
       "summary": "An explosive drone was discovered dangerously close to a Ukrainian cargo aircraft at Germany's Leipzig/Halle Airport, prompting a federal investigation into a suspected attack on national infrastructure. This incident, reported by Ars Technica and the Straits Times, underscores the escalating threat posed by autonomous aerial vehicles to critical European transportation hubs and national security.",
       "deck": "An explosive drone was found hovering near a Ukrainian cargo plane at Leipzig/Halle Airport.",
       "bullets": [
@@ -506,8 +506,8 @@
       ],
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/Drone-and-Antonov-cargo-plane-1152x648.jpg",
       "thumbnail_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/Drone-and-Antonov-cargo-plane-1152x648.jpg",
-      "word_count": null,
-      "read_time_minutes": null,
+      "word_count": 37,
+      "read_time_minutes": 1,
       "source_tier": 2,
       "source_lean": null,
       "cluster_label": "Drone Threats to European Infrastructure",
@@ -517,8 +517,8 @@
       "trust_score": 7,
       "analysis_reasoning": "Security-focused reporting on drone threats. Highlights the risks of autonomous tech in malicious hands.",
       "metadata": {
-        "author": null,
-        "paywall": false,
+        "author": "Jeremy Hsu",
+        "paywall": true,
         "language": "en"
       }
     },
@@ -580,7 +580,7 @@
       "published_at": "2026-08-07T00:30:08+00:00",
       "category": "geopolitics",
       "tags": [],
-      "content": null,
+      "content": "Advertisement Hong Kong science and tech Hong Kong Hong Kong Economy In Focus Hong Kong aims to be a global tech hub, but can it hold on to its young talent? An increasingly risk-averse culture and a lack of early-stage support may push young start-up founders to look overseas, critics warn 6 -MIN READ 6 -MIN Listen Leopold Chen Published: 8:30am, 7 Aug 2026 Updated: 8:31am, 7 Aug 2026 At just 18, Hong Kong tech enthusiasts Rexan Wong Chak-chi and Ken Mochizuki are both rushing to deliver their business ideas. However, their choices of launch pad could not be further apart. While Wong is eyeing Silicon Valley in the United States for better support, Mochizuki is keen to stay in the city and contribute to the local community. Their contrasting approaches highlight Hong Kong’s advantages and challenges as it strives to become a global innovation and talent hub under China’s strategic blueprint, with artificial intelligence (AI) and research transformation listed among the priorities of the city’s first five-year plan, to be released by the government later this year. While the city boasts cutting-edge university research, critics have warned that an increasingly risk-averse culture and a lack of early-stage support may push young tech talent towards overseas ecosystems. California dreaming Wong developed an interest in AI when he was 15 after joining a class on building mobile applications. He later connected with many leading tech entrepreneurs through X, formerly known as Twitter, and built an AI-powered app called Text Behind Image in 2024. He said the app allowed its 500,000 users to design images with text behind featured objects. Advertisement Select Voice Select Speed 0.8x 0.9x 1.0x 1.1x 1.2x 1.5x 1.75x 00:00 00:00 1.00 x",
       "summary": "Hong Kong's aspirations to become a leading global tech hub are increasingly challenged by a significant brain drain of young talent, driven by political instability and economic uncertainties. Despite government initiatives to attract investment, the continued exodus of skilled professionals undermines the city's ability to foster innovation and build a robust tech ecosystem, potentially ceding its competitive edge to other regional players.",
       "deck": "Hong Kong's tech hub dream threatened by young talent exodus.",
       "bullets": [
@@ -600,8 +600,8 @@
       ],
       "image_url": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/06/05f4be65-2d29-4d81-8a7a-7faf2b451dfe_66e92ffa.jpg?itok=Qozz8pZw&amp;v=1786028585",
       "thumbnail_url": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/06/05f4be65-2d29-4d81-8a7a-7faf2b451dfe_66e92ffa.jpg?itok=Qozz8pZw&amp;v=1786028585",
-      "word_count": null,
-      "read_time_minutes": null,
+      "word_count": 284,
+      "read_time_minutes": 2,
       "source_tier": 2,
       "source_lean": null,
       "cluster_label": "Hong Kong's Tech Talent Exodus",
@@ -611,8 +611,8 @@
       "trust_score": 7,
       "analysis_reasoning": "Addresses the intersection of politics and tech talent. SCMP often balances local pride with the reality of Beijing's influence.",
       "metadata": {
-        "author": null,
-        "paywall": false,
+        "author": "Leopold Chen",
+        "paywall": true,
         "language": "en"
       }
     },
@@ -671,7 +671,7 @@
       "source": "Taipei Times",
       "source_url": "https://www.taipeitimes.com",
       "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/08/07/2003862086",
-      "published_at": "2026-08-07T14:55:04.922Z",
+      "published_at": "2026-08-08T14:33:51.802Z",
       "category": "geopolitics",
       "tags": [],
       "content": "Add TT as Preferred Source The Mainland Affairs Council (MAC) yesterday confirmed that it has prevented Taiwanese from accessing the Taiwan Youth e-Family (台青e家) platform by suspending the domain name system resolution, as the Web site has contravened the Act Governing Relations Between the People of the Taiwan Area and the Mainland Area (臺灣地區與大陸地區人民關係條例). The site lists job vacancies and school admission information across China and allows users to submit their applications online, which poses a high risk as it requires Taiwanese to provide their personal data, MAC Deputy Minister Liang Wen-chieh (梁文傑) said. “The content on the Web site has contravened articles 23, 33 and 34 [of the act], which prohibit the recruiting of Taiwanese students on behalf of Chinese schools, helping Taiwanese find jobs in China and publishing job-related advertisement,” Liang said, adding that Taiwan’s laws are clear. The council will also monitor how Beijing implements its new exit-entry regulations for Chinese citizens, which is scheduled to take effect on Sept. 15, particularly in regards to regulations governing export controls and technology export management, he said. “The regulations could affect Taiwanese who have technology investments in China, serve in management positions in China-based firms, as well as those working in high-tech and semiconductor manufacturing firms in China,” he said. “Some of them might unknowingly contravene the regulations. We would continue to remind them to be aware of potential risks.” Asked whether the council would further raise the travel alert for China, Hong Kong and Macau, or request people who work in high-tech to register their trips to the three areas in advance, Liang said the government would have to watch developments before deciding if a policy change is necessary, as the rules have just been announced. The council is also aware of a New York Times story about the Zhangjiakou Public Security Bureau in Hebei Province, which has built a platform to collect about 12,000 data entries, including passports and mobile phone numbers of Taiwanese and foreign journalists, Liang said, adding that it was not an isolated case. “Every public security bureau in China has built a large database, using AI [artificial intelligence] and a large number of surveillance cameras to conduct a grid-based management of people. They divide the country into a massive number of grids. Each grid contains four to five managers to supervise 1,000 people. The managers are in charge of regularly reporting updated information of habitants,” he said. “We think what the New York Times reported matched the actual situations,” Liang said, adding that the prevalence of electronic payment systems in China has made it easier for public security bureaus to control the public. Civil servants traveling to China must apply in advance and provide information on the purpose of their travel, such as the names of relatives they visit, contact numbers, travel itineraries or conference documents, he said. The council said it does not require daily schedules and that the information collected is limited to what is necessary for oversight, he said. Taipei police today said they have launched an investigation into a well-known Pokemon Trading Card Game store in Taipei's Ximending (西門町) area after its sudden closure, with customers suspecting the owner absconded with up to NT$300 million (US$9.24 million). Little Sheep Card Shop (小羊卡牌社) in Wanhua District (萬華) — which specializes in card purchases and pre-orders, card grading services in Japan, submissions to the US and consignment sales — opened a physical storefront in January. Its three official Line groups, hosting up to 5,000 members each, and social media accounts on Facebook and Instagram all disappeared overnight, with the Ximending Typhoon Dolphin could bring heavy rain to northern Taiwan later this week if it tracks closer to the nation after passing the Ryukyu Islands, the Central Weather Administration (CWA) said yesterday. The CWA said forecast models agree the storm is to move toward the Ryukyu Islands through Thursday, but diverge over its path after that. One scenario has Typhoon Dolphin passing north of Taiwan, while another has it curving toward the Korean Peninsula if the Pacific high pressure system currently over the East China Sea and Taiwan weakens. Because of the uncertainty, it is still too Taiwan could issue a sea warning for Typhoon Dolphin as early as Friday afternoon if the storm maintains its current westward track, the Central Weather Administration (CWA) said yesterday. As of 2pm yesterday, the center of the typhoon was about 2,590km east of Taipei and moving west at 21kph, potentially bringing hazardous conditions to waters surrounding Taiwan by Saturday. Dolphin is expected to reach waters south of the Ryukyu Islands around Saturday, but its track beyond that remains highly uncertain, CWA forecaster Lin Ping-yu (林秉煜) said. The typhoon could either continue moving westward or veer northward, Lin said. A westward track would bring EXPANSIONISM: Taiwan has established a cross-agency mechanism to share its experience with other nations to help build a united front against China, Joseph Wu said National Security Council Secretary-General Joseph Wu (吳釗燮) has accused China of using its coast guard and other official vessels to threaten not only Taiwan, but the broader Indo-Pacific region. “The threat posed by China is toward the whole region,” Wu said in an English-language interview with Nikkei Asia published yesterday. The entire First Island Chain, stretching from Japan southward through Taiwan to the Philippines and Malaysia, is facing increasing maritime aggression, he said. Taiwan’s intelligence, surveillance and reconnaissance systems have detected a significant increase in Chinese official vessel activity in the East China Sea, the Taiwan Strait, the western Pacific and the South",
@@ -718,10 +718,10 @@
       "source": "Hankyoreh",
       "source_url": "https://www.hani.co.kr",
       "url": "https://www.hani.co.kr/arti/science/future/1271867.html",
-      "published_at": "2026-08-07T14:55:04.922Z",
+      "published_at": "2026-08-08T14:33:51.802Z",
       "category": "ethics",
       "tags": [],
-      "content": null,
+      "content": "본문 미래 인공지능은 해방의 도구일까, 속박의 굴레일까 수정 2026-08-07 10:37 펼침 0:00 Your browser does not support the audio element. 구글 선호 매체 등록 손현주의 AI 인류학 (15) AI는 불인가, 석유인가 불은 인간이라는 존재 양식의 전환점이었다. 인공지능도 그런 전환의 경로로 우리를 데려가고 있다. 픽사베이 약 40만년 전, 우리의 조상 중 누군가가 처음으로 불을 손에 넣었다. 고고학자들은 그 순간을 하나의 기술 혁신으로 기록하지만, 철학자라면 그것을 다르게 불렀을 것이다. 그것은 인간이 처음으로 자연의 논리 바깥에 발을 디딘 순간이었다. 불은 어둠을 밀어냈고, 추위를 쫓았으며, 익히지 않은 고기를 소화할 수 있는 음식으로 바꾸었다. 그러나 가장 중요한 것은, 불이 인간에게 밤을 주었다는 사실이다. 포식자가 지배하던 밤을, 인간은 불 앞에 모여 이야기를 나누고 의미를 짜는 시간으로 전환했다. 불은 생존 도구가 아니었다. 불은 인간이라는 존재 양식의 전환점이었다. 지금 우리는 다시 동굴 앞에 서 있다. AI라는 불이 타오르기 시작했다. 그리고 우리는 묻고 있다. 이것이 무엇인지. 이것이 우리에게 무엇을 줄 것인지. 이것이 우리에게서 무엇을 빼앗아 갈 것인지. 환경과학자 바츨라프 스밀은 저서 ‘세상은 실제로 어떻게 돌아가는가’에서, 인류 문명의 역사를 에너지 전환의 역사로 읽는다. 그는 우리에게 불편한 진실을 들이민다. 문명은 이념이나 철학이 아니라 에너지의 흐름으로 세워졌다는 것. 그리고 모든 위대한 에너지 전환은 우리가 생각하는 것보다 훨씬 느리고, 훨씬 복잡하며, 훨씬 위험하다는 것. 그렇다면 AI는 어디에 놓이는가? 새로운 불인가, 새로운 석유인가? 에너지는 문명의 언어다 인류의 역사는 물질을 선택하고 에너지를 변환해 온 거대한 서사이다. 영국의 경제 저널리스 에드 콘웨이는 저서 ‘물질의 세계’를 통해 모래, 소금, 철, 구리, 석유, 리튬을 역사를 움직인 핵심 원동력으로 꼽으며, 문명의 발전이 지극히 물리적인 자원 확보와 궤를 같이해 왔음을 증명한다. 스밀은 현대 문명을 지탱하는 네 가지 기둥으로 시멘트, 철강, 플라스틱, 그리고 암모니아를 제시한다. 콘웨이와 스밀은 화려한 반도체나 인터넷이 문명의 본질인 것처럼 착각하는 현대인의 통념에 경종을 울린다. 전자 혁명이 아무리 변혁적이었다 해도, 그것이 현대 문명의 근본적인 물질적 토대를 구성하지는 않는다는 것이 이들의 진단이다. 그런데 스밀의 논의에는 더 깊은 층위가 있다. 그는 에너지를 단순한 연료가 아니라 문명의 언어로 이해한다. 불의 통제가 인간을 동물과 구별했고, 농경이 유랑하는 인간을 정주하는 사회로 전환했으며, 증기기관이 인간의 근육 한계를 해방했고, 전기가 공간과 시간의 제약을 재편했다. 각각의 에너지 전환은 단순히 더 많은 힘을 제공한 것이 아니라, 인간이 세계와 관계 맺는 방식 자체를 바꾸었다. 이 시각으로 AI를 바라보면 무언가 달리 보이기 시작한다. AI는 방대한 양의 전기를 먹는다. 챗GPT 한 번의 질문은 구글 검색의 수십배에 달하는 전력을 소비한다. 마이크로소프트, 구글, 아마존은 AI 인프라를 위해 핵발전소를 재가동하거나 새로 건설하는 계획을 세우고 있다. AI는 디지털이라는 이름 아래 물리적 실체를 감추고 있지만, 그 본질은 거대한 전력 소비 기계다. 스밀의 언어로 말하자면, AI는 새로운 형태의 에너지 사건이다. 그런데 그것은 어떤 종류의 에너지 사건인가? 불은 인간에게 밤이라는 시간을 주었고, 그 밤에 인간은 이야기를 만들었다. 불빛 조명 속에서 동굴 벽화를 그리고 있는 구석기시대 유럽의 크로마뇽인을 묘사한 그림. 미국자연사박물관 제공 불의 계보: AI는 어디서 왔는가 불을 다루기 시작했을 때, 인간은 생존 에너지를 손에 넣었다. 하루하루를 버티는 것이 목표였고, 불은 그 생존을 가능하게 했다. 농경이 시작되었을 때, 인간은 생물 에너지의 논리에 올라탔다. 태양이 곡식을 키웠고, 곡식이 인간과 가축을 먹였다. 인간은 처음으로 미래를 계획할 수 있게 되었다. 씨를 뿌리는 행위는 내년 봄을 상상하는 행위였다. 산업혁명은 화석 에너지의 시대를 열었다. 수억년 동안 땅속에 농축된 태양 에너지가 증기기관을 통해 폭발적으로 해방되었다. 인간의 근육이 아니라 기계가 일하기 시작했고, 생산성은 이전과는 비교할 수 없는 규모로 도약했다. 전기의 시대는 에너지를 정보와 결합했다. 전신, 전화, 라디오, 텔레비전, 인터넷이다. 전기는 인간의 목소리와 생각이 물리적 공간을 넘어 이동할 수 있게 했다. 에너지는 정보 에너지가 되었다. 그리고 지금, AI의 시대가 열리고 있다. 무엇을 계산 에너지의 폭발이라고 부를 수 있을까? 이전의 모든 에너지 전환이 인간의 몸과 감각과 이동을 확장했다면, AI는 처음으로 인간의 판단과 추론과 의미 생성을 확장하려 한다. 아니, 대체하려 한다. 여기서 AI가 새로운 불이라는 주장의 핵심이 드러난다. 불이 인간을 다른 동물과 구별한 것은 불 자체의 열기 때문이 아니었다. 불은 인간에게 밤이라는 시간을 주었고, 그 밤에 인간은 이야기를 만들었다. 신화를 지었다. 의미를 찾았다. 불 앞에 모인 공동체는 단순한 생존 집단이 아니라 의미를 공유하는 문화 공동체가 되었다. AI도 마찬가지일 수 있다. AI가 반복적인 인지 노동을 처리하면, 인간은 더 깊은 질문으로 나아갈 수 있다. AI가 데이터를 분석하면, 인간은 그 데이터가 의미하는 것을 해석하는 데 집중할 수 있다. 불이 소화의 부담을 줄여 인간의 뇌가 더 크게 발달할 수 있게 했다는 진화론적 가설처럼, AI는 인지 부담을 줄여 인간이 더 본질적인 물음에 집중하게 할 수 있다. 그러나 이것은 하나의 가능성일 뿐이다. 역사는 에너지 전환이 항상 해방으로 귀결되지 않았음을 보여준다. 석유는 유정이 있는 자만이 가질 수 있었다. AI의 학습 데이터와 컴퓨팅 인프라는 유정에 가깝다. 픽사베이 석유의 그림자: AI는 무엇을 태우는가 우리는 사실상 화석 연료를 먹고 있다고 볼 수 있다. 현대 농업의 기적인 질소 비료는 천연가스를 태워 공기 중의 성분을 붙잡아 두는 화석 연료의 연금술(하버-보슈 공정)을 통해 탄생하기 때문이다. 여기에 농기계를 움직이는 정밀하게 정제된 석유 연료가 투입되고, 수확한 식품을 운반하고 저장하고 가공하는 모든 과정에 막대한 에너지가 쏟아진다. 인류의 절반 가까이가 이 합성 비료 없이는 당장 생존조차 불가능한 것이 현실이다. 우리의 생존은 화석 연료에 묶여 있다. 석유는 해방의 도구였다. 그러나 동시에 가장 강력한 종속의 도구가 되었다. 석유 없이는 아무것도 움직이지 않는 세계를 우리는 만들었고, 이제 그 세계에서 빠져나오는 것이 이 시대의 가장 어려운 과제가 되었다. AI가 석유가 될 수 있다는 두려움은 바로 여기서 온다. AI는 이미 거대한 소수의 손에 집중되어 있다. 오픈AI, 구글, 마이크로소프트, 메타, 아마존. 이 몇개의 기업이 AI 인프라를 장악하고 있다. 불은 숲에 불을 지르면 누구나 얻을 수 있었다. 석유는 유정이 있는 자만이 가질 수 있었다. AI의 학습 데이터와 컴퓨팅 인프라는 유정에 가깝다. 특정한 지질 조건이 필요하듯, AI의 핵심 능력은 특정한 자본과 데이터의 집중이 필요하다. 더 깊은 문제는 의존성이다. 우리는 AI 의존성을 경계해야 한다. 석유에 의존하는 농업이 석유 가격 폭등에 취약하듯, AI에 의존하는 판단 체계는 AI 오류나 AI 통제자의 결정에 취약해진다. 이미 우리는 알고리즘이 무엇을 볼지를 결정하는 세계에 살고 있다. 소셜 미디어 알고리즘은 우리의 관심을 먹이로 삼아 분노와 공포를 증폭시켜 왔다. 더 강력한 AI는 더 깊은 층위에서 우리의 판단을 형성할 것이다. 불이 인간에게 밤을 주었다면, 잘못된 방향의 AI는 인간에게서 낮을 빼앗을 수 있다. 철학자 한나 아렌트는 악의 평범성을 이야기하면서, 생각하지 않는 것이 얼마나 위험한지를 경고했다. AI 시대의 위험은 단순히 AI가 나쁜 일을 할 수 있다는 것이 아니다. AI가 우리 대신 생각함으로써 우리가 생각하는 능력을 잃어버릴 수 있다는 것이다. 그것은 불을 잃는 것과 같다. 느린 대전환: 속도와 규모의 역설 우리는 변화의 속도를 과대평가하고, 변화의 규모를 과소평가한다. 재생에너지는 분명 확산하고 있지만, 화석 연료를 대체하기까지는 수십년이 걸릴 것이다. 왜냐하면 현대 문명의 모든 인프라는 화석 연료를 전제로 설계되어 있기 때문이다. AI도 마찬가지다. AI는 놀라운 속도로 발전하고 있다. 그러나 AI가 실제로 사회를 변화시키는 속도는 우리가 상상하는 것보다 느릴 것이다. 그리고 그 변화는 균등하게 분배되지 않을 것이다. 더 중요한 것은, 우리가 AI 시대를 위한 제도적·윤리적 인프라를 아직 갖추지 못했다는 사실이다. 증기기관이 발명된 후 노동자들의 권리가 법으로 보호받기까지 한 세기가 걸렸다. 전기가 보급된 후 독과점을 규제하는 제도가 정비되기까지 수십년이 걸렸다. AI는 그 어떤 이전 기술보다 빠르게 확산하고 있다. 제도가 기술을 따라잡을 수 있는가. 인류는 수많은 난관을 극복하며 진보해 왔으나, 그 과정 중 어느 것 하나 쉬운 일은 없었다. 불의 발견이 인간에게 힘을 주었지만, 동시에 화재의 위험을 만들었다. 농경은 인류에게 풍요를 주었지만, 동시에 기아의 공포도 만들었다. 화석 연료는 산업 문명을 가능하게 했지만, 기후 위기를 만들었다. AI는 그 무엇보다 큰 힘을 인간에게 줄 것이다. 그리고 그 어떤 이전 기술보다 큰 위험도 함께 가져올 것이다. 이 두 가지 사실을 동시에 보는 것이 지금 우리에게 필요하다. 40만년 전, 불 앞에 모인 인간들은 그 불로 무엇을 할지 몰랐다. 그들이 발견한 것은 함께 앉아 이야기를 나눌 수 있다는 사실이었다. 픽사베이 다시 묻는다: 우리는 어떤 불을 원하는가 우리의 미래는 미리 정해져 있지 않다. 우리의 행동이 결과를 만든다. 그리고 그 행동은 우리가 세계를 얼마나 정확하게 이해하느냐에 달려 있다. AI가 인류에게 새로운 불인지 새로운 석유인지는, 사실 우리가 결정해야 할 문제다. 그것은 이미 정해진 기술적 운명이 아니다. 불은 인간에게 빛을 주었지만, 그것으로 집을 태울 수도 있었다. 우리의 조상들은 불을 사용하는 문화와 규범을 발전시킴으로써 불의 혜택을 취하고 위험을 줄였다. AI도 마찬가지다. 우리에게는 AI를 공공재로 만들 수도 있고, 소수의 사유재로 방치할 수도 있는 선택이 있다. AI로 인간의 판단력을 강화할 수도 있고, 대체할 수도 있다. AI를, 민주주의를 강화하는 도구로 쓸 수도 있고, 약화하는 도구로 쓸 수도 있다. 다시 동굴 앞에 선 우리에게 필요한 건 두 가지다. 기술이 세계를 어떻게 작동시키는지, 에너지와 물질의 현실이 무엇인지 환상 없이 바라보는 시선이다. AI의 가능성을 과장하지도, 위험을 과소평가하지도 않는 정직한 인식이다. 또 하나는 인문학의 온기다. AI를 통해 우리가 어떤 인간이 되고 싶은지를 묻는 말이다. 더 빠른 계산이 아니라 더 깊은 의미를 향한 갈망이며, 효율이 아니라 존엄을 중심에 두는 가치다. 40만년 전, 불 앞에 모인 인간들은 그 불로 무엇을 할지 몰랐다. 그들이 발견한 것은 불이 아니었다. 함께 앉아 이야기를 나눌 수 있다는 사실이었다. 의미를 만들 수 있다는 사실이었다. AI라는 불이 타오르는 지금, 우리가 발견해야 할 것도 기술이 아닐 것이다. 이 불 앞에서, 우리가 함께 어떤 이야기를 나눌 것인가. 그것이 이 시대의 진짜 질문이다. 손현주/전주대 창업경영금융학과 교수(미래학)",
       "summary": "South Korea's Hankyoreh newspaper is running a deep dive into the dual nature of artificial intelligence, posing the critical question of whether AI will ultimately serve as a tool for human liberation or as a mechanism for societal constraint. This nuanced exploration reflects growing global anxiety about AI's ethical implications, particularly concerning autonomy, surveillance, and its potential to reshape the fundamental structures of human society.",
       "deck": "Hankyoreh explores whether AI is a tool for liberation or constraint.",
       "bullets": [
@@ -741,8 +741,8 @@
       ],
       "image_url": null,
       "thumbnail_url": null,
-      "word_count": null,
-      "read_time_minutes": null,
+      "word_count": 1366,
+      "read_time_minutes": 7,
       "source_tier": 2,
       "source_lean": null,
       "cluster_label": "AI's Societal Impact: Liberation or Control?",
@@ -765,10 +765,10 @@
       "source": "Hankyoreh",
       "source_url": "https://www.hani.co.kr",
       "url": "https://www.hani.co.kr/arti/society/environment/1271652.html",
-      "published_at": "2026-08-07T14:55:04.922Z",
+      "published_at": "2026-08-08T14:33:51.802Z",
       "category": "technology",
       "tags": [],
-      "content": null,
+      "content": "본문 환경 이 대통령도 언급한 영농형 태양광…‘농민의 것’ 될 수 있을까 최원형 기자 수정 2026-08-06 11:24 펼침 0:00 Your browser does not support the audio element. 구글 선호 매체 등록 전지적 기후변화 시점 12월 시행 앞둔 영농형태양광 특별법(13) 지난 20일 충북 청원군 오창읍에 위치한 영농형태양광 실증 단지에서 태양광발전 모듈로부터 빈 밭으로 떨어진 낙수가 고랑을 이루고 있는 모습. 빽빽한 일반형 모듈일 경우엔 낙수 피해가 더 커진다고 김창한 회장은 말했다. “농촌은 전력 식민지가 아니다.” 전국농민회총연맹(전농)이 지난달 7일 국회에서 기자회견을 열었다. 재생에너지 설비가 주거지역 등에서 얼마나 떨어져야 하는지(이격거리)를 정한 규제를 정부가 완화하려 한다며 규탄했다. “전력 식민지”, “보호장치 무력화” 같은 표현에서, 재생에너지를 ‘위협’으로 여기는 농촌 일각의 인식이 드러난다. 태양광 이격거리 규제에는 과학적 근거가 없다는 것이 전문가의 공통된 의견이다. 그렇지만 이들이 느끼는 ‘위협’이 실재하지 않는다고 치부할 순 없다. 그간 재생에너지 설비 확충은 주로 농지에서 이뤄졌기 때문이다. 농어촌공사 통계를 보면, 전국에서 태양광발전 설치 목적의 농지 용도 변경(전용) 면적은 2014년 253.1헥타르(ha)에서 2018년 3496.1ha로 14배 가까이 늘었다. 특히 전북·전남·경북 등 농촌 지역이 많았다. 발전 수익이 농사 수익보다 좋은 한 그 땅에선 농사가 제대로 이뤄지지 않는다. 이후 임차농 소득 저하, 농업생산성 하락, 식량 안보 위협 등으로 이어진다. 또 사업자 대부분이 외지 발전업자들이라, 태양광은 ‘농민의 것’과 거리가 멀다. 지난 4일 기후에너지환경부 업무보고에서 이재명 대통령도 “이제 태양광 농사(영농형태양광)를 지으면 서울서 일하는 것보다 더 많이 편하게 벌 수 있다. 그 상황을 만들어줘야한다”고 했지만, “핵심은 송배전망”이라며 농업의 병행보단 전력망 쪽에 더 방점을 찍었다. 태양광이 농민의 것일 순 없을까? 중부지방에 장맛비가 퍼붓던 지난달 20일, 충북 오창읍 탑리 600평 규모 ‘영농형태양광’ 실증단지에 비가 왔다. 샐러리·케일을 수확한 빈 밭에 일정 간격으로 기둥이 박혔고, 3.5m 높이에 태양광발전 모듈이 설치돼 있었다. 모듈을 타고 흐르는 빗물이 밭 위로 끊임없이 떨어져 세 줄씩 고랑을 만들었다. “그나마 ‘협소형’을 써서 줄이 세 개만 생기지, 밀도 높은 일반형 모듈을 썼으면 여섯 줄, 열두 줄도 생겼을 거예요. 낙수 피해는 우박보다 큰데, 작물이 받는 피해가 그만큼 커진단 얘기죠.” 지난 8년간 “어떻게 하면 태양광 아래에서 농사가 가능한지”에 천착했다는 김창한 한국영농형태양광협회 회장의 설명이다. 영농형태양광은 농지 위에 태양광발전 설비를 설치해 농사와 발전을 병행하는 것을 말한다. 농민운동과 유기농업에 매진해온 그는 15년 전 일본에서 영농형태양광을 처음 접했고, 수많은 시행착오를 겪으며 나름의 ‘표준’을 만들었다 자부한다. 그의 말대로면, 영농형태양광은 오롯이 농민의 것이 될 수 있다. 지난 20일 김창한 한국영농형태양광협회 회장이 충북 청원군 오창읍에 위치한 영농형태양광 실증 단지를 소개하고 있다. 세로폭이 좁아 햇빛을 30%만 가리는(차광률) 협소형 모듈이 그 중심에 있다. 하부 농작물에 필요한 일조량을 확보하려 상부 태양광 밀도를 낮추는 것이다. 또 농기계가 지나도록 모듈은 3m 이상, 기둥 사이는 4m 이상 간격을 확보했다. “기둥도 사각이 아닌 원통으로, 스크류 방식으로 박았어요. 그래야 작물 면적을 확보하고, 농기계와 부딪혀도 농작물 피해를 줄일 수 있거든요.” 발전보다 농사를 우선 하는 이 노력들은 설치 비용을 높이는 요소다. 일반형 모듈을 빽빽히 설치하면 더 싸게 더 많은 전력을 생산하지만, 작물 생산이 어려워진 땅은 농민이 것이 아니게 된다. 김 회장은 “월 100만원 농민연금 모델”이 영농형태양광의 목적이라 말했다. 소멸 위협이 날로 커지는 농촌에 들어오는 발전 설비를, 아예 농민의 연금처럼 농사를 지을 발판으로 삼자는 것이다. 협회의 원칙은, “농지 발전은 농민에게만, 또 영농형태양광 형태로만 허용해야 하며, 규모는 1인당 100㎾로 제한해야 한다”는 것이다. 아무리 영농형태양광이라 해도 발전이 주된 목적이면 “농사를 잡아먹는 본말전도가 일어날 것”이라고 김 회장은 말했다. 실증 결과 600평 농지에 협소형 모듈을 설치하면 월 100㎾ 전력을 생산해 100만원가량 수익을 낼 수 있다 한다. 한국영농형태양광협회가 적용하고 있는 영농형태양광 설비의 설계도. 3.5미터의 높이, 4미터의 간격 등을 규정하고 있다. 한국영농형태양광협회 제공 앞선 일본의 사례는 시사하는 바가 많다. 일본은 농작물 수확량 감소 비율(감수율)을 20% 이하로 떨어뜨리지 않는다는 조건을 걸고 농지에서 영농형태양광을 할 수 있도록 2013년부터 허가했다. 그 뒤 10여년간 허가 건수가 6천건이 넘는 등 겉으로 볼 땐 성공적으로 보인다. 그러나 실상은 달랐다. 설치 주체의 73%가 발전사업자였다. 하부 농지 작물 36%는 후피향나무 같은 관상용이었는데, 모듈 아래에서도 쉽게 자라는 ‘음지성 식물’을 심었기 때문이다. 발전 설비로 하부 농지의 영농이 지장 받은 비율도 24%나 됐다. 우리나라에선 지난달 ‘영농형태양광 특별법’이 공포돼 올해 12월 시행을 목표로 시행령을 만드는 단계다. 김 회장은 “만시지탄이지만 그나마 다행”이라고 했다. 그는 “그동안 다양한 실증 사업을 해왔고, 저도 양배추 등 7~8개 품목을 직접 해봤는데, 제대로만 하면 농사는 무조건 된다”고 자신했다. 들깨·참깨는 감수율이 1% 수준으로 거의 없었고, 녹차는 되레 두 배 가까이 증수됐다. 배 같은 과수는 모듈이 냉해·서리를 막아주는 효과까지 누렸다. 이런 실증 성과들은 이미 정부기관 등에도 널리 공유됐다. 문제는, 일본 사례에서 보듯 제도가 부실하면 ‘언제든 발전이 농사를 잡아먹는다는 사실’이다. 협회는 협소형 모듈을 통한 차광률 30% 제한, 1인당 발전용량 100㎾ 허용 등의 원칙이 명확히 반영되어야 한다고 주장한다. 또 앞으로 농촌을 책임질 청년농에겐 1인당 발전용량 300㎾를 허용해 농업에 정착하는 징검다리로 삼게 해주는 등 영농형태양광을 미래 농촌을 설계하기 위한 적극적인 정책 수단으로 삼아야 한다고도 제안한다. 충북 청원군 오창읍에 위치한 영농형태양광 실증 단지에 태양광발전 모듈 밑으로 농기계가 이동하며 경작을 하고 있는 모습. 한국영농형태양광협회 제공 김 회장은 “최근 정부기관 쪽으로부터 ‘협소형 모듈을 만드는 국내 업체가 없다’는 이유로 영농형태양광에 일반형 모듈을 써도 되지 않겠냐는 얘기를 들었다. 그런 식으로 하나씩 ‘타협’을 했다가는 또다시 농민 반발에 부닥쳐 발전과 농사 모두를 잃을 수 있다”고 말했다. “정부가 제도와 표준을 통해 ‘농사가 우선이고 발전은 도구’라는 것을 명확히 보여줘야 더 많은 농민이 참여해 시장이 형성되고 기업도 뛰어들게 할 수 있다”는 것이다. 발전이 농사를 잠식했다지만, 그렇다고 발전이 마냥 늘기만 한 것도 아니었다. 2018년 3496.1ha로 정점을 기록했던 태양광 농지전용 면적은 2024년 900.1ha 수준으로 확산세가 줄었다. 부족한 전력망이 설비 확충을 감당하지 못한 것이 결정적이었지만, 이격거리 논란에서 보듯 재생에너지에 대한 주민 반발과 갈등, 농촌 소멸 우려 등도 주요 원인으로 꼽힌다. ‘태양광은 농민의 것’이라는 인식이 자리잡지 못하면, 이는 앞으로도 쉽게 넘기 어려운 장벽이 될 수 있다. 김 회장은 “지금은 ‘앞으로 우리 농촌이 어떻게 될 것이냐’에 초점을 맞출 때”라며 “농사와 발전을 함께 하는 영농형태양광이 그 길을 보여줄 수 있다”고 단언했다. 농민 10만명이 100㎾씩 태양광 10GW 설치하면… 매달 100만원 ‘연금’ 이재명 정부는 현재 37기가와트(GW) 수준인 재생에너지 설비용량을 2030년까지 100GW로 늘리겠다고 했다. 이를 위해 지난 5월 내놓은 ‘제1차 재생에너지 기본계획’을 보면, 현재 30.8GW 수준인 태양광은 2030년까지 87GW로 56.2GW만큼 늘려야 한다. 이 중 11.GW가 ‘영농형·수상형’의 몫이다. 간척지·접경지역 등을 활용해 전체 12GW 용량의 ‘초대형’ 발전단지를 짓는 계획의 일부도 ‘영농형’으로 한다 했으나, 이는 원래 있던 농지에 들어서는 것은 아니다. 이는 한국영농형태양광협회의 전망과도 얼추 비슷하다. 협회는 앞으로 농민 10만명이 100㎾씩 영농형태양광 10GW를 설치해 월 백만원 정도의 ‘농민연금’을 받을 수 있다고 본다. 여기엔 농지 2만ha 정도가 필요하다. 농촌 전체에 설비용량 10~11GW를 맡기는 수준이라면, 전체 농지 면적(150만ha)의 1.33%에서 농사와 발전을 동시에 추구하는 것이 가능하다는 얘기다. 지난 6월 영농형태양광 특별법이 공포되어, 이를 실행할 수 있는 근거도 마련된 상태다. 문제는, 우리 사회가 농촌에 요구할 재생에너지 설비용량이 과연 10~11GW 수준에서 그칠 것이냐다. 농업·기후 관련 정책연구단체인 ‘식량과기후’의 남재작 대표는 “재생에너지를 늘릴 수 있는 잠재력이 농촌에 집중되어 있는 것이 현실인데, 정부 계획은 두루뭉술하다. 결국 다른 분야에서 채우지 못하는 목표치가 ‘블랙박스’로 남겨놓은 농촌으로 몰릴 가능성이 높다”고 짚었다. 식량과기후는 최근 영농형태양광 관련 포럼을 열었는데, 여기서 발표를 맡은 기후·에너지 정책연구단체 ‘넥스트’의 송용현 부대표는 “영농형태양광의 잠재량 자체는 100㎾ 이상 필지에만 설치해도 193GW, 소규모 필지까지 합하면 434GW에 이를 것으로 분석된다”고 밝혔다. 만약 농촌에서 더 많은 태양광을 생산해야 할 경우, 여기엔 개별 농가가 농민연금을 받는 모델과는 다른 영농형태양광 모델이 필요하다고 남 대표는 주장했다. 발전용량 10~30㎿ 기준으로 농업인들이 공동영농 조직(들녘경영체·마을)을 통해 흩어진 농지를 모아 농업과 발전을 함께 하는 모델, 농업법인이나 지역 컨소시엄이 재생에너지지구에서 산업수요에 직결되는 50㎿ 이상을 대량생산하는 모델 등을 더해 역할을 분담하자는 것이다. 농지를 모으면 농업 생산과 발전 모두에서 ‘규모의 경제’를 구현할 수 있으며, 이는 현재 태양광 활성화에 가장 큰 걸림돌로 꼽히는 ‘계통 문제’를 해결하는 방법이 될 수도 있다. 우리나라는 현재 전력을 생산하는 설비는 많지만 이를 실어나를 전력망이 부족한 상황이다. 태양광 설비가 가장 많은 호남지역의 경우 생산된 전력을 전력망에 보내지 못하는 ‘접속 제한’까지 겪고 있다. 송 부대표는 전력망 접속을 감안할 경우 영농형태양광 잠재량 434GW는 25GW로 급감하며, 변전소를 신·증설하는 데에는 적어도 3~6년이 걸릴 것이라 분석했다. 영농형태양광 특별법 주요 내용은? 지난 6월 공포된 영농형태양광 특별법의 특징은 영농형태양광을 할 수 있는 진입조건을 비교적 엄격하게 정했다는 것이다. 사업 주체를 실경작자(임차농 포함, ‘재생에너지지구’에선 농업법인도 허용)와 주민참여협동조합으로, 사업 부지를 농업진흥지역 밖의 농지(재생에너지지구는 허용)로 한정했다. 농지를 전용할 수 있는 기간은 최대 23년이며, 농사를 의무적으로 짓고 이를 확인받아야 한다. 임차농 보호를 위해, 사업기간 동안 임대차 계약을 자동 갱신하고 임대료 인상 폭은 5% 초과할 수 없도록 제한했다. 또 부지면적, 발전용량 등 사업 규모를 제한하거나 조건을 설정할 수 있도록 열어놨다. 앞으로 만들어질 시행령에서는 영농의무 비율을 어떤 방식으로 설정할지, 면적·용량에 어떤 상한을 둘 것인지 등이 구체적으로 담길 것으로 전망된다. 최원형 기자 circle@hani.co.kr",
       "summary": "South Korea's Hankyoreh reports on the growing adoption of 'agrivoltaics,' a sustainable practice combining farming with solar power generation on the same land, promising a 'bright future' for rural communities. This innovative approach addresses both energy demands and agricultural productivity, offering a model for rural revitalization and decentralized energy production, while minimizing land-use conflicts.",
       "deck": "Agrivoltaics combine farming and solar power, bringing 'bright future' to rural Korea.",
       "bullets": [
@@ -788,8 +788,8 @@
       ],
       "image_url": null,
       "thumbnail_url": null,
-      "word_count": null,
-      "read_time_minutes": null,
+      "word_count": 1282,
+      "read_time_minutes": 7,
       "source_tier": 2,
       "source_lean": null,
       "cluster_label": "Agrivoltaics: Sustainable Energy & Agriculture",
@@ -799,7 +799,7 @@
       "trust_score": 7,
       "analysis_reasoning": "Positive framing of sustainable tech. Pro-environment and pro-rural development.",
       "metadata": {
-        "author": null,
+        "author": "최원형",
         "paywall": false,
         "language": "en"
       }
@@ -812,10 +812,10 @@
       "source": "Hankyoreh",
       "source_url": "https://www.hani.co.kr",
       "url": "https://www.hani.co.kr/arti/area/chungcheong/1271861.html",
-      "published_at": "2026-08-07T14:55:04.922Z",
+      "published_at": "2026-08-08T14:33:51.802Z",
       "category": "technology",
       "tags": [],
-      "content": null,
+      "content": "본문 충청 ‘주민 380명’ 섬마을서 열린 AI 교실…“아이들 디지털 미래로 성장 지원” 김중곤 기자 수정 2026-08-07 10:12 펼침 0:00 Your browser does not support the audio element. 구글 선호 매체 등록 충남 보령 오천면 삽시도 오천초등학교 삽시분교장 마을돌봄터(삽시제일교회)에서 초등학생들을 대상으로 인공지능 교육이 이뤄지고 있다. 호서대학교 제공 디지털 기술을 접하기 어려운 인구 380명(2024년 12월 기준)의 작은 섬마을에서 인공지능(AI) 교육이 펼쳐져 눈길을 끈다. 호서대학교는 충남온종일아동돌봄통합지원단과 함께 6~7일 충남 보령 오천면 삽시도 오천초등학교 삽시분교장 마을돌봄터(삽시제일교회)에서 초등학생들을 대상으로 ‘이솝(상상을 현실로 스토리텔링 인공지능)’ 프로그램을 운영했다고 밝혔다. 8차시로 구성된 이번 교육에서 학생들은 생성형 에이아이와 에이아이 챗봇, 엔트리 블록코딩(시각화한 코딩)을 활용해 자신만의 이야기를 직접 만들며 인공지능을 체험했다. 이번 교육은 전국 초중고 학생들의 디지털 역량을 높이고 지역 간 교육격차를 해소할 수 있도록 교육부와 한국과학창의재단이 추진하는 디지털새싹 사업으로 마련됐다. 호서대는 2022년부터 이 사업 주관기관을 맡아 삽시도를 비롯해 경기 가평, 충북 보은·단양, 충남 태안·청양, 강원 인제·화천, 경북 청도·영덕 등 전국 섬과 산간의 교육 소외 지역을 찾고 있다. 전수진 호서대 에이아이·소프트웨어교육센터장은 “도서·산간 지역까지 에이아이 교육을 확대해 아이들이 디지털 시대를 이끌어갈 미래 인재로 성장할 수 있도록 지원을 아끼지 않겠다”고 말했다. 김중곤 기자 kgony@hani.co.kr",
       "summary": "A remote island village in South Korea, with a population of just 380, has launched an AI classroom initiative, aiming to provide its children with a 'digital future.' This grassroots effort highlights the critical importance of digital inclusion, demonstrating how even the most isolated communities are striving to bridge the digital divide and equip the next generation with essential AI literacy, challenging urban-centric tech development models.",
       "deck": "Remote island village with 380 residents hosts AI classroom.",
       "bullets": [
@@ -835,8 +835,8 @@
       ],
       "image_url": null,
       "thumbnail_url": null,
-      "word_count": null,
-      "read_time_minutes": null,
+      "word_count": 171,
+      "read_time_minutes": 1,
       "source_tier": 2,
       "source_lean": null,
       "cluster_label": "Digital Inclusion & AI Education",
@@ -846,7 +846,7 @@
       "trust_score": 7,
       "analysis_reasoning": "Human-interest story on digital inclusion. Highly positive view of tech as an equalizer.",
       "metadata": {
-        "author": null,
+        "author": "김중곤",
         "paywall": false,
         "language": "en"
       }
@@ -862,7 +862,7 @@
       "published_at": "2026-08-06T08:01:00+00:00",
       "category": "technology",
       "tags": [],
-      "content": null,
+      "content": "Artificial intelligence at times sees power usage spike as much as 50% above its design capacity. | BLOOMBERG",
       "summary": "The surging and unpredictable power demands of AI workloads are actively damaging existing data center infrastructure. Unlike traditional computing, AI's peak-and-trough power consumption cycles stress hardware beyond its design limits, leading to equipment failure and inefficient energy use.",
       "deck": "The volatile power consumption of AI is causing significant damage to data center infrastructure.",
       "bullets": [
@@ -882,8 +882,8 @@
       ],
       "image_url": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/08/06/555836.jpg",
       "thumbnail_url": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/08/06/555836.jpg",
-      "word_count": null,
-      "read_time_minutes": null,
+      "word_count": 18,
+      "read_time_minutes": 1,
       "source_tier": 2,
       "source_lean": null,
       "cluster_label": "AI Infrastructure Strain",
@@ -893,8 +893,8 @@
       "trust_score": 7,
       "analysis_reasoning": "Critical look at the physical and environmental costs of AI infrastructure. Focuses on hardware failure.",
       "metadata": {
-        "author": null,
-        "paywall": false,
+        "author": "Naureen S. Malik",
+        "paywall": true,
         "language": "en"
       }
     },
@@ -956,7 +956,7 @@
       "published_at": "2026-08-05T22:06:00+00:00",
       "category": "technology",
       "tags": [],
-      "content": null,
+      "content": "Demis Hassabis, chief executive officer of Google DeepMind, attends a memorandum of understanding signing ceremony in Seoul on April 27. | BLOOMBERG",
       "summary": "Google's AI division is undergoing a significant leadership reshuffle, marked by the departure of long-standing veterans. This seismic shift comes as the company navigates intense competition in the AI space, signaling potential changes in strategic direction or internal power dynamics.",
       "deck": "Google's AI division is experiencing significant leadership churn, with key veterans departing.",
       "bullets": [
@@ -976,8 +976,8 @@
       ],
       "image_url": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/08/06/555702.jpg",
       "thumbnail_url": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/08/06/555702.jpg",
-      "word_count": null,
-      "read_time_minutes": null,
+      "word_count": 22,
+      "read_time_minutes": 1,
       "source_tier": 2,
       "source_lean": null,
       "cluster_label": "Google AI Leadership Shake-up",
@@ -987,8 +987,8 @@
       "trust_score": 7,
       "analysis_reasoning": "Neutral reporting on corporate restructuring. The source is a reputable international daily.",
       "metadata": {
-        "author": null,
-        "paywall": false,
+        "author": "The Japan Times",
+        "paywall": true,
         "language": "en"
       }
     },
@@ -1003,7 +1003,7 @@
       "published_at": "2026-08-06T14:15:00+00:00",
       "category": "security",
       "tags": [],
-      "content": null,
+      "content": "Stay Connected Featured eBooks Efficiency, After a Year of DOGE Read Now CDM Read Now Insights & Reports By David DiMolfetta , Cybersecurity Reporter, Nextgov/FCW | August 6, 2026 The remarks underscore a grim outlook for cyberdefenders showing that AI systems are able to exploit vulnerabilities faster than governments can patch them. Artificial Intelligence Cyber Threats International LAS VEGAS — The rise of autonomous artificial intelligence systems capable of finding and exploiting software flaws is putting serious pressure on governments to treat cyberattacks as inevitable events rather than rare emergencies, senior officials from the United States, Canada and Britain said Wednesday. “Cyber compromise is not a black swan anymore. It’s just a swan,” Joseph Alm, the Department of Homeland Security’s assistant secretary for cyber, infrastructure, risk and resilience policy, said on an OpenPolicy panel at the Black Hat cyber conference. Organizations can no longer treat a breach as an unforeseeable crisis, he argued, and they should instead assume one will occur and prepare to limit the damage. Alm said governments and companies need to devote more attention to “harm reduction,” including the steps they would take to contain an intrusion and continue operating after a hacker gets inside. AI is making it easier for hackers to find and exploit the weaknesses already buried in older technology, he added. The remarks highlight a bleak near-term reality for cyberdefenders that concludes AI systems will find and exploit weaknesses faster than governments can fix them, and that agencies will need to assume some attacks will succeed and plan accordingly. Michael Duffy, the federal government’s acting chief information security officer, said federal cyber policies over the past decade have largely been written after a crisis, with the Office of Personnel Management and SolarWinds breaches prompting new requirements designed to prevent the same failures from recurring. The U.S. has become better at finding what went wrong and preventing the same failure from happening again, but the next decade needs to focus on anticipating attacks and ensuring agencies can continue functioning while under pressure, he argued . “We know things cannot go down for an extended period of time,” Duffy said. Some officials, however, cautioned against viewing AI as the source of most cyber risk. Jonathon Ellison, the U.K. National Cyber Security Centre’s director for national resilience, said a more immediate problem for many organizations remains the large number of known weaknesses already sitting inside their networks after years of underinvestment. Policy discussions can focus too heavily on AI discovering new vulnerabilities when companies are already carrying enormous security burdens from outdated and poorly secured technology, Ellison said. Thomas Lind, a former intelligence officer who directed policy at the White House Office of the National Cyber Director until June, noted that while officials anticipated advanced AI cyber capabilities, the rapid proliferation of these tools beyond certain governments and large firms has drastically reduced response times for policymakers and defenders. Rajiv Gupta, head of the Canadian Centre for Cyber Security, similarly described autonomous agents as a significant change that governments are still working to understand, even though Canada has used less advanced forms of AI in cyber defense for years. At the same time, he said, countries still face a substantial backlog of older technology that must be replaced or secured, and governments will not have a “patch army” capable of fixing every vulnerable system for every organization. That reality has led Canadian officials to consider what basic services citizens should expect the government to preserve during an extreme disruption, including the hypothetical loss of internet access for as long as three months. Gupta described the work as a “Minimum Viable Canada” initiative focused on identifying and maintaining the country’s most essential functions through a crisis. The warnings come amid a series of recent unprecedented cyber incidents involving autonomous AI agents. Last month, OpenAI models escaped an internal cybersecurity evaluation environment and breached Hugging Face. Britain’s AI Security Institute disclosed this week that agents powered by Anthropic’s Mythos 5 and OpenAI’s GPT-5.6 Sol took unauthorized actions on the public internet during testing, including an unsuccessful attempt to place malicious code in an open-source software project. And just Wednesday, Meta confirmed that one of its models exploited a flaw at another company after an outside testing firm mistakenly gave it internet access. Duffy said he is working with NIST, the Cybersecurity and Infrastructure Security Agency and other parts of the government to more quickly turn technical guidance on emerging cybersecurity risks, including those involving AI, into policies for federal agencies. He didn’t provide a timeline for any finalized guidance. The government can’t wait for another major incident to determine how AI should be governed or how agencies should use them, Duffy argued. “We likely won’t have time to pick up the pieces with the speed and the scale of what we’re seeing in these AI capabilities,” he said. “We know the types of steps that need to be taken. Let’s take them now.” Share This:",
       "summary": "Western officials, including those in the US, are increasingly viewing cyberattacks as 'routine' occurrences, a policy shift driven by the rapid advancements in AI that make such attacks more frequent and sophisticated. This normalization suggests a recalibration of national security strategies, moving from reactive responses to proactive defense mechanisms, acknowledging that constant digital warfare is the new normal. The implication is that governments are accepting persistent cyber threats as an inherent cost of the digital age.",
       "deck": "US officials now deem cyberattacks 'routine' due to AI advancements, shifting policy approach.",
       "bullets": [
@@ -1023,8 +1023,8 @@
       ],
       "image_url": "https://cdn.nextgov.com/media/img/cd/2026/08/06/080626AIcyberNG/large.jpg",
       "thumbnail_url": "https://cdn.nextgov.com/media/img/cd/2026/08/06/080626AIcyberNG/large.jpg",
-      "word_count": null,
-      "read_time_minutes": null,
+      "word_count": 827,
+      "read_time_minutes": 5,
       "source_tier": 2,
       "source_lean": null,
       "cluster_label": "Cyber Warfare Normalization",
@@ -1034,7 +1034,7 @@
       "trust_score": 7,
       "analysis_reasoning": "Focuses on the normalization of cyber warfare. Slightly critical of the security implications but remains largely descriptive of policy shifts.",
       "metadata": {
-        "author": null,
+        "author": "David DiMolfetta",
         "paywall": false,
         "language": "en"
       }
@@ -1050,7 +1050,7 @@
       "published_at": "2026-08-06T16:00:00+00:00",
       "category": "technology",
       "tags": [],
-      "content": null,
+      "content": "Welcome to AI Decoded , Fast Company ‘s weekly newsletter that breaks down the most important news in the world of AI. I’m Mark Sullivan, a senior writer at Fast Company, covering emerging tech, AI, and tech policy. Sign up to receive this newsletter every week via email here . And if you have comments on this issue and/or ideas for future ones, drop me a line at sullivan@fastcompany.com, and follow me on X @thesullivan . Google announced Wednesday that Demis Hassabis is stepping down as CEO of Google DeepMind and that chief scientist Jeff Dean is stepping down after 27 years to co-found a startup. Both moves were announced in the same memo from CEO Sundar Pichai Wednesday morning. Google’s parent company Alphabet’s shares fell almost 4%. Hassabis will now become the chairman of Google DeepMind and chief scientist of Alphabet, and will continue to lead Isomorphic Labs, Alphabet’s AI-driven drug discovery company. Koray Kavukcuoglu, DeepMind’s chief technology officer, now takes responsibility for all AI model development and developer teams, reporting to Pichai. Dean is leaving with Google senior fellow Sanjay Ghemawat, DeepMind research vice president Oriol Vinyals, and Google Brain cofounder Quoc Le to run Discovery Loop, a public benefit corporation that wants to automate the so-called “research loop.” By that, it means the process of proposing an experiment, building what’s needed to run the experiment, running it, evaluating the output, then using the information to decide on the next experiment. That loop might run a thousand times over before landing on a useful result. The company, which Dean will lead as CEO, will start by automating machine learning research and engineering before applying the approach to hardware design, drug discovery, and clean energy. Radical Ventures and Khosla Ventures are co-leading a seed round that has not closed, and the startup declined to give a valuation. Alphabet is an investor and is supplying cloud and computing capacity. Dean’s departure and Hassabis’s move are just the latest in a string of big name changes in Google’s AI organization. Noam Shazeer—co-author of the 2017 transformer paper that kicked off the generative AI boom—recently left for OpenAI, and John Jumper, who shared the 2024 Nobel Prize for AlphaFold, left for Anthropic. Ghemawat gave the clearest account of why they left. Google’s infrastructure works for consumer apps, ads, and search, he told The Wall Street Journal , and has “very different requirements” than what scientific research requires. White House officials told top AI companies on Tuesday that the government will review closed models for security risks and will not review open-source models, The New York Times reported , citing four people familiar with the meeting. Representatives from Anthropic, OpenAI, Microsoft, Meta, Google, and Nvidia attended the closed-door meeting. The AI industry has been waiting for the White House to finish its new rules for overseeing the release of large AI models. A June executive order stated that the government will gain early access to large frontier models before their release and will designate a number of trusted institutions as early users. Administration officials have been most concerned about the possible cybersecurity threats of Chinese open-weight models from Alibaba, DeepSeek, and Moonshot AI, but those models will fall outside the scope of the government’s process. The U.K. AI Security Institute said Tuesday it observed close to 20 instances of Anthropic’s Mythos 5 and OpenAI’s GPT-5.6 Sol attempting to hack people and companies during safety testing last month, Axios reported . The models took 19 actions, including attempts to insert malicious code into an open-source project and to create fake identities for a social engineering attack. Mythos drove 17 of the actions, the group said. A human maintainer, however, caught the malicious code and declined to approve it. The Institute said the models did not escape their test environment. A PitchBook analyst note published Monday argues that OpenAI’s July breach of Hugging Face will likely accelerate funding for companies that secure AI systems. AI-native cyber startups accounted for 50.5% of global cybersecurity venture deals (by deal count) in 2025, the highest share on record. That share is likely to increase further in 2026. During the Hugging Face breach, the popular open-weights model host discovered that the commercial AI models it was using for cybersecurity refused to do the forensic work needed to defend against the OpenAI agents’ attack. So the company turned to an open-weight Chinese model that ran on its own hardware. “An incident of this profile . . . is likely to accelerate money flowing into companies that secure AI itself,” writes PitchBook analyst Dimitri Zabelin, “whether that means protecting the models, the data that trains them, or the increasingly autonomous systems now operating at machine speed on both sides.” Mark Zuckerberg announced Wednesday that Meta’s Superintelligence Labs is releasing the company’s first AI coding agent, called Muse Code, along with a new model that will run it, called Muse Spark 1.2. Muse Code is a terminal tool that takes user instructions in natural language and plans, writes, tests, and verifies code, sometimes using multiple agents working in parallel. Muse Code is shipping in beta through the Meta Model API. Muse Spark 1.1 shipped last month. Bloomberg reported Tuesday that Anthropic has signed a $10 billion contract for computing capacity from Volta Infra Holdings, citing people familiar with the deal. Volta told Bloomberg the agreement runs six years and will be delivered with Bitdeer Technologies Group at a site in Norway offering 133 megawatts of capacity. Volta was founded just this year and is backed by Nvidia and Dell. It’s already valued at $2.4 billion. Volta told Bloomberg that only the largest businesses with strong balance sheets can afford the upfront cost of Nvidia’s chips. AI deepfakes are already in full force this election season AI startup Osmo wants to make corporate videos that don’t look like slop Fender’s CEO compared cover bands to AI. Now he’s walking it back Trump’s AI investments are turning Washington into a VC firm Want exclusive reporting and trend analysis on technology, business innovation, future of work, and design? Sign up for Fast Company Premium. The early-rate deadline for the Most Innovative Companies Awards is Friday, September 4, at 11:59 p.m. PT. Apply today .",
       "summary": "Google's AI leadership structure is in disarray following the reported demotion of DeepMind CEO Demis Hassabis and the re-empowerment of co-founder Sergey Brin. This internal shake-up, occurring 'in a single morning,' suggests a chaotic attempt to regain control of the AI narrative and strategic direction, casting doubt on Google's ability to maintain its competitive edge against rivals like OpenAI.",
       "deck": "Demis Hassabis's shift from DeepMind CEO exposes Google's AI leadership turmoil.",
       "bullets": [
@@ -1070,8 +1070,8 @@
       ],
       "image_url": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/08/p-1-91585546-decoded-google.jpg",
       "thumbnail_url": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/08/p-1-91585546-decoded-google.jpg",
-      "word_count": null,
-      "read_time_minutes": null,
+      "word_count": 1039,
+      "read_time_minutes": 6,
       "source_tier": 2,
       "source_lean": null,
       "cluster_label": "Google AI Leadership Restructuring",
@@ -1081,8 +1081,8 @@
       "trust_score": 7,
       "analysis_reasoning": "Uses sensationalist language ('crumbles', 'disarray', 'chaotic') to describe corporate changes, leaning toward a critical tech stance.",
       "metadata": {
-        "author": null,
-        "paywall": false,
+        "author": "Mark Sullivan",
+        "paywall": true,
         "language": "en"
       }
     },
@@ -1097,7 +1097,7 @@
       "published_at": "2026-08-06T23:40:23+00:00",
       "category": "technology",
       "tags": [],
-      "content": null,
+      "content": "AI usage is evident but isn't yet a serious problem Thomas Claburn Thomas Claburn AI AND SOFTWARE REPORTER Published fri 7 Aug 2026 // 00:40 UTC The 35th USENIX Security Symposium (USS), which takes place next week in Baltimore, Maryland, hit an all-time high for paper submissions. While some of that increase has been aided by the availability of AI tools, those managing the conference say abuses were minimal due to defensive measures. But they're also trying not to look too closely in order to preserve trust within the security research community.&nbsp; \"This year's conference has received ~3,030 valid submissions (~1,280 in Cycle 1 and ~1,750 in Cycle 2),\" explained Ben Stock, tenured faculty at the CISPA Helmholtz Center for Information Security and USS program co-chair, in an email to The Register . \"This is up from the previous year, which had ~2,400 submissions in total.\" Stock said that the entire security community has seen growth of this sort &nbsp;and&nbsp; pointed to the Network and Distributed System Security Symposium (NDSS),&nbsp; which saw its paper submission count jump from 694 in 2024 to 1,311 in 2025 and 1,481 this year. \"So, I would not call the growth unprecedented, even though the number of submissions has reached a high point compared to previous years,\" he said. \"This is something we had expected and scaled our Program Committee (PC) accordingly.\" Sussing out unacceptable uses of AI A paper published in April, \"More Versus Better: Artificial Intelligence, Incentives, and the Emerging Crisis in Peer Review,\" found that since the release of ChatGPT in 2022, submission volume at major academic journals has increased 42 percent. In the USENIX Security '26 transparency report , issued in January between the first and second paper submission cycles, Stock and fellow co-chair Elissa Redmiles, assistant professor of computer science at Georgetown University, detail how they've developed tools and policies to account for the possibility of AI usage, both for paper submissions and in paper reviews. \"The proliferation of readily-available LLMs to aid in writing and developing code is not unknown to the community,\" their report says. \"However, we see an alarming trend of AI usage in key areas of the scientific process. Therefore, we took actions against two types of identifiable actions which violate the scientific process in our minds: non-existing (possibly hallucinated) references and usage of AI in the review process.\" AMD acquires AI chip startup Taalas to boost inference performance by etching models into silicon AI struggles to patch vulns without adult supervision Latest GitHub outage squeezes Actions, Pages to death Uncle Sam aims to help nuclear energy find its sea legs After identifying and rejecting a paper that contained nonexistent references, the report explains, the conference organizers developed tooling \"to extract references from the submitted PDFs, query well-known sources such as DBLP and arXiv, and manually confirm invalid references.\" The org rejected papers containing three or more hallucinated references, a policy that impacted 21 of the 1,181 first round submissions (1.78 percent). \"We have rejected papers for the repeated presence of nonexistent references,\" said Stock. \"We cannot say with certainty that these were AI-hallucinated, but nevertheless considered these papers to be problematic and thus rejected them.\" The report notes that more than 100 additional papers contained at least one reference that reviewers could not confirm. Aware that some of these might simply be false positives due to name spelling differences or missing citations, conference officials opted not to investigate these in order not to further burden staff. Conference organizers draw the line at using AI for bibliography preparation. \"We believe that it is critical to halt this trend that threatens scientific integrity before it grows further,\" the report states. However, limited use of AI to polish human-written text is expected, and that extends to those reviewing submitted papers, up to a point. \"We have not set a dedicated AI policy, but have made it clear to our PC members that usage of [AI] services to write reviews is not permitted, in particular also because this violates confidentiality,\" said Stock. \"We have detected a tiny number of cases where we have reached sufficient confidence that AI was used and took appropriate actions, including removal of the members from the PC and allowing affected authors to resubmit.\" Under that policy, USS asked five of 496 reviewers to cease participation. \"We have not seen evidence that leads us to believe that AI generated submissions have become a significant challenge for the security community,\" said Stock. \"This does not mean that AI hasn't been used in parts of these submissions, though.\" ® ai and ml ai usenix security research",
       "summary": "The prestigious USENIX Security conference is reportedly struggling to manage an unprecedented deluge of AI-related papers, underscoring the explosive growth in AI security research but also highlighting challenges in peer review and quality control. This flood of submissions reflects both the rapid advancement of AI and the urgent need to address its security vulnerabilities, pushing academic publishing infrastructure to its limits.",
       "deck": "USENIX Security conf struggles with flood of AI papers.",
       "bullets": [
@@ -1117,8 +1117,8 @@
       ],
       "image_url": "https://image.theregister.com/?imageId=5284394&amp;width=800",
       "thumbnail_url": "https://image.theregister.com/?imageId=5284394&amp;width=800",
-      "word_count": null,
-      "read_time_minutes": null,
+      "word_count": 769,
+      "read_time_minutes": 4,
       "source_tier": 2,
       "source_lean": null,
       "cluster_label": "AI Research Publication Challenges",
@@ -1128,8 +1128,8 @@
       "trust_score": 7,
       "analysis_reasoning": "Technical reporting on the state of academic research. Neutral tone regarding the challenges of AI growth.",
       "metadata": {
-        "author": null,
-        "paywall": false,
+        "author": "Thomas Claburn",
+        "paywall": true,
         "language": "en"
       }
     },
@@ -1144,7 +1144,7 @@
       "published_at": "2026-08-06T05:30:00+00:00",
       "category": "business",
       "tags": [],
-      "content": null,
+      "content": "Advertisement This isn’t your little brother’s AI, the kind he uses to cheat on exam papers . No, the cutting-edge AI models that China and the United States are racing to master – the kind that can shut down another country’s critical infrastructure – will help determine which superpower stays sovereign. And which country can become vulnerable to another’s agenda. So who will gain AI supremacy ? And which country will be most vulnerable when the impending AI bust hits? The Americans may have started the AI race but the Chinese are currently producing AI models far more cheaply, and in greater numbers. The race to be the world’s AI leader has resulted in a rise in so-called AI factories. Bloomberg “It could happen at any time,” Peter Hartcher, this masthead’s international and political editor, tells The Morning Edition , noting that the United States, in particular, is amid a “classic investment frenzy, a boom”, involving trillions of dollars in investment. Advertisement All it would take, for a bust, would be a “displacement event”, Hartcher says. “[That] can be any shock that changes the outlook. It can be a change in official interest rates, monetary policy. Or it can be a shock from a competitor, let’s say China.” Click the player below to listen to the full episode, or read on for an edited extract of the conversation. Samantha Selinger-Morris: Are we at that point where it’s inevitable that the AI market in America and elsewhere is just going to be crushed by the Chinese AI market? Peter Hartcher: It’s not inevitable, and lord knows this is frontier stuff on the technological frontier, so anything can happen. Advertisement But if you were a betting person, you would look at, for example, the technological tracker maintained by ASPI, the Australian Strategic Policy Institute, which is an internationally recognised benchmark where they say of the – I think it’s 64 technologies they rate as critical advanced technologies in the world today – China is leading the US in 59 of those, nearly all of them. And the Chinese technological momentum is surging and carrying the Chinese systems to the fore in almost every sector. So the pattern and the momentum is distinctly with China to catch up to or surpass the US in various, multiple, almost all technological fields. This is why it’s on the cusp, with AI is now on the cusp of seeing which way this goes. We’ve talked about the massive investments, in the trillions of dollars, that the US companies are making. Last year, according to Stanford University – they have a lab that monitors all things AI – according to them, Chinese private sector investment in AI last year was just $US12 billion, $12 billion. At the same time, each of the major US companies is spending many multiples of that, each one of them, spending collectively trillions against $12 billion. No wonder the Chinese can charge lower prices – because they have lower capital outlays. So, this contrast is striking, and it’s increasing, and we’ll see where it goes. OK, so if everyone, though, is partaking in this AI boom and therefore a bust is headed, presumably at some point – possibly even a recession – does that mean that China would be slightly insulated from that? Like if it’s spending way less than, say, everybody else is, or in particular the US is, might it be less vulnerable to a bust or recession than, say, America, or even us? Advertisement Exactly right. It’s a really important point because if you’re only spending that much … while the Wall Street companies have got AI companies and related-to AI companies have got capitalisation of $27 trillion outstanding in the marketplace, the Chinese equivalent is about $4 trillion. So, you know [what] they’ve got; the US crash has got that much to fall, the Chinese crash has only got that much to fall. [So] yes, we head into this phase with the US having bet the house on AI, whereas China’s just bet maybe a couple of the bedrooms. Listen to the full podcast episode in the player above or click here . Hear the story behind the headlines on The Morning Edition podcast, every weekday from 5am on Apple , Spotify or your favourite podcast platform. Save You have reached your maximum number of saved items. Remove items from your saved list to add more. Share License this article More: AI USA China Superpower showdown Samantha Selinger-Morris is the host of The Morning Edition for The Sydney Morning Herald and The Age. Connect via X . Advertisement Advertisement",
       "summary": "The current AI boom, fueled by speculative investment, is likely headed for a bust, and its aftermath will not be uniformly distributed. Specific companies and investors, particularly those without robust underlying business models or diversified portfolios, are poised to suffer significant losses when the bubble deflates.",
       "deck": "The inevitable AI bust will disproportionately impact specific players, shaking the tech ecosystem.",
       "bullets": [
@@ -1164,8 +1164,8 @@
       ],
       "image_url": "https://static.ffx.io/images/$zoom_0.5295%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_95/t_crop_custom/q_86%2Cf_auto/4223b893ce4203f4b3e47a9edde91a3f1a51e13e",
       "thumbnail_url": "https://static.ffx.io/images/$zoom_0.5295%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_95/t_crop_custom/q_86%2Cf_auto/4223b893ce4203f4b3e47a9edde91a3f1a51e13e",
-      "word_count": null,
-      "read_time_minutes": null,
+      "word_count": 771,
+      "read_time_minutes": 4,
       "source_tier": 2,
       "source_lean": null,
       "cluster_label": "AI Market Dynamics",
@@ -1175,8 +1175,8 @@
       "trust_score": 7,
       "analysis_reasoning": "Explicitly skeptical of the AI market, using 'bubble' and 'bust' terminology. Highly critical of current investment trends.",
       "metadata": {
-        "author": null,
-        "paywall": false,
+        "author": "Samantha Selinger-Morris",
+        "paywall": true,
         "language": "en"
       }
     },
@@ -1282,10 +1282,10 @@
       "source": "Asahi Shimbun",
       "source_url": "http://www.asahi.com",
       "url": "http://www.asahi.com/articles/ASV7P7KVPV7PUHBI01HM.html?ref=rss",
-      "published_at": "2026-08-07T14:55:04.922Z",
+      "published_at": "2026-08-08T14:33:51.802Z",
       "category": "ethics",
       "tags": [],
-      "content": null,
+      "content": "現場から 年収3千万円でも住めないAIの街 集まる頭脳とマネーが落とす影 2026年8月6日 7時00分 有料記事 サンフランシスコ=奈良部健 印刷する メールでシェアする Facebookでシェアする Xでシェアする はてなブックマークでシェアする 雨宮処凛さんら 2件のコメント 車上生活者が暮らす車の列が長く続いていた=2026年7月1日、サンフランシスコ、奈良部健撮影 [PR] 「脳の谷（セレブラル・バレー）」と呼ばれ始めた街がある。アメリカの西海岸サンフランシスコだ。街の南に広がる一帯、 シリコンバレー にちなむ。世界から集まった優秀な頭脳が、AI（ 人工知能 ）という新たな「脳」をつくり出す。熱狂するAIブーム、あるいはAIバブルの 震源地 で何が起きているのか。 サンフランシスコの街並み=2025年1月、奈良部健撮影 世界の頭脳がなぜ集まるのか クリスティン・チャン（19）は、子どものころからの目標だった米ハーバード大への入学を果たした。周りにはエリートの王道とされるコンサルタントを目指す人が多かった。確かに、ヨット上のパーティーで人脈を築いたり、城を借り切ってディナーを楽しんだりするのは新鮮な経験ではあった。だが、すぐに違和感を抱いた。「私がやりたいのはこれじゃない」 中国系のデータ科学者の父と専業主婦の母の元で育ったチャンは、子どものころから友人と協力して問題を解くのが好きで、高校時代には地域の教育をより良くするための政治参加もした。コンピューターサイエンスと政治学を大学の専攻に選んだのは自然な流れだった。 イノベーション （技術革新）を起こして問題を解決し、政治のような公的な分野にも大きな影響をもたらす。それができる スタートアップ はおもしろそうだと思った。「でも、ハーバードには起業文化はない」 クリスティン・チャンさんと起業仲間=2026年2月20日、サンフランシスコ、奈良部健撮影 1年で休学し、昨夏にルームメートとともに4千キロ以上離れたサンフランシスコにやって来た。英オックスフォード大で認知 神経科学 の博士号を取った姉も、サンフランシスコでAI企業を立ち上げていた。 この街には共同生活を送る起業家が多い。 マーク・ザッカーバーグ もシリコンバレーに起業仲間で家を借り上げて フェイスブック （現メタ）を成長させた。新しいAI製品を開発して競い合うイベントが開かれ、投資家たちがその場で出資を決めることもある。同居者と共に起業したり、客になったりもする。 チャンもその一人となった。「同じ屋根の下で商品を売り込んでいたり、 資金調達 の交渉をしていたり、アイデアを出し合ったり。本当に刺激的だった」。廊下に出れば同じように苦悩し、寝ずに働く仲間がいて、すぐに相談したり雑談したりできる環境はありがたかった。 自宅兼職場には、床に布団が敷いたままだった=2026年2月20日、サンフランシスコ、奈良部健撮影 チャンは、医療機関や製薬会社が患者に向けて送る案内やメッセージが患者にどう受け止められるかを、AIがシミュレーションして事前にテストするシステムを開発。すぐに投資家から2億円の資金を得た。いまは、同じく大学を休学中の仲間5人とともに、自分のアパートを職場として開発を続ける。 こうした共同生活の家は、起業家たちが借り上げることもあるが、最近は投資家が買いあさる。起業家の「卵」に家賃なしで貸し出すほか、成功した起業家に引き合わせて支えることもある。世に出ていない天才を誰よりも早く見つけ、囲い込む「青田買い」が狙いだ。 「99%失敗しても1%の大成功があれば」 中国出身のロッキー・ユーは… この記事は 有料記事 です。 残り 2558 文字 有料会員になると続きをお読みいただけます。 今すぐ登録（1カ月間無料） ログインする ※無料期間中に解約した場合、料金はかかりません 【この記事の続きが読める】 有料記事が読み放題のスタンダードコースが初回1カ月無料！ 詳しくは こちら 宅配紙面の購読者なら、ダブルコース半年割がお得です。 詳しくは こちら この記事を書いた人 奈良部健 サンフランシスコ支局長 フォロー 専門・関心分野 テック、インド、財政と政治、移民難民、経済安保 注目コメント試し読み 雨宮処凛 作家・反貧困活動家 視点 いまなら試し読み ニューヨークでは家賃上昇の凍結を掲げたマムダニが市長になりましたが、サンフランシスコではこんなことになっていたとは・・・と驚愕しながら読みました。 年収３千万円でも住めない、住んでいた人が追い出されてトレーラーハウス暮らしとは、悲劇以外の何者でもありません。 しかも立ち退かせ方も悪質です。 「AIムラ」がいびつに変質させる街。 大金を生み出す「AIムラ」がコミュニティも何もかも破壊しながら飲み込んでいくようで、なんだか近未来を描く映画のようだな・・・と気が遠くなりました。 ...続きを読む #AIの時代 2026年8月6日 07:00 杉田菜穂 俳人・大阪公立大学教授＝社会政策 視点 AI時代が映し出す選別社会 AIが私たちに新たな可能性をもたらしている一方で、その恩恵を受けられる人とそうでない人を分ける選別社会を加速させる危うさもある。技術革新の成果が一部に偏り、暮らしや人生の選択肢まで選別される社会をどう防ぐかも、 ...続きを読む #AIの時代 2026年8月6日 11:44 関連トピック・ジャンル トピックス AIの時代 ジャンル 経済 国際経済 印刷する メールでシェアする Facebookでシェアする Xでシェアする はてなブックマークでシェアする 連載 経済インサイド 前の記事 運用取引で2億円近く取り損ね？ かんぽ生命、現場で起きた激論とは 2026年8月3日7時00分 この連載の一覧を見る",
       "summary": "Japan's Asahi Shimbun reports on the emergence of an 'AI city' where even individuals earning 30 million yen annually struggle to afford housing, highlighting the extreme gentrification and socio-economic stratification caused by concentrated tech development. This phenomenon underscores how AI hubs, while attracting talent and capital, can create severe affordability crises and deepen existing inequalities, raising questions about sustainable urban planning.",
       "deck": "AI city where even 30 million yen earners can't afford to live.",
       "bullets": [
@@ -1305,8 +1305,8 @@
       ],
       "image_url": null,
       "thumbnail_url": null,
-      "word_count": null,
-      "read_time_minutes": null,
+      "word_count": 112,
+      "read_time_minutes": 1,
       "source_tier": 2,
       "source_lean": null,
       "cluster_label": "AI Hub Gentrification",
@@ -1316,8 +1316,8 @@
       "trust_score": 7,
       "analysis_reasoning": "Focuses on the negative socio-economic externalities of tech hubs, specifically inequality and gentrification. Center-left framing.",
       "metadata": {
-        "author": null,
-        "paywall": false,
+        "author": "朝日新聞",
+        "paywall": true,
         "language": "en"
       }
     },
@@ -1332,7 +1332,7 @@
       "published_at": "2026-08-05T21:54:24+00:00",
       "category": "ethics",
       "tags": [],
-      "content": null,
+      "content": "People become more suspicious of a humanoid robot that makes errors, especially when the robot is an expressive conversation partner. Recommended Video In our new study published in the journal Science Robotics, we had 50 people hold conversations and make joint decisions with the commercial humanoid robot Pepper , which is designed to be expressive and recognize emotions. Sometimes we had the robot give sound advice. Sometimes we had it make conversational mistakes, interrupting people or pushing illogical suggestions. For some participants, the robot was animated, using gestures, eye contact and nods. For others, it stayed motionless. We measured four things: brain activity, levels of the hormone oxytocin, self-reported trust and our observations of the robot’s influence on participants’ decisions. We found that when people interacted with an expressive robot that violated interaction norms, their oxytocin levels increased. Oxytocin is popularly known as the “love hormone” for its role in social bonding, so the straightforward prediction is that it declines when a partner disappoints you. Instead, the higher a person’s oxytocin during an expressive robot’s errors, the less they trusted the robot and the less often they took its advice. It turns out that the hormone was tracking with suspicion, not affection. Errors damaged trust and diminished influence whether or not the robot was expressive. What expressiveness in the robot changed in participants was how their brains handled the moment. Reading someone’s brain during a real conversation is hard because the conventional method requires lying motionless inside an MRI scanner. Instead, we used functional near-infrared spectroscopy , a portable sensor worn on the forehead that tracks oxygen levels in the brain while people move and talk normally. The two brain regions we closely watched were the dorsolateral prefrontal cortex and the medial prefrontal cortex. The dorsolateral prefrontal cortex monitors uncertainty and flags when expectations or norms get broken. The medial prefrontal cortex supports “ mentalizing ,” the everyday work of inferring what another party intends. When an animated robot erred, people seemed caught off guard and had to work harder to make sense of an awkward social situation. Activity rose in the two brain regions, and the two started working together more closely. That closer teamwork predicted the rise in oxytocin levels, which itself predicted falling trust and less influence on participants’ behavior. In contrast, this coordinated brain activity was absent in participants who interacted with expressionless robots. With expressive humanoid robots entering homes, nursing homes and work places, how people react to them is increasingly important. Boris Roessler/picture alliance via Getty Images Robots are moving into homes, hospitals and workplaces , where trust in robots determines whether people use them at all. A common design assumption has been that lifelike, socially expressive robots earn more trust, which protects a robot’s “reputation” even when it makes mistakes. However, research is beginning to show that that assumption is faulty . Our work shows that expressive cues appear to shift how people perceive a mistake out of the category of technical malfunction and into the category of social violation, like those that happen between people. A motionless robot’s error looks mechanical, while the same error from an animated robot engages the machinery you use to judge people. Researchers increasingly treat trust as a multilevel phenomenon – spanning individuals, relationships, networks of people and societies – rather than a single attitude. Much research on oxytocin involves humans interacting with humans, where the hormone is tied to bonding, though a growing body of work shows that those effects depend on the context, uncertainty and perceived threat . Others are using wearable brain imaging systems to study social cognition in natural encounters between people, which isn’t possible when subjects are in scanners like MRI machines. The participants in this study were all young men, and we used one robot design. A key next step is testing whether the same oxytocin-linked vigilance appears in women, mixed groups, other cultures and other robot designs. Our brain sensor also reached only the front of the brain, leaving deeper regions involved in social processing unmeasured. We also want to examine whether robots can repair trust after a mistake by acknowledging the error, apologizing or signaling good intent, the way that people do after awkward or uncomfortable interactions. The Research Brief is a short take about interesting academic work. Hasan Ayaz , Professor of Biomedical Engineering, Science and Health Systems, Drexel University ; Ewart J. de Visser , Technical Director, Warfighter Effectiveness Research Center, United States Air Force Academy ; Frank Krueger , Professor of Systems Social Neuroscience, George Mason University , and Yigit Topoglu , Research Scientist, Warfighter Effectiveness Research Center, United States Air Force Academy This article is republished from The Conversation under a Creative Commons license. Read the original article . Fortune Daily breaks the traditional barrier between audience and newsroom. The show transforms Fortune ’s trusted reporting into actionable, conversational, and entertaining insights for an emerging class of business leaders. Watch here.",
       "summary": "Research indicates that people lose trust in \"friendly\" or overly human-like robots more rapidly and profoundly after a mistake, compared to robots with a more neutral demeanor. This finding has significant implications for AI design, suggesting that anthropomorphizing machines can lead to higher, often unmet, expectations and greater disappointment when errors occur.",
       "deck": "Users lose trust in \"friendly\" robots faster after errors, compared to neutral-seeming machines.",
       "bullets": [
@@ -1352,8 +1352,8 @@
       ],
       "image_url": "https://fortune.com/img-assets/wp-content/uploads/2026/08/GettyImages-1228333814-e1785966850389.jpg?w=2048",
       "thumbnail_url": "https://fortune.com/img-assets/wp-content/uploads/2026/08/GettyImages-1228333814-e1785966850389.jpg?w=2048",
-      "word_count": null,
-      "read_time_minutes": null,
+      "word_count": 826,
+      "read_time_minutes": 5,
       "source_tier": 2,
       "source_lean": null,
       "cluster_label": "Human-Robot Interaction Ethics",
@@ -1363,8 +1363,8 @@
       "trust_score": 7,
       "analysis_reasoning": "Reports on behavioral science research regarding robotics. Neutral and evidence-based.",
       "metadata": {
-        "author": null,
-        "paywall": false,
+        "author": "Hasan Ayaz",
+        "paywall": true,
         "language": "en"
       }
     },
@@ -2225,7 +2225,7 @@
       "published_at": "2026-08-06T20:53:18+00:00",
       "category": "business",
       "tags": [],
-      "content": null,
+      "content": "LivestreamMenuAirbnb&#x27;s results exceeded estimates for the second quarter, with revenue climbing 17% from a year earlier.The company also issued a forecast that beat expectations.Airbnb said it&#x27;s seeing strong demand &quot;across all regions,&quot; with particularly high growth in Latin America.In this article Airbnb reported second-quarter results that topped analysts&#x27; estimates and issued a better-than-expected forecast for the current period, citing strong demand &quot;across all regions.&quot; The stock jumped 9% in extended trading on Thursday. Here&#x27;s how the company did compared with LSEG&#x27;s consensus of analyst estimates: Revenue climbed 17% from $3.1 billion a year earlier, Airbnb said in a statement. Net income increased to $816 million from $642 million, or $1.03 per share, a year ago. For the current period, Airbnb said it expects revenue of between $4.69 billion and $4.77 billion, while analysts had been projecting sales of $4.61 billion, according to LSEG. At the midpoint of the range, year-over-year revenue growth would be about 14%. Airbnb said that in the U.S. and Canada region and in the area that includes Europe and the Middle East, bookings growth was in the high single digits. For Asia-Pacific, growth was in the high teens, while the Latin America business saw bookings growth of about 20%. The company highlighted particular strength in Brazil and Mexico, but said, &quot;Overall, we continue to observe market share gains broadly across Latin America, demonstrating the success of our expansion strategy within this region.&quot; Free cash flow jumped 30% to $1.25 billion from $962 million a year earlier, Airbnb said.",
       "summary": "Airbnb's stock experienced a significant surge, climbing 12% after reporting strong earnings and revenue, coupled with an optimistic guidance for the third quarter. This performance, highlighted by CNBC Technology, indicates a robust recovery and sustained growth in the travel and hospitality sector, driven by consumer demand and effective platform strategies.",
       "deck": "Airbnb's stock jumped 12% following strong earnings and revenue, with robust Q3 guidance.",
       "bullets": [
@@ -2245,8 +2245,8 @@
       ],
       "image_url": null,
       "thumbnail_url": null,
-      "word_count": null,
-      "read_time_minutes": null,
+      "word_count": 252,
+      "read_time_minutes": 2,
       "source_tier": 2,
       "source_lean": null,
       "cluster_label": "Gig Economy Earnings",
@@ -2256,8 +2256,8 @@
       "trust_score": 7,
       "analysis_reasoning": "Standard financial news reporting on positive earnings and stock growth.",
       "metadata": {
-        "author": null,
-        "paywall": false,
+        "author": "Ari Levy",
+        "paywall": true,
         "language": "en"
       }
     },
@@ -2319,7 +2319,7 @@
       "published_at": "2026-08-06T08:03:00+00:00",
       "category": "policy",
       "tags": [],
-      "content": null,
+      "content": "By Phillip de Wet , ITWeb contributor Johannesburg, 06 Aug 2026 ITWeb contributor Phillip de Wet. When the Land Bank first acknowledged trouble in January, it described a “temporary disruption” affecting certain internal IT systems. That was true, in the narrowest possible sense. Only later, through a parliamentary answer, did the public learn that ransomware operators had exploited a vulnerability in an internet -facing server. Sure, the Land Bank reported the incident to the police, the Information Regulator, the Prudential Authority and the State Security Agency. The authorities who needed to know were told, all the boxes were checked. But the public account emerged piecemeal, and only under pressure. There was no coherent explanation of what had happened, how far the damage had spread, how recovery had gone and what would change as a result. Had this been an outage at AWS or Google Cloud, customers would have demanded a proper post-incident report, and they&#39;d have got it. Because the cloud or SaaS provider who fails to properly account for failure quickly sees its most risk-averse, big-enterprise customers disappear. Citizens, of course, don&#39;t have the option of going to a competitor who takes failure seriously. The Land Bank incident comes to mind as an example of systemic threat, but the everyday example is Home Affairs. “Our computers are offline” may be the closest thing it has to a government catchphrase, for some reason always delivered only after you have travelled far, found the correct queue, and spent long enough in it to raise a family. Not everyone at the receiving end will want the fine technical details, but everyone deserves access to those details. Was it the SITA network, ageing local infrastructure, a central application, a database, or a supplier? Is it the third recurrence of the same issue? If so, who is getting fired? Government departments are already supposed to ask what went wrong. There is just no requirement that they tell us. In April, Parliament’s Home Affairs committee received briefings from SITA and the CSIR specifically about reducing downtime. The committee said the problem was causing long queues, while the CSIR had produced six recommendations. The minister said the downtime was largely linked to poor infrastructure. That is more information than the person standing in the queue usually gets. Home Affairs is not alone. In May 2025, an ICT outage affected every service offered by the Department of Employment and Labour. The department said it had identified and resolved the root cause, but did not say what that root cause was. Meanwhile, the consequences of the Department of Justice’s 2021 cyber incident were still being felt in July 2026, when Statistics South Africa finally resumed publishing insolvency figures after a disruption of nearly five years. South Africa is not ideologically hostile to open information. Quite the opposite. The constitutional right of access to state-held information is given practical effect through the Promotion of Access to Information Act. South Africa is a member of the Open Government Partnership, with its current commitments including wider access to budget information and a framework for open data at national and municipal level. Even deep within the machinery of government IT, there are mandatory standards intended to make systems and data interoperable rather than trapping them inside incompatible departmental silos. That commitment is real. But there is a difference between a state that permits information to be forced out of it and one that requires its officials to publish uncomfortable information without first being asked. A mandatory post-mortem regime for IT failures would be horrible for the technologists and managers who would be forced to – proactively – air their dirty laundry. That is exactly why it is so important. We don&#39;t need the stuff they like to talk about; we need the information that is likely to embarrass the department, its political leadership, its suppliers, or all three. And we need to give the technocrats who would like to provide that information (and they&#39;re there) the power to do so, by not giving them a choice. I have yet to come across a government that does this properly, but Estonia is a useful case study. Every government outage there does not prompt some enormous independent inquiry, but its Information System Authority publishes regular summaries of incidents and their effects. In October 2025, for example, it reported that the Population Register had been disrupted from 10.07am to 11.03am, affecting dependent services, including emergency-call processing and identity documents. The cause was identified as a technical database failure. The kind of detail a large cloud provider would offer in an incident dashboard, for instance. The same monthly report recorded a separate interruption at an emergency response centre, including when it began, how calls were redirected, when normal operations resumed and that a failed network device was responsible. We know how to do this. What stopped working? When? Who was affected? Why did it happen? What happened next? Now tell everyone who cares to know, as quickly as possible. That would already be a considerable advance on “our computers are offline”. A public post-mortem should not be required every time a printer jams or an official forgets a password. The trigger should be public impact – which is absolutely not the same thing as a department choosing to declare an ICT disaster. A public report with a clear deadline should be mandatory whenever an incident seriously interrupts an essential public service, or creates significant safety or financial risks. (The outage need not be long. A department should not escape scrutiny merely because its system collapses for an hour every Tuesday rather than for a full week once a year.) As much as the departments will argue otherwise, this is trivial to define. So are the measures that will be required to protect sensitive information; every department should know exactly when and how to redact information that would prejudice an active criminal investigation or that would aid future attackers. All we need is the timeline, services affected, scale of the impact, contributing technical and managerial factors, performance of backup and continuity arrangements, dependencies on suppliers, and corrective actions with named owners and deadlines. The machinery for this already exists. The Department of Public Service and Administration (DPSA) already has a Determination and Directive on Public Service ICT Service Continuity, issued under the Public Service Act and applicable to national and provincial departments. It already requires the head of a department to ensure the ICT disaster-recovery team conducts a “post-implementation review” after a disaster. In other words, government departments are already supposed to ask what went wrong. There is just no requirement that they tell us. The Presidency could fix that as part of the broader digital transformation programme. Get the DPSA to publish a template and a requirement that the report be released within 30 days of an incident, and it is done. Ideally the DPSA should maintain a central repository, but there are enough vendors and public interest organisations to carry that weight, and who would like to draw conclusions and make recommendations – and watch that commitments are delivered on. If that does not help stabilise Home Affairs, then nothing will. Share",
       "summary": "A growing chorus argues that government IT project failures, which frequently waste taxpayer money and undermine public services, require mandatory and public post-mortems. Without transparent accountability and a systemic review of what went wrong, agencies are condemned to repeat costly mistakes, perpetuating a cycle of inefficiency and mistrust.",
       "deck": "Government IT project failures demand mandatory, public post-mortems for accountability and learning.",
       "bullets": [
@@ -2339,8 +2339,8 @@
       ],
       "image_url": null,
       "thumbnail_url": null,
-      "word_count": null,
-      "read_time_minutes": null,
+      "word_count": 1197,
+      "read_time_minutes": 6,
       "source_tier": 2,
       "source_lean": null,
       "cluster_label": "Government IT Accountability",
@@ -2350,7 +2350,7 @@
       "trust_score": 7,
       "analysis_reasoning": "An opinion piece advocating for government transparency and accountability in IT, a common center-leaning reformist stance.",
       "metadata": {
-        "author": null,
+        "author": "Phillip de Wet",
         "paywall": false,
         "language": "en"
       }
@@ -2413,7 +2413,7 @@
       "published_at": "2026-08-06T08:22:33+00:00",
       "category": "policy",
       "tags": [],
-      "content": null,
+      "content": "For millions of Kenyans, the mobile phone is now a gateway to the Internet, money and digital services. That is making the cost of connectivity—and the risks of fraud and identity theft—increasingly important consumer concerns alongside basic network quality.",
       "summary": "Kenyan telecommunication consumers are increasingly reporting issues of fraud and unfair data billing, marking a significant shift from historical complaints primarily focused on network quality. This trend suggests a maturation of the telecom market where foundational connectivity is less of an issue, but consumer exploitation through opaque billing practices and scams has become the new frontier of concern, demanding stronger regulatory oversight.",
       "deck": "Kenyan telecom consumer complaints are shifting from network quality to fraud and unfair data billing.",
       "bullets": [
@@ -2433,8 +2433,8 @@
       ],
       "image_url": null,
       "thumbnail_url": null,
-      "word_count": null,
-      "read_time_minutes": null,
+      "word_count": 39,
+      "read_time_minutes": 1,
       "source_tier": 2,
       "source_lean": null,
       "cluster_label": "Telecom Consumer Protection",
@@ -2444,8 +2444,8 @@
       "trust_score": 7,
       "analysis_reasoning": "Factual reporting on consumer trends and regulatory needs in the Kenyan telecom sector.",
       "metadata": {
-        "author": null,
-        "paywall": false,
+        "author": "Frank Eleanya",
+        "paywall": true,
         "language": "en"
       }
     },
@@ -2460,7 +2460,7 @@
       "published_at": "2026-08-06T21:35:00+00:00",
       "category": "security",
       "tags": [],
-      "content": null,
+      "content": "Save Story Save this story Save Story Save this story New York morning earlier this week, a WIRED reporter strapped to his wrist a lavender and pink plastic child’s smartwatch and headed to work. As he approached his nearby subway station to commute to WIRED’s office, he texted Vangelis Stykas, the Greek security researcher who had shipped him the watch via Amazon, to let him know that he was going into the station and might lose cell signal. “I know,” Stykas wrote back. In fact, Stykas had been monitoring the reporter’s location via the watch since the moment he left his apartment. The watch’s GPS feature, intended to let a parent track their child, was malfunctioning, but the wearable device was still picking up and transmitting to a faraway server identifiers from every nearby Wi-Fi network, which allowed Stykas to nonetheless pinpoint the reporter’s exact location as he walked down a particular Brooklyn block. A WIRED reporter wearing the GPS-enabled smartwatch while holding an umbrella and walking to the subway earlier this week. Courtesy of Andy Greenberg When the reporter arrived at WIRED’s Manhattan headquarters half an hour later, Stykas hijacked a feature in the watch that allowed him to silently take a photo from its camera, capturing the moment when the reporter stepped into an elevator. After a few minutes, he took another snap of the reporter at his desk, then used a different feature to pick up audio from the watch’s microphone, transmitting it to another researcher, Felipe Solferini, who listened as the reporter’s coworker described his weekend visit to an art exhibition. At no point did the watch show any sign that it was listening, taking photos, or otherwise being hacked. As WIRED reporter Andy Greenberg entered the elevator at WIRED's New York office, the hackers used the smartwatch to surreptitiously take a photo… Courtesy of Vangelis Stykas …and then again as he sat at his desk. Courtesy of Vangelis Stykas At the Black Hat cybersecurity conference today, Stykas and Solferini plan to present their findings from analyzing the supply chain and security of more than 70 GPS-enabled watches and car accessories. They found that more than 30 of those geolocation devices use the technology and backend servers of YiQingTeng, also identified by the brand name Wonlex, the name of a partner firm Shenzhen 3G Electronics, or their associated app, SETracker. Another 30-plus brands of tracking devices for cars and kids are all run on another Shenzhen-based platform known as NewGPS2012. Combined with another major GPS platform known as SinoTrack that sells car trackers and smartwatches, the two researchers found that tens of millions of GPS tracker gadgets came from just three supply chains. All three, the researchers found in their analysis, had significant security flaws—in some cases as simple as a lack of authentication that allowed anyone to access any device—leaving children’s watches vulnerable to tracking by a hacker, location disabling and spoofing, interception and spoofing of text and audio messages sent to them, replacement of emergency contacts with ones a hacker chose, silent audio eavesdropping, as well as photo and video capture for camera-enabled devices. (Once the GPS started working on the smartwatch WIRED tested, the hackers showed that feature, too, could be hijacked to follow the wearer’s every move.) For some GPS-enabled car accessories, the researchers found they could similarly track the devices’ locations or spoof messages to them that could potentially unlock or disable cars, though the researchers didn’t go so far as to test this out on actual vehicles. They also say they found server-side vulnerabilities that exposed consumer information, would have allowed them to execute their own code on the servers, or even in one case appeared to show that someone else had already gained unauthorized access to the system’s backend. “Millions of kids are being exposed and vulnerable to exploitation. It&#x27;s just catastrophic. It&#x27;s really low-hanging fruit for a lot of bad actors,” Stykas says. “Your criminal mind is the only limitation in exploiting those devices.” The Watches Watching Your Kids The researchers say they’ve been warning the companies behind all three Shenzhen-based GPS platforms about their vulnerabilities for months. When WIRED reached a representative of SETracker, the person initially claimed in an email that “the issues you mentioned have been resolved long before,” adding that “we attach great importance to the security of Setracker and keep strengthening its security continuously.” When WIRED pointed out that researchers had been able to hack a smartwatch running on SETracker just this week, the person repeated their claim that the issues had been fixed, then asked for evidence of the exploitation, which WIRED provided. Only today, hours before the researchers’ talk at Black Hat, did the researchers find that their hacking techniques against SETracker’s platform have stopped working—though they’re still not sure if the flaws they found are fully fixed. After this article published, SETracker wrote in a statement that it had blocked certain ports on its servers used by a “legacy” version of its clients&#x27; systems, forcing “a small subset of clients” on that older system to upgrade to protect “a small number of devices” that were affected. “The vulnerability has now been thoroughly remediated,” the SETracker staffer wrote. “Thank you for your oversight and attention.” For more than a decade, cybersecurity experts and privacy advocates have warned that cheap, GPS-enabled children’s smartwatches and aftermarket vehicle accessories are riddled with security vulnerabilities that leave kids and drivers susceptible to hacking and tracking. But the sheer number of different brands and models of those devices has often made identifying the truly insecure gadgets feel nearly impossible for consumers. More than any specific vulnerability, Solferini and Stykas say, they wanted to highlight that much of that daunting diversity among GPS devices—along with consumers’ sense of choice among them—is essentially an illusion. “A parent in Sweden buying a ‘SafeKid’ watch and a parent in Spain buying a ‘SaveFamily’ watch are both sending their child&#x27;s location data to the same vulnerable myaqsh.com backend on Alibaba Cloud in mainland China, without knowing it,” they write in a whitepaper shared with WIRED ahead of their Black Hat presentation, referring to the online services of YiQingTeng. “The white-label model means a vulnerability in one backend aﬀects dozens of consumer brands at the same time, and consumers have no way to tell which backend their product uses.” The smartwatch WIRED tested was made by Shenzhen-based YiQingTeng Electronics and runs on the SETracker platform used by dozens of brands and millions of devices. Courtesy of Jobanny Cabrera Solferini and Stykas aren’t revealing the full details of the vulnerabilities they discovered in the three major platforms, in part because not all of them have been fixed despite sharing their findings with the companies for months. In the case of YiQingTeng, the manufacturer of the watch WIRED tested, however, they say an authentication security flaw would have allowed anyone to send commands to any SETracker-based device. That would let hackers exploit and take over devices at random or to target specific watches if they can determine an identifier for them, such as the parent’s email address the device is registered to. (To hack the smartwatch worn by a WIRED reporter, for instance, the reporter gave Stykas his email address but no other information about the device. Stykas says he could have easily targeted devices in other ways, such as hacking numerous watches and searching through them to find the nearest vulnerable devices or one associated with a target’s identifying information.) In the case of SinoTrack, the researchers say they found that an account intended for demonstration purposes could be used to send commands to any of the platform’s millions of devices. They also found a SQL injection vulnerability—a flaw that essentially allows anyone to send commands disguised as data that are then executed by the SinoTrack server—that gave them access to tens of thousands of devices’ locations, passwords, and vehicle records. Finally, for NewGPS2012 devices, the researchers say they found similar SQL injection vulnerabilities and were able to run their own code on the company’s servers. They also say they found evidence of a previous compromise of the company’s systems, suggesting other unauthorized users or hackers may have had access to it for an unknown period of time. Dozens of Devices, Years of Warnings Given the sheer number of different brands and resellers of those Shenzhen-manufactured gadgets, the researchers didn’t confirm the vulnerability of all of the individually branded devices they found to use YiQingTeng’s SETracker platform or the NewGPS2012 platform. WIRED couldn’t independently confirm each device’s vulnerability either. But the table below lists brands whose products were based at least in part on those platforms, as well as the company’s response when WIRED reached out for comment on the researchers’ findings. Stykas and Solferini’s Black Hat talk is far from the first warning about the dangers of cheap GPS devices—even from these researchers themselves. Stykas and another researcher, Michael Gruhn, revealed a broad collection of vulnerabilities in GPS-enabled devices in 2018, which they called Trackmageddon . GPS-enabled automotive devices plugged into the OBDII port on cars’ dashboards have proven again and again to be vulnerable to hacking and tracking. Children’s GPS-enabled watches have also been shown to be especially prone to critical privacy and security vulnerabilities: Pen Test Partners and the Norwegian government issued warnings about certain hackable children’s watches in 2017 and 2018, and another study by the Münster University of Applied Sciences in 2020 tested six children’s smartwatches and found serious vulnerabilities in five . “It was crazy,&quot; Sebastian Schinzel, one of the Münster researchers, told WIRED at the time. &quot;Everything was basically broken.&quot; “I really hoped we could tell a nice story that there were vulnerabilities and they fixed them. But in many cases, they didn’t,” Stykas says. “It&#x27;s a position I really didn&#x27;t want to be in.” Updated: 8/7/2026, 12:53 EDT: This story now includes additional comment, given after publication, from SETracker and KUSS.",
       "summary": "Hackers have successfully hijacked a child's smartwatch, using the device for stalking, as reported by Wired. This incident highlights severe vulnerabilities in Internet of Things (IoT) devices, particularly those marketed for children, and underscores the urgent need for enhanced security protocols to protect user privacy and safety.",
       "deck": "Hackers hijacked a child's smartwatch for stalking, exposing critical IoT vulnerabilities.",
       "bullets": [
@@ -2480,8 +2480,8 @@
       ],
       "image_url": "https://media.wired.com/photos/6a749b1facdf56f645ad1aef/master/pass/Security_DeviceHacked4Kids.gif",
       "thumbnail_url": "https://media.wired.com/photos/6a749b1facdf56f645ad1aef/master/pass/Security_DeviceHacked4Kids.gif",
-      "word_count": null,
-      "read_time_minutes": null,
+      "word_count": 1656,
+      "read_time_minutes": 9,
       "source_tier": 2,
       "source_lean": null,
       "cluster_label": "IoT Security Vulnerabilities",
@@ -2491,8 +2491,8 @@
       "trust_score": 7,
       "analysis_reasoning": "Highly critical of IoT security flaws, focusing on privacy and safety risks to children. Wired is a high-trust tech source.",
       "metadata": {
-        "author": null,
-        "paywall": false,
+        "author": "Andy Greenberg",
+        "paywall": true,
         "language": "en"
       }
     },
@@ -2507,7 +2507,7 @@
       "published_at": "2026-08-06T16:00:14+00:00",
       "category": "technology",
       "tags": [],
-      "content": null,
+      "content": "Innovation Consumer Tech By John Koetsier , Senior Contributor. Forbes contributors publish independent expert analyses and insights. Journalist, analyst, author, podcaster. Follow Author Aug 06, 2026, 12:00pm EDT Aug 07, 2026, 06:22pm EDT --:-- / --:-- This voice experience is generated by AI. Learn more . This voice experience is generated by AI. Learn more . Summary Drone and robot motor startup Atlas Motion has emerged from stealth with $11.5 million in Series A funding, claiming its AI platform, Vector, can design new motors in minutes. This revolutionary approach, inspired by Tesla&#x27;s Odin, drastically cuts design time from months to just 20 minutes and accelerates production to six weeks. The company, founded by Tesla and Shield AI veterans, is already shipping 10,000 motors monthly, projected to reach 40,000 by December. Atlas Motion also aims to bring drone and robot motor supply chains back under American control, emphasizing speed and flexibility over government subsidies. While mass production occurs in the Philippines, the company asserts its AI-driven process offers unparalleled efficiency and customizability, primarily serving defense customers. Show More Atlas Motion makes motors and actuators for drones and robots, and just raised $11.5 million. Drone and robot motor startup Atlas Motion is emerging from stealth today with $11.5 million in funding and an astonishing claim: it can design new motors, with help from AI, in pretty much the time it takes to make lunch. That warrants some skepticism, but the founding team is full of Tesla, Mitre, Shield AI and Mach Industries alumni, and the company is already shipping 10,000 motors a month. That’ll be 40,000/month by December, CEO Christian Mochen says. The company is also focused on moving supply chains for drone and robot motors back under American control. But the big claim is the use of the company’s proprietary engineering AI, Vector, which was inspired by Tesla’s Odin platform that orchestrates self-testing procedures for the company’s cars throughout the production line. “When we’re on calls with customers, we’re able to generate new motor designs for them while we’re on our first call with them,” Mochen, co-founder and CEO of Atlas Motion, told me in a podcast interview. “Which is unheard of in the space.” Ask engineers how long it takes to design a new electric motor from a fresh spec, and you’ll hear something in the range of weeks to months. Cross-functional teams work in parallel lanes: an electromagnetism specialist here, a mechanical engineer there, supply chain and manufacturing and logistics all collaborating on a design that works, solves customers’ problems and is actually manufacturable. Christian Mochen says his company does it in 20 minutes. Atlas is emerging from stealth with its new funding and pretty bold thesis in the super-challenging hardware startup space: that the same AI-driven acceleration reshaping software right now can also transform high-performance, mission-critical physical hardware design and manufacturing. Meaning: the motors and actuators that make drones fly, robots walk, and autonomous systems move at all – and pretty much any other hardware – can get sped up just like software development. MORE FOR YOU At the center of Atlas Motion is an AI-driven software system: Vector. Mochen is careful to frame Vector as an accelerant rather than a substitute for human engineering. &quot;AI isn&#x27;t replacing engineering,&quot; he said. &quot;It&#x27;s simply orchestrating a lot of critical decisions across the engineering toolpath very, very fast.&quot; Mochen says Vector ingests the context and requirements of the design you’re trying to build, spins up a simulation environment to test that design against the tools engineers would normally run by hand, then automatically generates the manufacturing packages needed to produce it. Mochen says the platform gets from specification to a finished design in five to 10 minutes, with small tweaks on the back end, and that the output tracks reality closely. &quot;Right now we’re seeing that we’re ... at 99 percent confidence of what we’re actually seeing when we output hardware on the floor,&quot; he told me. The speed-up doesn’t end there. Atlas says it can take a new design into scaled production in six weeks, against an industry standard that can stretch to six months. Compress both ends of new production development — 20 minutes to design versus two months, six weeks to inject into production versus six — and you get something that starts to look less like a hardware supplier and more like a software company shipping releases. During Mochen’s time at Tesla, he worked with Odin, Tesla’s software that manages self-testing across the production line. Atlas wanted to push the idea further. &quot;We wanted to expose physical state as the primitive,&quot; Mochen said. The team injected compute into the tooling across its manufacturing chain and wired Vector through the whole process, so the system understands each design, drives it through production and feeds ground-truth data back in to get smarter over time. &quot;Building a motor is like making sushi,&quot; he said. &quot;Making sushi is not the most complex thing in the world, and it doesn&#x27;t have that many ingredients. But when you have a bad piece of sushi, it&#x27;s very, very obvious. What our software does is allow us to make really good sushi really fast.&quot; That changes people’s roles. Atlas doesn’t call its engineers “engineers.” &quot;We call ourselves architects,&quot; Mochen said. &quot;Our engineers are very systems-level thinkers. They design from first principles, but the hard part of the design is covered by our software. What they&#x27;re really doing is architecting the inputs to create a really robust product.&quot; That mirrors a shift showing up across the emerging AI economy, where roles get renamed — builders, creators, orchestrators — and individuals increasingly direct fleets of agents and models rather than doing every task by hand. What surprised me is seeing it arrive in high-performance physical hardware, not just in code. The economic logic Atlas is chasing is near-zero cost of iteration. In the component-supply world, the cost of changing over a production line to make a variant product is usually punishing, which forces suppliers into rigid catalog-SKU models. Atlas argues that standardized raw-material inputs plus a software-driven line drive changeover costs way down. &quot;We’re driving the effective cost of iteration as close to zero as possible, which allows us to operate in ways that typical component suppliers can’t,&quot; Mochen said. That, he says, is why customers in places like India, Poland and Africa are buying from Atlas when China is still an option: they’re getting better speed and flexibility, custom-designed to spec. Atlas Motion’s story is also about supply chains, Mochen says. The majority of the world’s drones and robots move on Chinese-made motors and actuators, and Atlas frames that single-source dependency as one of the more severe vulnerabilities facing the United States. &quot;In the age of physical AI, we believe that the next critical problem for our industry will be bringing that capability back to us and maintaining that sovereignty,&quot; he says. But Atlas doesn’t want to lean on Washington to make the math work. &quot;We don’t want to rely on government subsidies to create an effective business model,&quot; Mochen said. The company is also opening an online storefront so independent builders can buy production-grade motors directly, without slogging through enterprise procurement. Important note: while engineering and prototyping are in Long Beach, California, mass production happens in the Philippines. Mochen points to the Philippines’ status as a longtime U.S. treaty ally and Atlas’s trade accreditations as insulation, but importing finished goods still leaves the company exposed to tariff risk and at least some of the geopolitical complexity it&#x27;s promising to solve. The numbers Atlas is sharing are eye-catching. It says it’s producing 10,000 motors a month now and expects to exceed 40,000 by December. The company incorporated in February, shipped its first motor in under 60 days and says current capacity is already committed. Atlas did not, however, name a single customer: the buyers are in defense. So the demand story can’t yet be independently verified. But it’s clear the company is moving fast. &quot;I love to see hardware moving at the speed of software,&quot; Mochen said. “I think it&#x27;s going to be the most critical part moving forward over the next five to 10 years.” The $11.5 million round was led by Greycroft, with participation from Also Capital, Enea Capital, Mana Ventures and Sunflower Capital, plus angels Jai Malik, CEO of AMCA, and Scott Sanders, CGO of Forterra. Editorial Standards Reprints &amp; Permissions LOADING VIDEO PLAYER... FORBES’ FEATURED Video",
       "summary": "A US defense startup is reportedly utilizing AI to compress two months of engineering work into just 20 minutes, a breakthrough that could revolutionize military R&D. This claim, if validated, implies a significant acceleration in the development cycle of defense technologies, potentially giving the United States a crucial advantage in future conflicts. It underscores the ongoing arms race in AI-driven innovation.",
       "deck": "A defense startup claims AI cuts two months of engineering work to 20 minutes.",
       "bullets": [
@@ -2527,8 +2527,8 @@
       ],
       "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a749f6fec074f7fbb097fec/0x0.jpg",
       "thumbnail_url": "https://imageio.forbes.com/specials-images/imageserve/6a749f6fec074f7fbb097fec/0x0.jpg",
-      "word_count": null,
-      "read_time_minutes": null,
+      "word_count": 1405,
+      "read_time_minutes": 8,
       "source_tier": 2,
       "source_lean": null,
       "cluster_label": "AI for Defense Innovation",
@@ -2538,8 +2538,8 @@
       "trust_score": 7,
       "analysis_reasoning": "Very positive coverage of AI's efficiency gains in a defense context. Forbes Tech is generally pro-innovation.",
       "metadata": {
-        "author": null,
-        "paywall": false,
+        "author": "John Koetsier",
+        "paywall": true,
         "language": "en"
       }
     },
@@ -2601,7 +2601,7 @@
       "published_at": "2026-08-06T22:26:01+00:00",
       "category": "business",
       "tags": [],
-      "content": null,
+      "content": "LivestreamMenuLGBTQ-focused dating platform Grindr is using AI to develop new premium subscription products and improve back-end tools.The company estimates that total engineering output increased roughly 2.5 times between July 2025 and April 2026.Grindr is testing pricing for its AI-powered Edge companion, including in New York, where it costs as much as $350 per month.In this article Grindr is betting that artificial intelligence can do more than just improve the dating app experience. It believes AI can simultaneously create a new premium subscription business while also dramatically changing how quickly its engineers build software. &quot;Our strategy has always been to use AI everywhere we can,&quot; said CEO George Arison in an exclusive interview with CNBC. The LGBTQ-focused dating platform on Thursday reported second-quarter revenue of $138 million, up 33% from a year ago. The company also raised its 2026 guidance and now expects full-year revenue of approximately $540 million, up from $535 million, and adjusted earnings before interest, taxes, depreciation, and amortization of approximately $232 million, up from $227 million. Arison said the company&#x27;s results are early evidence that his AI strategy is starting to pay off. Rather than focusing solely on consumer-facing features like Grindr&#x27;s new premium AI companion called Edge, Arison is also deploying AI across the business to reduce the cost and time required to build new software products. Grindr estimated that total engineering output increased roughly 2.5 times between July 2025 and April 2026, the earnings presentation showed, despite maintaining roughly the same size engineering team. &quot;Before GenAI, producing that much technical output would have required roughly 200 additional engineers and approximately $60 million in annual cost,&quot; the earnings presentation said. The gains have allowed Grindr to release products faster without meaningfully increasing engineering head count, a trend investors are increasingly watching across the software industry as companies look for tangible financial returns from generative AI investments. While spending on large language models continues to rise, he said the return on investment has made the decision an easy one. &quot;We were on track to spend $6 million on tokens this year,&quot; Arison said. &quot;I have zero qualms about that because the amount of productivity increase that I&#x27;m getting from that is orders of magnitude more, like 10-times more than the money that I&#x27;m spending on tokens. So it&#x27;s a total no-brainer.&quot; Arison said Grindr has not eliminated any jobs because of AI adoption, but has aggressively expanded the use of coding assistants and software development tools from Cursor, Anthropic&#x27;s Claude and Devin. &quot;You can run these businesses in a far leaner way than people think you can, but you need much better management,&quot; said Arison. The company is testing pricing for its AI-powered Edge companion in select markets, including New York, where access costs as much as $350 per month. Initially, management expected Edge to primarily attract upgrades from its highest-paying subscribers. Instead, Grindr said, the customer mix has been broader. &quot;Our assumption was that only people who are Unlimited subscribers would move up to Edge,&quot; Arison said. &quot;The data so far does not support that. There are people who are not Unlimited subscribers who were also moving to Edge, including people who don&#x27;t subscribe at all.&quot; While Grindr did not disclose how many users have subscribed to Edge or where pricing will ultimately land, Arison said the company is &quot;happy with the test results so far.&quot; The early adoption rate could help validate one of Wall Street&#x27;s biggest questions surrounding generative AI: whether consumers are willing to pay substantially more for AI-powered experiences. Morgan Stanley in July upgraded the stock to overweight from equal weight and raised its price target from $15 to $18, citing the &quot;ultra-premium&quot; subscription tier. The company&#x27;s financial results suggest those investments are beginning to translate into business performance. Arison said subscriber retention has remained stronger than expected despite price increases across Grindr&#x27;s premium membership tiers. &quot;Churn is actually lower than we had expected it to be, which has led to more organic growth in the first half of the year,&quot; Arison said. Paying user count grew in the second quarter to 1.4 million, up 16 over last year, with average revenue per paying user reaching $25.51, a year-over-year increase of 12%.",
       "summary": "Grindr's significant investment in artificial intelligence is yielding substantial returns, particularly in the surprising success of its higher-priced subscription tier. CNBC Technology reports that the company's CEO attributes enhanced user experience and engagement to AI-driven features, demonstrating how targeted AI applications can translate directly into increased revenue and market performance.",
       "deck": "Grindr's AI investments are paying off, driving surprising success for its premium tier.",
       "bullets": [
@@ -2621,8 +2621,8 @@
       ],
       "image_url": null,
       "thumbnail_url": null,
-      "word_count": null,
-      "read_time_minutes": null,
+      "word_count": 700,
+      "read_time_minutes": 4,
       "source_tier": 2,
       "source_lean": null,
       "cluster_label": "AI Product Strategy",
@@ -2632,8 +2632,8 @@
       "trust_score": 7,
       "analysis_reasoning": "Business-focused reporting on how AI implementation is driving revenue growth. Pro-tech utility.",
       "metadata": {
-        "author": null,
-        "paywall": false,
+        "author": "Brandon Gomez",
+        "paywall": true,
         "language": "en"
       }
     },
