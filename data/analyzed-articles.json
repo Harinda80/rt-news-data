@@ -1,8 +1,8 @@
 {
   "date": "2026-11-11",
   "count": 66,
-  "generated_at": "2026-11-11T21:07:05.340Z",
-  "lovable_generated_at": "2026-11-11T21:06:50.973Z",
+  "generated_at": "2026-11-12T21:21:06.792Z",
+  "lovable_generated_at": "2026-11-12T21:20:51.353Z",
   "articles": [
     {
       "id": "4430c327-678e-4d78-8f06-6a523672b72c",
@@ -33,8 +33,8 @@
         "Competing accelerator vendors like AMD and Intel stand to capture redirected federal supercomputing purchase orders.",
         "Every Silicon Valley chief executive with sensitive dual-use technology access now faces aggressive federal counterintelligence vetting."
       ],
-      "image_url": null,
-      "thumbnail_url": null,
+      "image_url": "https://image.cnbcfm.com/api/v1/image/108369801-17907123772026-09-29t195629z_871974065_rc27tna0rien_rtrmadp_0_usa-trump.jpeg?v=1790712473&amp;w=1920&amp;h=1080",
+      "thumbnail_url": "https://image.cnbcfm.com/api/v1/image/108369801-17907123772026-09-29t195629z_871974065_rc27tna0rien_rtrmadp_0_usa-trump.jpeg?v=1790712473&amp;w=1920&amp;h=1080",
       "word_count": 1170,
       "read_time_minutes": 6,
       "source_tier": 2,
@@ -156,7 +156,7 @@
       "published_at": "2026-11-11T01:28:43+00:00",
       "category": "policy",
       "tags": [],
-      "content": null,
+      "content": "Sign up now: Get ST&#x27;s newsletters delivered to your inbox US Treasury Secretary Scott Bessent will travel to China next week for US President Donald Trump’s third meeting with Chinese President Xi Jinping in 2026. PHOTO: REUTERS Published Nov 11, 2026, 09:28 AM Updated Nov 11, 2026, 12:38 PM Set as preferred source Listen Summarise US and China will keep competing on AI, but Scott Bessent said they must work together to reduce risks and avoid misunderstandings. A new Shenzhen dialogue on “superintelligence” will share testing methods and create a direct alert channel for serious AI incidents. Bessent also said trade ties will continue through tariff cuts, farm purchases and investment talks, while the US aims to “de-risk, not to decouple”. AI generated NEW YORK – The US and China should harbour no illusions about their differences on artificial intelligence as they navigate cooperation to mitigate the technology’s risks while competing for AI supremacy, US Treasury Secretary Scott Bessent said on Nov 10. Bessent, who will travel to China next week for US President Donald Trump’s third meeting in 2026 with Chinese President Xi Jinping, said in prepared remarks to the National Committee on US-China Relations in New York that he wanted to &quot;build a constructive relationship on the basis of balance and reciprocity”. The meeting in Shenzhen, to be held on the sidelines of the Nov 18 to 19 Asia-Pacific Economic Cooperation leaders summit, will advance a new bilateral dialogue on “superintelligence”, or SI, Bessent said, using the Trump administration’s preferred term for the technology. The dialogue is meant to guard against shared risks and “prevent a misunderstanding between our two systems”, he added. “We also expect to exchange best practices for evaluating and testing advanced models before their release, and for keeping human judgment firmly in command of this technology,” Bessent said, adding that the two sides had agreed to establish a direct channel for alerting each other to serious incidents. Trump and Xi agreed on the new AI alert system during their previous meeting at the White House in September, but Trump at the time also said he was reluctant to add new guardrails because he wanted to preserve US leadership. “As SI advances, so will the need to engage in new areas of risk management – and to demonstrate how two nations can reconcile the demands of competition with the responsibilities of leadership,” Bessent said. “As we do so, we should harbour no illusions about the differences between the United States and China. As I stated earlier, our interests will not always coincide. And our approach to every challenge, likewise, will not always converge,” he added. Bessent’s remarks made no mention of the controversy surrounding Nvidia chief executive Jensen Huang. He is facing an investigation by the AI chipmaker’s board after a New York Times report that he had an affair with a businesswoman suspected by US security services of being a Chinese intelligence asset. China’s Foreign Ministry has called the spying accusations “groundless” and “a smear”. Nvidia has said its board has no reason to believe US national security or company secrets were compromised and that Huang has committed to cooperating with the internal review. Huang has told employees that he was unfaithful to his wife, but has provided no details about the relationship. While Huang was present at the Trump-Xi summits in Beijing in May and in Washington in September, it was unclear whether Trump would bring him to the APEC summit. A fourth Trump-Xi summit in 2026 is expected in December at the US-hosted Group of 20 summit in Miami. In remarks that referred to the initial US trade voyage to China in 1784 to trade American ginseng for Chinese tea, porcelain and silk, Bessent said the US-China relationship would be sustained by “the wisdom – and the will – to recognise where common purpose must prevail over competing interests”. Bessent referred to other trade initiatives agreed during the two previous Trump-Xi summits, including the establishment of a “Board of Trade” to determine mutual tariff cuts on US$30 billion (S$38.45 billion) of non-sensitive goods in each direction, and China’s pledged purchases of US farm goods. A similarly structured “Board of Investment” will provide a structured forum for issues, including market access for American companies in China and “increased predictability for Chinese companies”, he said. He reiterated that the US trade deficit with China remains a source of friction, but the US objective is to “de-risk, not to decouple” from trade with China. REUTERS United States China Trade",
       "summary": "Incoming US Treasury Secretary Scott Bessent outlined an aggressive decoupling strategy that treats artificial intelligence supremacy as an existential national security boundary rather than a commercial rivalry. The doctrine combines strict multilateral hardware export bans with selective diplomatic engagement, rejecting total economic severance in favor of targeted computational chokeholds. By weaponizing semiconductor supply chains and financial sanctions, Washington is forcing allied Asian economies into a binary technological bloc.",
       "deck": "Bessent mandates total US technological containment against China while pursuing selective bilateral engagement.",
       "bullets": [
@@ -176,8 +176,8 @@
       ],
       "image_url": "https://cassette.sphdigital.com.sg/image/straitstimes/5ae624a43e84377313549dadccc42adac91d44d3120842ae4be5cc5015ceabbc?w=1200",
       "thumbnail_url": "https://cassette.sphdigital.com.sg/image/straitstimes/5ae624a43e84377313549dadccc42adac91d44d3120842ae4be5cc5015ceabbc?w=1200",
-      "word_count": null,
-      "read_time_minutes": null,
+      "word_count": 754,
+      "read_time_minutes": 4,
       "source_tier": 2,
       "source_lean": null,
       "cluster_label": "US-China Technology Hegemony",
@@ -187,8 +187,8 @@
       "trust_score": 7,
       "analysis_reasoning": "Analyzes a specific hawkish economic policy toward China. Uses terms like 'weaponizing' which suggests a critical lens on the strategy's aggression.",
       "metadata": {
-        "author": null,
-        "paywall": false,
+        "author": "The Straits Times",
+        "paywall": true,
         "language": "en"
       }
     },
@@ -200,7 +200,7 @@
       "source": "Nikkei Asia",
       "source_url": "https://asia.nikkei.com",
       "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/tsmc-earmarks-up-to-1bn-to-buy-anthropic-and-openai-shares",
-      "published_at": "2026-11-11T21:06:50.715Z",
+      "published_at": "2026-11-12T21:20:50.789Z",
       "category": "business",
       "tags": [],
       "content": "TSMC&nbsp;has rarely invested in clients, suppliers or ecosystem players. (Photo by Ken Kobayashi) TAIPEI/WASHINGTON -- Taiwan Semiconductor Manufacturing Co. has earmarked up to $1 billion to back Anthropic and OpenAI as the two artificial intelligence startups move closer to going public.",
@@ -297,7 +297,7 @@
       "published_at": "2026-11-11T01:05:15+00:00",
       "category": "geopolitics",
       "tags": [],
-      "content": null,
+      "content": "Advertisement 2026 Xi-Trump summits China Diplomacy Exclusive China, Russia and US try to nail down AI nuclear agenda in time for Apec talks 4 -MIN READ 4 -MIN Listen Khushboo Razdan , Nayan Seth , Dewey Sim and William Zheng Published: 9:05am, 11 Nov 2026 Talks between China, the US and Russia could yield a commitment to control AI in nuclear arsenals as part of a broader agenda on global governance, sources told the South China Morning Post. The three nations have engaged in weeks of back-and-forth discussion to nail down the agenda and protocol for talks between the countries’ leaders on the sidelines of the Apec summit in Shenzhen next week. The sources said that the war in Ukraine and denuclearisation of the Korean peninsula had largely fallen off the table as possible topics, with the focus shifting to areas of potential consensus, particularly the role of artificial intelligence in nuclear command and control.",
       "summary": "The United States, China, and Russia are attempting to establish formal guardrails preventing artificial intelligence from seizing autonomous control over nuclear arsenals ahead of the upcoming APEC summit. As hypersonic delivery systems compress strategic response windows to under five minutes, military planners face intense pressure to delegate launch authorization to algorithmic triggers. Diplomats must now institutionalize human-in-the-loop mandates before automated early warning architectures make accidental nuclear exchange mathematically inevitable.",
       "deck": "Washington, Beijing, and Moscow rush to draft binding AI nuclear command protocols before APEC.",
       "bullets": [
@@ -317,8 +317,8 @@
       ],
       "image_url": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/11/dcea244b-b8b2-4727-87c1-0955833a1088_3fb3bc5e.jpg?itok=VNneoytO&amp;v=1794359018",
       "thumbnail_url": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/11/dcea244b-b8b2-4727-87c1-0955833a1088_3fb3bc5e.jpg?itok=VNneoytO&amp;v=1794359018",
-      "word_count": null,
-      "read_time_minutes": null,
+      "word_count": 155,
+      "read_time_minutes": 1,
       "source_tier": 2,
       "source_lean": null,
       "cluster_label": "Autonomous Nuclear Command Escalation",
@@ -328,8 +328,8 @@
       "trust_score": 7,
       "analysis_reasoning": "Discusses high-stakes diplomacy regarding AI in nuclear systems. Neutral framing of a complex global security issue.",
       "metadata": {
-        "author": null,
-        "paywall": false,
+        "author": "Khushboo Razdan",
+        "paywall": true,
         "language": "en"
       }
     },
@@ -344,7 +344,7 @@
       "published_at": "2026-11-10T16:15:00+00:00",
       "category": "security",
       "tags": [],
-      "content": null,
+      "content": "Michael LoSapio could inherit a depleted workforce and a political headache or two, courtesy of his current employer Carly Page Carly Page Published tue 10 Nov 2026 // 16:15 UTC Make us preferred on Google NHS wants a second opinion on Palantir's glowing self-assessments 5 days ago Feds warn grocers: Don't chill on cyber defenses as freezer hacking spree heats up 6 days ago The White House is apparently a popular residential proxy exit spot 6 days ago Palantir CEO says it's pioneering an antiwar movement – while happily accepting defense dollars 7 days ago NHS counts Palantir benefits at trusts that say they're not using it 8 days ago President Donald Trump has nominated Palantir security chief Michael LoSapio to lead CISA, putting an executive from the controversial government supplier in line to run America's civilian cyber defense agency. The nomination , announced on Monday, could end CISA's nearly two-year wait for a Senate-confirmed director following Jen Easterly's departure in January 2025. LoSapio has served as Palantir's CISO since September 2024 , having previously led the company's infrastructure and network security team. He first joined the data analytics outfit in 2013, later spent a spell at database company SingleStore, and returned to Palantir in 2017. If confirmed, LoSapio would move from securing Palantir's systems to leading the federal government's main civilian cyber defense agency. CISA protects federal civilian networks and works with critical infrastructure operators, including power, water, and telecommunications providers. It's a substantial job, particularly given the state of the agency he would inherit. CISA has shed more than 1,000 staff, roughly a third of its workforce, since Trump returned to the White House, according to&nbsp; reports . It's now trying to plug the gaps, although acting director Nick Andersen said in September that around 250 would-be recruits were still waiting for security clearance before they could get to work. Andersen has been running CISA since February. With fewer people to go around, CISA is also rethinking where to spend its time. A strategy published last month emphasizes infrastructure whose failure would do the most damage, raising questions about what gets less attention as the agency operates with fewer staff. LoSapio would be the second person Trump has put forward for the role. His previous pick, Sean Plankey, withdrew in April after spending more than a year awaiting confirmation, with his nomination becoming caught up in a dispute involving Republican Senator Rick Scott over Coast Guard contracting. The nomination arrives late in the congressional calendar. If the Senate does not confirm LoSapio before the current Congress ends, Trump would have to nominate him again for consideration by the incoming Democratic-controlled Senate. Palantir, co-founded by billionaire Peter Thiel, has become a major supplier of technology to US government agencies, including the Department of Homeland Security and Immigration and Customs Enforcement (ICE). Its work with immigration authorities has attracted criticism from civil liberties groups and Democratic lawmakers concerned about surveillance and the handling of sensitive personal information. The controversy isn't confined to the US either. In the UK,&nbsp; WhatsApp messages obtained by campaign group Foxglove this week indicate that Palantir privately lobbied a health minister to consider extending its software into GP patient records, despite that data being expressly excluded from its £330 million NHS England contract for the Federated Data Platform. That revelation follows&nbsp; news that NHS England wants greater oversight of Palantir's claims about the benefits of its software, amid questions over the evidence supporting its performance figures. Those controversies could make LoSapio's confirmation hearings particularly interesting, especially as Democrats prepare to scrutinize Palantir's government business more closely. It's unclear whether LoSapio plans to leave Palantir or what would happen to any financial interests he holds in the company if confirmed. Those are questions likely to come up during a confirmation process that CISA, having spent nearly two years without a permanent boss while losing a third of its workforce, could probably do without dragging on any longer. ® palantir security cisa donald trump Make us preferred on Google",
       "summary": "Installing a defense-tech surveillance executive at CISA transforms civilian cyber infrastructure oversight into an extension of national security contracting. The move blurs the operational firewalls that previously separated commercial critical-infrastructure defense from offensive military intelligence vendors. Regulated utility operators and private telecom carriers must now brace for aggressive federal compliance directives shaped by Palantir's algorithmic operational doctrine.",
       "deck": "Palantir's chief information security officer will now direct America's primary civilian cyber defense agency.",
       "bullets": [
@@ -364,8 +364,8 @@
       ],
       "image_url": "https://image.theregister.com/?imageId=5219759&amp;width=800",
       "thumbnail_url": "https://image.theregister.com/?imageId=5219759&amp;width=800",
-      "word_count": null,
-      "read_time_minutes": null,
+      "word_count": 671,
+      "read_time_minutes": 4,
       "source_tier": 2,
       "source_lean": null,
       "cluster_label": "Federal Cyber Command Realignment",
@@ -375,8 +375,8 @@
       "trust_score": 7,
       "analysis_reasoning": "Critical of the appointment, suggesting it 'blurs' firewalls and turns civilian oversight into a national security extension.",
       "metadata": {
-        "author": null,
-        "paywall": false,
+        "author": "Carly Page",
+        "paywall": true,
         "language": "en"
       }
     },
@@ -623,7 +623,7 @@
       "source": "Taipei Times",
       "source_url": "https://www.taipeitimes.com",
       "url": "https://www.taipeitimes.com/News/front/archives/2026/11/11/2003867522",
-      "published_at": "2026-11-11T21:06:50.715Z",
+      "published_at": "2026-11-12T21:20:50.789Z",
       "category": "business",
       "tags": [],
       "content": "Add TT as Preferred Source A shareholder has sued Nvidia Corp and its CEO, Jensen Huang (黃仁勳), accusing them of deceiving investors in their responses to media reports about Huang’s affair with a purported Chinese spy that threatens national security. The complaint comes after US President Donald Trump said the FBI is investigating the affair, which Huang has acknowledged and apologized for. Trump on Monday said that Huang told him he had no idea the person could be involved in espionage. The affair, which is also being scrutinized by Nvidia’s board, has raised concerns that Beijing is using nefarious means to gain access to Nvidia’s cutting-edge microchips which power the development of artificial intelligence, but face export restrictions to China. The complaint filed on Monday in a California court says the company misled investors about Huang’s relationship with Huang Le (黃樂), also known as Alice Huang, who news reports said is suspected of working for Chinese intelligence, and the national security implications. It accuses Nvidia and Jensen Huang of failing to disclose the affair and issuing false statements about Nvidia’s relationship with Alice Huang’s company, which posed a “material risk” to Nvidia’s reputation and business prospects. The complaint, filed by retail investor Mark Kistenmacher, seeks unspecified damages and a jury trial. It seeks to represent in a class-action lawsuit anyone who bought shares of Nvidia from Oct. 9, when news of the affair was first reported by the New York Times, until Sunday, when the company said it was investigating reports that Huang was the “target of a foreign intelligence effort.” Shares of Nvidia, one of the world’s most valuable companies, on Monday fell US$7.97, or 4.3 percent, wiping out about US$190 billion in market value. Shares were down again yesterday before the opening bell. “As a result of Defendants’ wrongful acts and omissions, and the precipitous decline in the market value of the Company’s securities, Plaintiff and other Class members have suffered significant losses and damages,” the complaint said. Had investors known the truth, they would not have purchased Nvidia’s shares “at the artificially inflated prices that they did, or at all,” the complaint said. The New York Times reported that US intelligence determined that Alice Huang, a former executive of a Singapore-based Megaspeed International, was gathering information for Beijing. Megaspeed bought more than US$4.8 billion worth of Nvidia chips over the past two years, it reported. RESTRICTING TAIWAN: Beijing is using coercion and economic incentives to force other countries to accept its claims on Taiwan, the MOFA said The Ministry of Foreign Affairs (MOFA) said yesterday it would close its representative office in Papua New Guinea and stop buying liquefied natural gas (LNG) from the country, citing Chinese pressure. Papua New Guinea’s minister of foreign affairs in July said the government had decided to close Taiwan’s representative office in the country immediately, winning praise from China, although the office had remained open in the interim. Taiwan has decided to shut the office and withdraw all personnel on the basis of national dignity, diplomatic autonomy and the country’s overall interests, the MOFA said, adding that the government will reassess and adjust Chinese national Cheng Wanjun (程萬軍), who was at Taiwan Taoyuan International Airport after arriving on a connecting flight from Thailand on Monday and sought asylum in Taiwan, was deported to Thailand early yesterday, the National Immigration Agency (NIA) said. In a video circulating on X, Cheng identified himself as a former host at China Central Television (CCTV) and said he was seeking temporary humanitarian protection in Taiwan. Cheng said he was sentenced to six years in prison after he was recorded and reported to authorities in 2019 for criticizing “a ruler who loses his country.” After his release, he was forced to go COORDINATED: More than 100 Chinese ships have been reported in the west Pacific, with two main clusters seen between Taiwan and its neighbors, the report said China might be conducting a major, unannounced military exercise simulating the isolation of Taiwan that is larger than the Chinese People’s Liberation Army’s (PLA) “Justice Mission 2025” exercise, the American Enterprise Institute and the Institute for the Study of War said in a joint report released on Friday. The rumored military exercise includes PLA forces from the eastern, northern and southern theater commands, possibly representing an effort to coordinate surface combatants from all three coastal theater commands into a single far-seas operation, the report said. The report cited National Security Council Secretary-General Joseph Wu (吳釗燮), who on Tuesday last week said PLUMMETING: The TAIEX plunged 3,737.67 points in early session yesterday, the largest intraday drop in history, and closed down 1,873.08 points due to AI data center concerns The government yesterday authorized the activation of its NT$500 billion (US$15.26 billion) National Stabilization Fund (NSF) to support local shares, as the stock market experienced significant fluctuations while uncertainties in the international political and economic situation continue. The NSF’s steering committee may use the fund to intervene in the market to prop up local shares, the Ministry of Finance said in a statement. Once the fund is activated next week, it would be the 10th time the NSF has intervened in the market. Separately, the Financial Supervisory Commission (FSC) yesterday announced temporary curbs on short selling shares and other measures to help",
@@ -717,10 +717,10 @@
       "source": "Nikkei Asia",
       "source_url": "https://asia.nikkei.com",
       "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/deepseek-other-china-ai-firms-have-just-10-the-revenue-of-openai-anthropic",
-      "published_at": "2026-11-11T21:06:50.715Z",
+      "published_at": "2026-11-12T21:20:50.789Z",
       "category": "technology",
       "tags": [],
-      "content": null,
+      "content": "Chinese AI companies generate less revenue than their U.S. counterparts, but they have lower computing costs. © Reuters GUANGZHOU -- DeepSeek and China&#x27;s other leading artificial intelligence companies together generate only around one-tenth of the combined revenue of U.S. rivals OpenAI and Anthropic, estimates show, as competition pushes already low Chinese fees further down.",
       "summary": "China's celebrated artificial intelligence laboratories, including DeepSeek, generate barely 10% of the commercial revenue captured by OpenAI and Anthropic despite comparable open-weights benchmark performance. While Beijing's developers match Silicon Valley in algorithmic efficiency, domestic enterprise buyers refuse to pay premium subscription prices for software. The stark monetization chasm reveals that algorithmic brilliance cannot overcome China's structural software-purchasing drought and stringent censorship overhead.",
       "deck": "Chinese AI frontrunners generate less than one-tenth the revenue of their Western rivals.",
       "bullets": [
@@ -740,8 +740,8 @@
       ],
       "image_url": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F1%2F3%2F9%2F3%2F13413931-2-eng-GB%2Fbc7d6d41e764-photo_SXM2026102000003717.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630",
       "thumbnail_url": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fcms-image-bucket-productionv3-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F1%2F3%2F9%2F3%2F13413931-2-eng-GB%2Fbc7d6d41e764-photo_SXM2026102000003717.jpg?fit=cover&amp;gravity=faces&amp;dpr=2&amp;quality=medium&amp;source=nar-cms&amp;format=jpg&amp;width=1260&amp;height=630",
-      "word_count": null,
-      "read_time_minutes": null,
+      "word_count": 54,
+      "read_time_minutes": 1,
       "source_tier": 2,
       "source_lean": null,
       "cluster_label": "US-China AI Monetization Chasm",
@@ -751,8 +751,8 @@
       "trust_score": 7,
       "analysis_reasoning": "Critical analysis of the Chinese AI market's economic viability compared to the US. Pro-Western business model bias.",
       "metadata": {
-        "author": null,
-        "paywall": false,
+        "author": "Staff Writer",
+        "paywall": true,
         "language": "en"
       }
     },
@@ -814,7 +814,7 @@
       "published_at": "2026-11-11T01:01:20+00:00",
       "category": "security",
       "tags": [],
-      "content": null,
+      "content": "Image source, Getty ImagesImage caption, The US removed all its bombers from the UK&#x27;s RAF Fairford base last month after a major incident in September that police described as &quot;suspicious&quot; The US Department of Justice (DOJ) has announced charges against three Iran-backed operatives that it alleges were involved in a string of plots in the US and Europe. The DOJ said Iranian agents most recently &quot;orchestrated a terrorist plot at an air force base in the United Kingdom&quot;, saying they were involved in the major incident in September near RAF Fairford in the UK, where US armed forces were stationed. The three men have been accused by the DOJ of being involved in 18 attacks and attempted attacks, including in London, Amsterdam and Paris. Some of the incidents were said to be directed by the men over FaceTime. The DOJ said they acted in the name of the group Harakat Ashab al-Yamin al-Islamiya (HAYI). Iranian Mohsen Mohajeri, Iraqi national Mohammad Ali al-Hassani and dual Iranian-Iraqi citizen Mohammad Baqer Saad Dawood al-Saadi were charged in an indictment unsealed on Tuesday, the DOJ said. The DOJ said that most recently, al-Hassani &quot;orchestrated a terrorist plot&quot; at RAF Fairford - where on 27 September a major incident was declared after suspicious vans were reported near the base. Seven men have been arrested in the UK over the incident at RAF Fairford. Al-Hassani and Mohajeri were allegedly both in Iran at the time of the incident, the indictment claims. Meanwhile, al-Saadi was coordinating with the pair through third parties from a prison in New York, where he is awaiting trial on previous charges after being arrested in August, it adds. US court records show that al-Saadi is due in court on 19 November, though it is not clear whether this status conference - which is usually a routine scheduled appearance - relates to the new charges or the previous ones. The BBC has asked the Southern District of New York for comment. Image source, Department of JusticeImage caption, Mohammad Ali al-Hassani (left) and Mohsen Mohajeri (right) allegedly planned attacks on London from Iraq Mohajeri and al-Hassani are not in custody, two sources told the BBC&#x27;s US partner CBS News. The BBC has asked the DOJ for comment on the suspected whereabouts of the two men not in US custody. In the DOJ&#x27;s statement detailing the indictments, it said: &quot;Of the 18 terrorist attacks in the spring of 2026 for which HAYI claimed responsibility in Europe, seven took place in the UK.&quot; It added that the attacks involved &quot;arsons, explosives, and in one instance, a near-fatal stabbing in London of two Jewish men, including a dual US-British citizen&quot;. Two Jewish men were stabbed in Golders Green, north London, in April. A suspect is due to stand trial next year. The indictment also details an arson attack on a Jewish charity in London on 17 April, which allegedly saw al-Hassani &quot;directing&quot; an individual over FaceTime. On 17 April , a building previously used by Jewish Futures, an educational charity, was set alight in Hendon, north-west London. The following day, the DOJ said al-Hassani participated in another video call with an individual carrying out an attack on a synagogue in London. On 18 April, Kenton United Synagogue in Harrow was targeted in an arson attack. A 17-year-old boy pleaded guilty to the incident earlier this year. Image source, Department of JusticeImage caption, Mohammad Baqer Saad Dawood al-Saadi is currently in prison in New York, awaiting trial for previous charges The indictment also claims the three were involved in attacks on the Bank of New York Mellon building in Amsterdam on 15 March and on the Bank of America building in Paris on 28 March. It added that the trio tried to carry out attacks on &quot;Jewish institutions in the US&quot;, including attempting to target a synagogue in Manhattan, New York in March or April. &quot;This eight-count indictment shows the determination of Iran to commit terrorist attacks in Europe and the US,&quot; FBI Director Kash Patel said. He added that one of the three &quot;allegedly sent coded messages to assist in future acts of violence&quot; from detention. Patel said the accused were involved in nearly 20 attempted attacks in support of Iran&#x27;s Islamic Revolutionary Guard Corps (IRGC) and the Iran-backed Iraqi militia Kataib Hezbollah. Image source, Getty ImagesImage caption, Armed police officers were posted outside the RAF Fairford base following the incident in September A major incident was declared on 27 September near the UK&#x27;s RAF Fairford base, in the Cotswolds in Gloucestershire, after three suspicious vans were seen near the airbase. No explosive materials were found in the vans, but a quantity of petrol was seized. The DOJ said that in August, al-Hassani &quot;allegedly directed and paid associates&quot; in the UK to &quot;conduct preparatory steps and arrange logistics for the RAF Fairford terrorist plot&quot;. On 22 August, al-Hassani paid one individual to &quot;perform pre-operational surveillance of RAF Fairford&#x27;s perimeter&quot;, the department said. In September, al-Hassani paid several people to help him prepare for the plot, the DOJ also alleged. According to its statement, this included &quot;procuring vans and barrels of fuel, researching the purchase of chemical accelerants, including large quantities of potassium chloride, and purchasing metallic objects that could be used as explosive shrapnel&quot;. The suspects then gave the vans an appearance of being used by a fuel delivery business and a swimming pool supply business, the DOJ stated. &quot;On 26 September, al-Hassani allegedly tasked individuals to drive three vans, some of which were later determined to contain barrels of fuel, to the RAF Fairford base.&quot; The DOJ also said al-Hassani was &quot;in frequent communication&quot; with the van drivers and helped to direct them where to drive. &quot;At least two of the three vans, while en route to the perimeter of RAF Fairford, encountered a security roadblock and were not allowed to proceed on their intended route,&quot; it added. It was in the very early hours of 27 September, that the vans were spotted by a local farmer who was heading home from a party, and called the police. The Iranian embassy in London has said it &quot;categorically rejects and strongly condemns&quot; what it called &quot;unfounded and malicious speculations&quot; linking Iran to the incident. Two British nationals appeared in court last month in connection with the alleged Iran-linked plot. The US withdrew all its bombers from RAF Fairford after the incident, with President Donald Trump citing &quot;some threats&quot; to the base as the reason. RAF Fairford has been used by the US Air Force (USAF) for decades. In recent months, the US has flown B-1 and B-52 bombers from there to the Middle East for &quot;defensive&quot; strikes on Iran. In July, Iran said &quot;any base used for aggression against Iranian territory constitutes a legitimate target for our forces&quot;. Get our flagship newsletter with all the headlines you need to start the day. Sign up here.",
       "summary": "The US Department of Justice has charged three Iranian-backed operatives for orchestrating kinetic attack and surveillance plots targeting critical western military facilities, including the UK's RAF Fairford base. The deployment of proxy networks against installations housing American B-52 strategic nuclear bombers represents a dangerous escalation in Tehran's asymmetric warfare doctrine. State-sponsored sabotage efforts are increasingly weaponizing commercial surveillance tools, covert tracking arrays, and domestic digital footprints to map sensitive allied defense perimeters.",
       "deck": "Justice Department indicts Iranian-backed operatives for coordinated surveillance and strike planning against RAF Fairford.",
       "bullets": [
@@ -834,8 +834,8 @@
       ],
       "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31e7/live/ef3456f0-dd46-11f1-93e1-3b657b665bcf.jpg",
       "thumbnail_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31e7/live/ef3456f0-dd46-11f1-93e1-3b657b665bcf.jpg",
-      "word_count": null,
-      "read_time_minutes": null,
+      "word_count": 1148,
+      "read_time_minutes": 6,
       "source_tier": 2,
       "source_lean": null,
       "cluster_label": "Asymmetric Critical Infrastructure Sabotage",
@@ -845,7 +845,7 @@
       "trust_score": 7,
       "analysis_reasoning": "Reports on state-sponsored sabotage and DOJ charges. Factual and aligned with official government reports.",
       "metadata": {
-        "author": null,
+        "author": "Jack Burgess",
         "paywall": false,
         "language": "en"
       }
@@ -908,7 +908,7 @@
       "published_at": "2026-11-10T20:01:18+00:00",
       "category": "business",
       "tags": [],
-      "content": null,
+      "content": "LivestreamMenuNvidia&#x27;s board of directors said on Tuesday that it had hired Wachtell, Lipton, Rosen &amp; Katz to conduct an investigation of CEO Jensen Huang and whether company secrets or national security was compromised.In this article Nvidia&#x27;s board of directors said on Tuesday that it hired Wachtell, Lipton, Rosen &amp; Katz to conduct an investigation of CEO Jensen Huang and whether company secrets or national security was compromised, after Huang admitted to having an affair with a woman who has been connected to Chinese intelligence. &quot;The independent members of the NVIDIA Board have retained former acting U.S. Attorney of the Southern District of New York Joon H. Kim and his firm Wachtell, Lipton, Rosen &amp; Katz to conduct a thorough and independent investigation as was announced on Sunday,&quot; the board said in a statement. Kim joined the firm last month, and he was previously the chief U.S. prosecutor in Manhattan, according to Law360. Nvidia has been thrust into turmoil since Huang&#x27;s acknowledgement of the affair over the weekend. The chipmaker&#x27;s stock dropped 6% on Tuesday after falling more than 4% on Monday, as investors worry that the investigation and scandal could result in the co-founder and CEO being forced out. Nvidia and the board are facing pressure from critics and politicians over what the company knew about sales of its restricted AI chips to Chinese companies. Over the past few weeks, The New York Times and Financial Times have reported that U.S. intelligence agencies surveilled an Asian technology executive, Alice Huang, who has been affiliated with Nvidia customer Megaspeed. These agencies have concluded that she is passing information to Beijing and is involved with Chinese intelligence, according to the reports. Huang has become the face of the AI industry, going by his first name &quot;Jensen&quot; to customers and rivals as Nvidia&#x27;s technology is used to train nearly all major AI models. The chipmaker has become an essential source of financing for AI startups and Huang has met with presidents and CEOs around the world as Nvidia&#x27;s public face. But Huang&#x27;s actions have thrown the chipmaker into instability as he admitted to an affair with Alice Huang in an email to staff on Sunday. &quot;My actions hurt her and our children. There is no excuse for what I did,&quot; Huang wrote in the message, while emphasizing that he is an American and supports U.S. national security. An Nvidia representative said at the time that Huang was committed to continuing as CEO of Nvidia without interruption. On Sunday, Nvidia&#x27;s board said that it would investigate the allegations that Huang had been the target of a foreign intelligence effort. Nvidia&#x27;s board also said on Sunday that it has no reason to believe either national security nor Nvidia secrets were compromised.",
       "summary": "Nvidia retained legendary white-shoe defense firm Wachtell, Lipton, Rosen & Katz to lead an independent internal investigation into Chief Executive Jensen Huang's executive conduct and regulatory disclosures. The move marks an urgent boardroom mobilization after federal intelligence probes and shareholder derivative suits zeroed in on potential sanction evasion channels into China. Bringing in Wall Street's most formidable corporate crisis lawyers demonstrates that Nvidia's leadership perceives existential exposure from federal investigators.",
       "deck": "Board hires Wachtell Lipton to defend Jensen Huang against federal export scrutiny.",
       "bullets": [
@@ -928,8 +928,8 @@
       ],
       "image_url": null,
       "thumbnail_url": null,
-      "word_count": null,
-      "read_time_minutes": null,
+      "word_count": 456,
+      "read_time_minutes": 3,
       "source_tier": 2,
       "source_lean": null,
       "cluster_label": "Nvidia Executive China Probe",
@@ -939,8 +939,8 @@
       "trust_score": 7,
       "analysis_reasoning": "Reports on corporate crisis management and legal strategy. Neutral business reporting.",
       "metadata": {
-        "author": null,
-        "paywall": false,
+        "author": "Kif Leswing",
+        "paywall": true,
         "language": "en"
       }
     },
@@ -955,7 +955,7 @@
       "published_at": "2026-11-11T01:52:56+00:00",
       "category": "business",
       "tags": [],
-      "content": null,
+      "content": "LivestreamMenuAnthropic&#x27;s Australian retail IPO offering is on Wednesday and scheduled to close on Nov. 17, according to participating broker Stake.The Claude maker has applied to list its Class A common stock on the Nasdaq Global Select Market under the ticker symbol &quot;ANT,&quot; according to the company.The offering comes as Australia moves to tighten oversight of AI companies after a government website security breach involving an OpenAI agent, according to Reuters. In this article Anthropic, the maker of AI chatbot Claude, opened its Australian retail initial public offering on Wednesday, giving individual investors access to shares ahead of the company&#x27;s planned Nasdaq listing. The offering opened at 10 a.m. Australian Eastern Daylight Time on Wednesday and is expected to close at 5 p.m. on Nov. 17, according to the timetable published by participating broker Stake. Anthropic is seeking to raise as much as $64.4 billion in its IPO, with a separate $26 billion private placement, bringing a combined total to as much as $90.4 billion. Shares are expected to be priced between $70 to $78 each. The Australian retail offering is expected to consist of newly issued Class A common shares under a prospectus to be lodged with the Australian Securities and Investments Commission, Anthropic said on its website. Participating brokers include Commonwealth Bank of Australia&#x27;s CommSec unit as lead broker, along with Bell Potter, LGT Wealth, Macquarie Group, Morgans, Morgan Stanley Wealth Management, Sharesies and Stake. Anthropic said the prospectus would be available on its IPO website once the Australian retail offering opens. Investors will need to review the document and apply through participating brokers under the terms of the offer. Australia is one of the small numbers of markets outside the U.S. where retail investors will be able to buy the company&#x27;s shares directly, alongside Japan, Canada and parts of Europe. The San Francisco-based AI startup has applied to list its Class A common stock on the Nasdaq Global Select Market under the ticker symbol &quot;ANT.&quot; Anthropic said it does not plan to seek a listing on the Australian Securities Exchange. The offering comes as Australia moves to tighten oversight of AI companies after an OpenAI agent gained unauthorized access to the medical statistics website of Medicare, the country&#x27;s universal health insurance program. Prime Minister Anthony Albanese said Tuesday that the government would introduce mandatory reporting for certain AI-related incidents and establish an AI safety regulator with powers to enforce penalties. &quot;The law needs to get ahead of, and in some cases, make sure that it catches up with what is a very fast-changing world,&quot; Albanese told Reuters. The government is also considering changes to criminal law for cases involving serious misconduct. The country has also ruled out a copyright-law exemption that would allow AI companies to train models on Australian content without licensing it. Open AI and Anthropic told Australian parliament last month that they would support mandatory reporting of data breaches involving their AI agents, acknowledging that disclosure is currently voluntary.",
       "summary": "Anthropic is democratizing its late-stage balance sheet by opening retail investment tranches in Australia as compute expenditures outstrip institutional venture capital capacity. The move signals an aggressive pivot toward global public retail liquidity to bankroll next-generation training clusters requiring tens of billions in annual capital expenditure. Facing escalating antitrust scrutiny over Big Tech cloud subsidies, AI frontier labs must secure independent sovereign and retail capital to survive.",
       "deck": "Anthropic opens retail IPO tranches in Australia to fund multi-billion-dollar compute obligations.",
       "bullets": [
@@ -975,8 +975,8 @@
       ],
       "image_url": "https://image.cnbcfm.com/api/v1/image/108469374-1793113053396-gettyimages-2301777677-boivin-photoill261027_np1O1.jpeg?v=1793113123&amp;w=1920&amp;h=1080",
       "thumbnail_url": "https://image.cnbcfm.com/api/v1/image/108469374-1793113053396-gettyimages-2301777677-boivin-photoill261027_np1O1.jpeg?v=1793113123&amp;w=1920&amp;h=1080",
-      "word_count": null,
-      "read_time_minutes": null,
+      "word_count": 494,
+      "read_time_minutes": 3,
       "source_tier": 2,
       "source_lean": null,
       "cluster_label": "Frontier AI Capital Race",
@@ -986,8 +986,8 @@
       "trust_score": 7,
       "analysis_reasoning": "Neutral reporting on a novel financial move by Anthropic. Tech score reflects a pro-growth/innovation framing.",
       "metadata": {
-        "author": null,
-        "paywall": false,
+        "author": "Jenny Lee",
+        "paywall": true,
         "language": "en"
       }
     },
@@ -1096,7 +1096,7 @@
       "published_at": "2026-11-10T21:50:46+00:00",
       "category": "technology",
       "tags": [],
-      "content": null,
+      "content": "Policymakers from Congress and the executive branch are looking for ways to further boost the U.S. quantum computing industry, including by growing industrial capacity to translate scientific breakthroughs into workable technology. Deputy Secretary of Commerce Paul Dabbar said the American industry is &ldquo;by far the greatest leader in quantum technologies,&rdquo; with a tech stack that is the envy of the world. The challenge will be translating those technological gains into real, brick-and-mortar industrialization and manufacturing dominance. Dabbar pointed to other examples of federal support, such as grant funding from the CHIPS and Science Act and letters of intent signed earlier this year with nine companies investing more than $2 billion into different quantum technologies. But one of the primary questions that Commerce officials ask companies when making decisions on federal investments is &ldquo;How do we move a bit further down the road from discovery towards actually supporting individual technologies that can commercialize?&rdquo; he said. That question is being driven by U.S. assessments that the country&rsquo;s quantum technology edge is real but is being threatened by countries such as China that have more robust industrial capacity. Dabbar said the federal government is also attempting to follow its own example, citing White House executive orders on quantum computing and more aggressive timelines for agencies to migrate to quantum encryption, measures that CyberScoop was first to report last year. Commerce is the first agency scheduled to deploy its post-quantum encryption. The department also has the authority to place export controls on technologies, as it did for Anthropic&rsquo;s Mythos and Fable AI models earlier this year. Dabbar expressed caution but suggested Commerce officials were willing to use such controls to advance the interests of American technology makers. &ldquo;We have to be very careful about American leadership on the frontier on all technologies, and quantum is certainly one of them,&rdquo; Dabbar said. &ldquo;We want to be very thoughtful about making certain that which is invented by people in this room are retained by people in this room and are not copied or stolen.&rdquo; Dabbar&rsquo;s comments came the same day that the Commission on U.S. Quantum Primacy released a report detailing the major challenges facing the American quantum industry. The report warned that while research, software and private investment are &ldquo;major strengths&rdquo; for U.S. industry in its global competition with China, China&rsquo;s manufacturing and supply chain production threatens to erode that edge. &ldquo;American scientific strengths may not translate into leadership in deployment and industrial production,&rdquo; the report stated. Boosting American industrial capacity in quantum is among the report&rsquo;s top recommendations, including investments in physical infrastructure such as factories, foundries and suppliers that can &ldquo;turn future breakthroughs into reliable systems.&rdquo; &ldquo;To date, many quantum milestones have rightfully been measured in technical and scientific terms,&rdquo; the report stated. &ldquo;But national leadership requires a broader ambition: quantum primacy&mdash;the ability to turn scientific advances into sustained strategic advantage across quantum technologies.&rdquo; The commission is due to issue a final report in Spring 2027. Sens. Ben Ray Luj&aacute;n, D-N.M. and Todd Young, R-Ind., served as co-chairs of the commission. Meanwhile, Luj&aacute;n pointed to an alleged national security incident involving Nvidia CEO Jensen Huang as evidence that U.S. private industry can&rsquo;t be trusted to protect America&rsquo;s tech secrets. According to media reports Huang, who is married, had an affair with Chinese tech executive Alice Huang, later identified by U.S. intelligence agencies as a foreign intelligence asset working for China. When asked about how to maintain U.S. competitiveness in quantum computing and other technologies, Luj&aacute;n said tech executives &ldquo;need to be smarter&rdquo; about protecting America&rsquo;s tech secrets. &ldquo;People need to make better decisions when you&rsquo;re entrusted with that kind of power and responsibility,&rdquo; he said. Luj&aacute;n, who did not mention Huang by name, said tech executives &ldquo;know that other countries, they send people here to do bad things and get people locked up into telling secrets and things of that nature.&rdquo; &ldquo;That clearly happens, and now we&rsquo;re learning about it and the stock market&rsquo;s reacting&hellip;don&rsquo;t be stupid,&rdquo; Luj&aacute;n said. Luj&aacute;n said that while Democrats taking control of Congress will involve efforts to &ldquo;push back&rdquo; against executive branch overreach, he is open to working with the Trump administration and Republicans on legislation focused on the workforce and bringing &ldquo;substantial investments across the United States in this space to ensure that the United States is going to stay in the front&rdquo; of quantum computing. But he suggested those investments could be wasted if Congress does not intervene with &ldquo;good policy&rdquo; and if tech executives can&rsquo;t self-police their behavior. He pointed to another emerging technology, AI, where an innovation-at-all-costs approach has left industry poorly positioned to deal with cybersecurity and safety concerns. &ldquo;As we&rsquo;re learning now from whistleblowers and others from some AI companies that we also need policy and guardrails, and the United States is qualified in a few [of those] areas,&rdquo; Luj&aacute;n said.",
       "summary": "The White House and defense planners shifted federal quantum policy from academic research grants toward constructing dedicated domestic component fabrication facilities. National security officials warned that maintaining a theoretical lead is meaningless if cryogenic silicon and dilution refrigerators are imported through foreign supply chains. The initiative establishes specialized foundry facilities designed to guarantee an end-to-end sovereign quantum supply chain.",
       "deck": "The US government redirected quantum computing initiatives toward specialized domestic hardware fabrication plants.",
       "bullets": [
@@ -1116,8 +1116,8 @@
       ],
       "image_url": null,
       "thumbnail_url": null,
-      "word_count": null,
-      "read_time_minutes": null,
+      "word_count": 809,
+      "read_time_minutes": 5,
       "source_tier": 2,
       "source_lean": null,
       "cluster_label": "Strategic Deep-Tech Industrial Policy",
@@ -1127,7 +1127,7 @@
       "trust_score": 7,
       "analysis_reasoning": "Reporting on domestic industrial policy for quantum. Pro-tech in terms of development, slightly nationalist/center-right in policy framing.",
       "metadata": {
-        "author": null,
+        "author": "Derek B. Johnson",
         "paywall": false,
         "language": "en"
       }
@@ -1190,7 +1190,7 @@
       "published_at": "2026-11-10T22:33:35+00:00",
       "category": "geopolitics",
       "tags": [],
-      "content": null,
+      "content": "Sign up now: Get ST&#x27;s newsletters delivered to your inbox Published Nov 11, 2026, 06:33 AM Updated Nov 11, 2026, 06:13 PM Set as preferred source Listen VILNIUS, Nov 11 - NATO scrambled jets overnight after at least four drones strayed into the airspace of the Baltic states during Ukrainian strikes on Russia, officials said on Wednesday, triggering brief alerts to citizens of Lithuania, Latvia and Estonia to seek shelter. Ukrainian military drones straying into the airspace of Finland and the Baltics this year have fuelled concern that the Ukraine war is spilling into NATO countries that border Russia and its ally Belarus. There were no reports of injuries on what Lithuania&#x27;s Prime Minister Mindaugas Sinkevicius called &quot;a difficult night&quot;. One of the warnings covered Kaunas, Lithuania&#x27;s second-most populous city, home to about 300,000 people. The incidents occurred on a night that Ukrainian drones attacked Russia&#x27;s northwest, home to major Baltic Sea export facilities and a big oil refinery, setting afire the Ust-Luga port area and injuring three people. Moscow has accused Kyiv of using NATO airspace as cover for attacks, while Kyiv says Russian signal jamming sometimes sends some of its drones off course. The NATO nations generally blame Russia for such incidents, for igniting the war by invading its neighbour in 2022. Two attempts were made to shoot down a drone over Lithuania but both failed, and it later crossed into neighbouring Latvia&#x27;s airspace, Lithuanian armed forces Chief of Defence Staff Giedrius Premeneckas told a news conference. &quot;We can only assume some of the drones involved in the attack against Russia were diverted by electronic warfare measures, but there is no confirmed information as to whether the drone was Ukrainian or Russian,&quot; Premeneckas said. Finland, another Russian neighbour, adopted temporary airspace and maritime curbs in the eastern Gulf of Finland on Wednesday, its defence forces said on X, but also withdrew them later. &quot;The restrictions were a precautionary measure to ensure the authorities&#x27; ability to operate and the safety of bystanders,&quot; they added. Drone debris killed two in Russia&#x27;s Smolensk region bordering Belarus, Russian newswires cited the local governor as saying. TWO-DAY TALKS IN ABU DHABI In Ukraine, an overnight Russian air strike knocked out power in parts of the industrial city Kryvyi Rih, injured one in the second-biggest city Kharkiv and another six in Zaporizhzhia, officials and emergency services said. Reuters could not immediately confirm the reports independently. Russia and Ukraine deny deliberately targeting civilians though both consider energy infrastructure to be valid targets. The turmoil comes against the backdrop of a two-day meeting between Russian and Ukrainian officials in Abu Dhabi from Tuesday, as the United States makes a new push to end their war. As Ukraine attacks Russian oil shipping ports on the Baltic Sea, some of its drones have missed their targets, prompting security warnings in neighbouring countries and even a government collapse this year in Latvia. REUTERS Nato Drones Strikes",
       "summary": "Latvia and Lithuania issued coordinated warnings detailing aggressive low-altitude drone intrusions and severe GPS spoofing across Eastern European transit corridors. The electronic warfare campaign coincides with tightened maritime transit curbs enacted across the Gulf of Finland to protect undersea datalinks. Baltic defense ministries are now requesting immediate deployment of permanent NATO kinetic air defense batteries to protect critical logistical hubs.",
       "deck": "Latvia and Lithuania issued urgent security alerts as hostile drone intrusions test air defenses.",
       "bullets": [
@@ -1210,8 +1210,8 @@
       ],
       "image_url": null,
       "thumbnail_url": null,
-      "word_count": null,
-      "read_time_minutes": null,
+      "word_count": 487,
+      "read_time_minutes": 3,
       "source_tier": 2,
       "source_lean": null,
       "cluster_label": "Baltic Hybrid Warfare Escalation",
@@ -1221,8 +1221,8 @@
       "trust_score": 7,
       "analysis_reasoning": "Geopolitical reporting on electronic warfare. Critical of Russian tech/military actions.",
       "metadata": {
-        "author": null,
-        "paywall": false,
+        "author": "The Straits Times",
+        "paywall": true,
         "language": "en"
       }
     },
@@ -1234,7 +1234,7 @@
       "source": "Taipei Times",
       "source_url": "https://www.taipeitimes.com",
       "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/11/11/2003867529",
-      "published_at": "2026-11-11T21:06:50.715Z",
+      "published_at": "2026-11-12T21:20:50.789Z",
       "category": "geopolitics",
       "tags": [],
       "content": null,
@@ -1610,7 +1610,7 @@
       "source": "Nikkei Asia",
       "source_url": "https://asia.nikkei.com",
       "url": "https://asia.nikkei.com/politics/defense/japan-to-give-philippines-drones-radar-systems-in-biggest-security-aid-to-date",
-      "published_at": "2026-11-11T21:06:50.715Z",
+      "published_at": "2026-11-12T21:20:50.789Z",
       "category": "geopolitics",
       "tags": [],
       "content": "Philippine Foreign Secretary Theresa Lazaro, left,&nbsp;and&nbsp;Japanese Ambassador to the Philippines Katsuro Kitagawa at a signing ceremony on Nov. 9.&nbsp;(Photo by Yuki Fujita) MANILA -- Japan on Monday agreed to provide radar systems to the Philippine Navy and surveillance and reconnaissance drones to its air force, aiming to bolster the country&#x27;s ability to monitor surrounding waters.",
@@ -1801,7 +1801,7 @@
       "published_at": "2026-11-10T16:52:49+00:00",
       "category": "policy",
       "tags": [],
-      "content": null,
+      "content": "The incoming Democratic majority on the House Committee on Science, Space, and Technology is preparing to wield its new power to conduct oversight of President Donald Trump&rsquo;s cuts and reshuffling within the federal science and research enterprise. &ldquo;We&rsquo;re going to do oversight, and we&rsquo;re going to take a look at how we can structure legislation in ways that make it more difficult for the Trump administration to continue to do this damage,&rdquo; said Rep. Zoe Lofgren, who is now poised to lead the committee. In an interview this summer and recent emailed responses following the Democratic sweep in the midterm elections, Lofgren told FedScoop the panel is preparing to dive deeper into controversial Trump administration policies such as to grant cuts at the Department of Energy that targeted blue states , apparent impoundment of funds at the National Science Foundation, an Environmental Protection Agency reorganization that replaced its research office , and political appointees making grant award decisions .&nbsp; The administration&rsquo;s actions give the committee &mdash; which has oversight of almost the entire federal research enterprise &mdash; &ldquo;a lot to cover,&rdquo; Lofgren said. While the list of oversight priorities for Democrats may be long, Lofgren and colleagues also have some optimism about legislation in areas that have traditionally had more bipartisan buy-in. Specifically, Lofgren said her priorities will be quantum, fusion, and artificial intelligence.&nbsp; The House science panel has broad oversight of federal research and science agencies, making it an unavoidable venue for major science and technology legislation. Over the past decade, that&rsquo;s included bills such as the National Quantum Initiative Act, the CHIPS and Science Act, and the Weather Act Reauthorization.&nbsp; Politicization within AI might make legislation in that space &ldquo;tricker,&rdquo; but the 31-year House veteran said &ldquo;all three &mdash; and certainly fusion and quantum &mdash; have always had a bipartisan effort in the House and in the committee.&rdquo; While Lofgren has previously chaired other House panels, including committees on administration and ethics, the coming Congress would be the first time taking the gavel on the chamber&rsquo;s science panel. The California congresswoman, whose district includes part of Silicon Valley, has led the Democrats on the committee as the ranking member since 2023. When asked about what the committee might start with, Lofgren said everything she&rsquo;d pointed to was on the table. &ldquo;I will stop at nothing to earn back the trust of our allies across the globe, end the brain drain, restore scientific integrity across our agencies, and reaffirm our leadership in science,&rdquo; Lofgren said. Notably, committee Democrats identified legislation as a possible mechanism for holding the current administration in check. As the second Trump administration has sought to alter what the federal government spends its money on, science funding has been among the targets. Science grants and programs were subject to termination as the administration sought to purge activities related to diversity, equity and inclusion and climate research from the federal government.&nbsp; Despite Congress mostly rejecting Trump&rsquo;s deep proposed cuts to science agencies during the last appropriations cycle, the administration has continued to push for significant reductions and, according to analysis by advocates like Grant Witness , appears to be withholding science funds at multiple agencies.&nbsp; As a result, Lofgren said the committee will be closely looking into legislative levers to prevent the Trump administration&rsquo;s actions, such as language that&rsquo;s &ldquo;more prescriptive on how money is spent,&rdquo; she said.&nbsp; &ldquo;When you have agencies withholding money that Congress instructed them to spend so that they can move it around for their own pet projects, we have to come up with ways to get in front of that sort of blatant corruption so it cannot happen again,&rdquo; Lofgren said. In an interview speculating about a Democratic-led committee this summer, Rep. Deborah Ross, D-N.C., similarly told FedScoop that a priority would be taking back Congress&rsquo;s funding authority for science and research by directing how things are done at agencies. &ldquo;We are going to have to be much more prescriptive with this administration and give them much less discretion about what to do,&rdquo; Ross said.&nbsp; A spokesperson for the current committee chair, Rep. Brian Babin, R-Texas, didn&rsquo;t respond to FedScoop&rsquo;s requests for comment on strategy or priorities under a Democratic-led panel. In terms of oversight, Lofgren pointed broadly to the impact Trump has had on the science and research ecosystem as a focus. &ldquo;The Trump administration has taken a real hatchet to the science enterprise in this country,&rdquo; Lofgren said. &ldquo;They have illegally defunded research that has been directed by law &hellip; in doing so, they have done huge damage to science research and all endeavors. Not only the product of the research, but the pipeline of scientists.&rdquo; Lofgren said she&rsquo;s spoken to multiple university leaders about their inability to admit doctoral students and postdoctoral students because they lack the resources to pay for the research. Moreover, she said, policies targeting international students threaten the pipeline of innovators who are Americans by choice.&nbsp; When asked about priorities for a Democratic-controlled panel this summer, committee member Rep. George Whitesides, D-Calif., similarly pointed to the need to show the impact of the administration&rsquo;s choices. &ldquo;I think it&rsquo;s important that the American people understand the grievous harm that is being done to the American research establishment during this administration, and that harm will be felt for decades,&rdquo; said Whitesides, former NASA chief of staff who was the first CEO of Virgin Galactic. People won&rsquo;t immediately see the impact of the discoveries that would have been made as a result of that funding, but Whitesides said the United States will be lacking, particularly in comparison to international competitors. The administration&rsquo;s policies, for example, have caused researchers to leave the U.S. for Europe and China , he noted.&nbsp; In September, Grant Witness and States United Democracy Center launched a tool that estimated $177 billion in federal dollars has been disrupted under the second Trump administration. Those organizations, which used public records to analyze impacted federal funding, concluded that Texas had lost the most federal funding of any state and Vermont lost the most per resident. Also on Lofgren&rsquo;s radar for oversight: The Trump administration&rsquo;s push to gain equity stakes in private industry. That includes equity in quantum business and, more recently, stakes in semiconductor supply chain companies. Per a Cato Institute tracker, the Trump administration has made roughly 40 such investments. &ldquo;I have deep concerns about the government&rsquo;s growing ownership interest in industry, and it is only compounded by the fact that these seem to be concentrated in certain industries,&rdquo; Lofgren said. Such a mechanism has only been used in emergency situations in the past and shouldn&rsquo;t be part of regular business with the government, she said. Lofgren likened the activity of seizing &ldquo;control of the means of production&rdquo; to communism and noted that there&rsquo;s irony given Trump&rsquo;s frequent comments calling political opponents communists.&nbsp; &ldquo;We&rsquo;re going to have some oversight over that and the impact on the science enterprise,&rdquo; she said. Some of the possible focuses for Democrats were previewed at a hearing just before the August recess featuring Trump&rsquo;s top science and tech advisor, Michael Kratsios. The committee members pressed the White House Office of Science and Technology Policy director on various research and science policies, including White House activity in grants decisions at NSF and the agency&rsquo;s apparent withholding of funds.&nbsp; Since then, public records obtained by Democracy Forward and shared with FedScoop provided new insight into activities at the agency and, for some, called into question the veracity of Kratsios&rsquo; testimony denying White House involvement.&nbsp; Lofgren&rsquo;s legislative priorities align with work the committee has already been conducting over the past couple of Congresses, and there&rsquo;s still a chance legislation that&rsquo;s already approved by the panel could win passage before the end of the current session. That includes key quantum legislation and multiple AI-related bills.&nbsp; &ldquo;We&rsquo;re still working to get them finished this year, but if not, we would hope to move them next year,&rdquo; Lofgren said of the legislation. With respect to AI, the committee has advanced a number of bills in the current Congress &mdash; including the CREATE AI Act ( H.R. 2385 ), which would formally establish an AI research resource at NSF, and the AI Security and Innovation Act ( H.R. 9363 ), which would codify the AI standards body within the National Institute of Standards and Technology.&nbsp; On quantum, the committee has approved the National Quantum Initiative Reauthorization ( H.R. 8462 ), which would re-up legislation that established the national strategy for quantum research and development.&nbsp; Fusion, meanwhile, is beginning to get more attention from the panel, with Lofgren and committee member Rep. Jay Obernolte, R-Calif., recently introducing the American Leadership in Fusion Act ( H.R. 10574 ) to advance the energy technology as a source of power that&rsquo;s free of greenhouse gasses. That bill includes millions in funding for NSF and DOE for fusion work. Lofgren said she intends &ldquo;to move on that quickly.&rdquo;&nbsp; The bill&rsquo;s Republican co-sponsor is also looking for movement and questioned the Trump administration about its support. In July, Obernolte asked Kratsios about the absence of funding for fusion in Trump&rsquo;s fiscal 2027 budget request when AI and quantum each received ample support. The OSTP leader said fusion was a priority, citing a goal to be able to demonstrate commercial fusion power by the mid-2030s. Obernolte pointed to the need to work with Congress. &ldquo;It&rsquo;s going to require a partnership between Congress and the administration to get that funded, and commercialization is an important part of that strategy,&rdquo; Obernolte said. Of her three focus areas, Lofgren identified AI as potentially the more difficult to reach agreement on given the divide between Democrats, who are generally pro-regulation, and Republicans, who worry that regulation stifles innovation.&nbsp; But she said the committee &ldquo;can regulate and innovate at the same time, just as we always have.&rdquo; At the same time, there&rsquo;s also interest in centralizing the chamber&rsquo;s AI work under a single committee, which could change each panel&rsquo;s share of issues involving the technology. According to reporting from Politico in September, Democratic leaders in the House are weighing an AI select committee. That effort is reportedly being led by Reps. Bill Foster of Illinois and Ted Lieu of California, and if advanced, may require some committee leaders to give up jurisdiction of AI issues. Foster spoke to FedScoop about why the House should create a committee to deal with AI this summer. The particle physicist-turned-congressman noted that Obernolte, who co-chaired the temporary House Task Force on AI in 2024, had tried to make the case for turning that group into a select committee but ran into seven committee chairs who all wanted their panel to be doing AI. A full standing committee, he noted, is what most other countries have.&nbsp; &ldquo;We got to get past this,&rdquo; Foster said. &ldquo;And frankly, if you&rsquo;re interested in whether the Democrats are going to be doing something serious about AI, look to see if they&rsquo;re willing to put in place in Congress an organization capable of dealing with it.&rdquo;",
       "summary": "House Democrats are constructing legislative guardrails to prevent the incoming administration from impounding bipartisan federal science and quantum computing appropriations. Lawmakers are exploiting technical statutory mechanisms to lock in funding for the National Science Foundation and Department of Energy laboratories before executive orders can freeze research disbursements. The scramble reveals deep apprehension that Washington's political turbulence could destabilize the basic science pipeline underpinning American tech supremacy.",
       "deck": "Congressional Democrats craft legislative tripwires to protect federal supercomputing and scientific grants.",
       "bullets": [
@@ -1821,8 +1821,8 @@
       ],
       "image_url": null,
       "thumbnail_url": null,
-      "word_count": null,
-      "read_time_minutes": null,
+      "word_count": 1836,
+      "read_time_minutes": 10,
       "source_tier": 2,
       "source_lean": null,
       "cluster_label": "Federal Research and R&D Governance",
@@ -1832,7 +1832,7 @@
       "trust_score": 7,
       "analysis_reasoning": "Highly critical reporting on a significant security failure at an AI startup.",
       "metadata": {
-        "author": null,
+        "author": "Madison Alder",
         "paywall": false,
         "language": "en"
       }
@@ -1848,7 +1848,7 @@
       "published_at": "2026-11-10T15:28:00+00:00",
       "category": "security",
       "tags": [],
-      "content": null,
+      "content": "Inference biz pins latest breach on cloud provider and LLMJacking miscreants Connor Jones Connor Jones Cybersecurity reporter Published tue 10 Nov 2026 // 15:28 UTC Make us preferred on Google 2013 breach at Russian cybercrime forum resurfaces with millions of victims' credentials 9 hours ago Shipping giant Maersk probes 'IT security incident,' data theft 11 hours ago OpenAI builds a kill switch for its research models 17 hours ago November Patch Tuesday boasts over 1,000 bugs, one already under attack 1 day ago Ring robots ready to patrol paranoids’ pads 1 day ago Fireworks AI has disclosed another cyberattack in October and a wider customer data exposure involving billing records, datasets, and incomplete model weights. The company, which lets customers train and run AI models, said a third-party cloud provider hosting its research and development machines was compromised on October 23. Attackers used that access the following day to reach Fireworks development systems and run an unauthorized workload. Fireworks suspects links to financially motivated criminals involved in LLMJacking – selling unauthorized access to AI models through illicit gateways. Fireworks grouped the affected data into three categories: Resource metadata: Resource identifiers, display names, descriptions, creation times, and more Billing information: Billing and shipping addresses, invoice and payment histories, account balances, and credit usages. Payment card numbers are not saved and therefore unaffected Model weights and datasets: For certain customers, a subset of incomplete model weights and datasets were accessed, Fireworks said Lin Qiao, Fireworks co-founder and CEO, said the apparent motive was not stealing model weights in response to concerns raised by Cantina Security CEO Hari Mulackal. \"From what we see attackers are not after weights,\" said Qiao. \"Most downloads were partial and stopped.\" Render founder and CEO Anurag Goel shared a notification from Notion warning that some chats with its AI assistant may have been exposed through the Fireworks incident. \"Following an investigation by the Notion security team, we have determined that your workspace, Render, was among the &lt;1 percent of Notion workspaces that may have been affected by the Fireworks security incident,\" the email sent to Goel stated. \"Some unattributable chat sessions with Notion AI may have been exposed in this incident.\" Notion said the exposed transcripts lacked separate information linking them to particular users or workspaces. As Reddit users pointed out , however, the conversations themselves could contain identifying details. \"Beyond what's in the chat transcript itself, there's no information tying the chat back to your workspace, users, or company,\" the email added. \"No other data from within your workspace is affected.\" Bloomberg reports that Fireworks is also working with customers including Cursor and Harvey to assess the impact. Fireworks' update confirmed that it worked with Palo Alto Networks' Unit 42 team to remediate the attack, which included rotating credentials, isolating affected systems from the network, and tightening up data storage access and monitoring systems. The update did not state how many customers were affected by either of the two attacks in October. Fireworks first disclosed an incident on October 9 &nbsp;after detecting unauthorized use of internal credentials on October 6. Attackers accessed environment variables in evaluation jobs, including API keys and tokens belonging to some customers. At the time, Fireworks said it had found no evidence of access to models, datasets, training data, inference traffic, or personal information. Monday's update substantially broadens the disclosed impact. ® ai security cyber-crime data breach Make us preferred on Google",
       "summary": "Generative cloud platform Fireworks AI has experienced a catastrophic second infrastructure breach, exposing client API keys, proprietary model weights, and enterprise training data. The incident underscores the fragility of rapid AI scaling, where speed to market routinely trumps basic isolation safeguards in multi-tenant inference environments. Enterprise customers are discovering that routing sensitive operations through venture-backed infrastructure wrappers creates massive supply chain exposure without adequate data containment guarantees.",
       "deck": "A secondary infrastructure compromise exposes enterprise API keys, private models, and proprietary corporate weights at Fireworks AI.",
       "bullets": [
@@ -1868,8 +1868,8 @@
       ],
       "image_url": "https://image.theregister.com/?imageId=5308749&amp;width=800",
       "thumbnail_url": "https://image.theregister.com/?imageId=5308749&amp;width=800",
-      "word_count": null,
-      "read_time_minutes": null,
+      "word_count": 569,
+      "read_time_minutes": 3,
       "source_tier": 2,
       "source_lean": null,
       "cluster_label": "AI Infrastructure Security Breaches",
@@ -1879,8 +1879,8 @@
       "trust_score": 7,
       "analysis_reasoning": "",
       "metadata": {
-        "author": null,
-        "paywall": false,
+        "author": "Connor Jones",
+        "paywall": true,
         "language": "en"
       }
     },
@@ -1942,7 +1942,7 @@
       "published_at": "2026-11-10T19:51:22+00:00",
       "category": "security",
       "tags": [],
-      "content": null,
+      "content": "Iran’s Foreign Minister Abbas Araghchi said France is “shifting blame for its failures” by accusing an IRGC-affiliated cyber unit of hacking supermarket fridges earlier in October. “Unable to manage fridges let alone addressing grievances of its people, French government is shifting blame for its failures onto others,\"&nbsp;Araghchi said in a post on X. “Yes, Iran is powerful. But unlike France, we do not exercise power via support for massacres in Gaza or bombings of schools and hospitals,\" he said. Unable to manage fridges let alone addressing grievances of its people, French government is shifting blame for its failures onto others. Yes, Iran is powerful. But unlike France, we do not exercise power via support for massacres in Gaza or bombings of schools and hospitals. — Seyed Abbas Araghchi (@araghchi) November 10, 2026",
       "summary": "Tehran issued an aggressive diplomatic denial after French intelligence agencies officially attributed nationwide industrial sabotage against supermarket cold-chain infrastructure to state-sponsored Iranian cyber units. The automated malware deliberately altered cooling system programmable logic controllers, spoiling millions of euros in food inventories across French logistics centers. The clash marks a dangerous escalation into low-level industrial infrastructure sabotage designed to impose domestic civilian disruption without provoking open warfare.",
       "deck": "Iranian foreign ministry denies state deployment of malware disabling French supermarket refrigeration grids.",
       "bullets": [
@@ -1962,8 +1962,8 @@
       ],
       "image_url": null,
       "thumbnail_url": null,
-      "word_count": null,
-      "read_time_minutes": null,
+      "word_count": 132,
+      "read_time_minutes": 1,
       "source_tier": 2,
       "source_lean": null,
       "cluster_label": "Critical Infrastructure Cyber Warfare",
@@ -1973,7 +1973,7 @@
       "trust_score": 7,
       "analysis_reasoning": "Reporting on state-sponsored cyber warfare. The tone is neutral-analytical regarding the tech, though it highlights the severity of the geopolitical escalation.",
       "metadata": {
-        "author": null,
+        "author": "https://www.facebook.com/middleeasteye/",
         "paywall": false,
         "language": "en"
       }
@@ -2315,7 +2315,7 @@
       "source": "Le Monde Diplomatique",
       "source_url": "https://www.monde-diplomatique.fr",
       "url": "https://www.monde-diplomatique.fr/2026/11/MORFOUACE/70153",
-      "published_at": "2026-11-11T21:06:50.716Z",
+      "published_at": "2026-11-12T21:20:50.789Z",
       "category": "geopolitics",
       "tags": [],
       "content": "La saturation progressive du sens de la vue par les écrans a ouvert un nouvel espace à l’ouïe, jusque-là essentiellement sollicitée par la voix humaine et la musique. Diffusés en ligne, chuchotements et sons de contact amplifiés permettent de nouer avec certaines personnes un rapport très particulier. Un homme apparaît sur un fond noir, devant une toile posée sur un chevalet. Le sourire affable, il s’adresse aux téléspectateurs comme s’il les connaissait chacun personnellement : « Hi, welcome back, I’m glad to see you » (« Salut, content de vous revoir ici »). Il s’emploie alors à peindre montagnes, couchers de soleil ou fermes sous la neige. Le patient professeur conseille et encourage d’une voix douce l’élève invisible. « The joy of painting » (« La joie de peindre ») est un programme télévisé américain, animé par Robert (« Bob ») Ross et diffusé entre 1983 et 1994. Personne, sans doute, n’aurait pu prédire que les méandres d’Internet lui donneraient une seconde célébrité quelques décennies plus tard, ni qu’il deviendrait le modèle de l’ASMR. Ce sigle — pour autonomous sensory meridian response, « réponse sensorielle autonome culminante » en français — désigne une sensation, voire un sentiment suscité par ces contenus, et par extension ces contenus eux-mêmes. Une étiquette apposée sur certaines vidéos reprenant les codes des émissions de Bob Ross : douceur de la voix, lenteur de l’élocution, adresse directe au spectateur et amplification exagérée de certains bruits d’ordinaire peu perceptibles — en l’occurrence, celui du pinceau. Grâce à des micros placés tout près de la source sonore, les créateurs accentuent les sons produits par des objets manipulés : une vidéaste met de la mousse à raser sur un micro, découpe avec des ciseaux une balle antistress à paillettes pour en répandre le contenu. Les séquences mettent souvent en scène une personne « guide » qui, explique l’artiste et chercheuse Alice Lenay, « fait mine de prendre soin du “récepteur” ». Ce « prendre soin » s’incarne dans un jeu de rôle : le ou la vidéaste est une librairie qui te conseille des livres ; une esthéticienne qui te prodigue un soin du visage, etc. Les sons amplifiés exacerbent sa respiration, ses bruits de bouche ; ils mettent mal à l’aise certaines (…) En cliquant sur « S’inscrire », je reconnais avoir pris connaissance de la politique de confidentialité du Monde diplomatique et des droits dont je dispose sur mes données personnelles.",
@@ -2365,7 +2365,7 @@
       "published_at": "2026-11-10T20:35:11+00:00",
       "category": "technology",
       "tags": [],
-      "content": null,
+      "content": "A poke in the AI with a sharp stick Thomas Claburn Thomas Claburn AI AND SOFTWARE REPORTER Published tue 10 Nov 2026 // 20:35 UTC Make us preferred on Google AMD winds up Zen 6 cores for faster clock speeds 1 day ago A closer look at Verano, AMD's first step toward a Zen-based superchip to rival Nvidia's Vera Rubin 1 day ago Fireworks AI gets burned twice as customer data exposure widens 1 day ago Microsoft's Azure Linux gets 470-plus security fixes in one almighty patching session 2 days ago PyTorch 2.15 tackles the 'one bad GPU' problem 5 days ago Now that LLMs can help analyze commercial software binaries and recreate their functionality, one software developer and student has created a project designed to make this process more difficult. Timo Zhang's&nbsp; project is called Blind LLM Agents (BLA), and as its name suggests, it attempts to interfere with efforts by AI agents to scrutinize app code. \"Coding agents can reverse-engineer shipped packages, CLIs, and WASM in minutes,\" Zhang told The Register in an email. \"Classic obfuscation was built for humans and static tools, not LLMs that reason about meaning. Blind LLM Agents is a protection layer for that threat model.\" Such agents can also help developers build alternatives to existing commercial software. Last month, Artcraft , a two-person development shop, released seven open-source apps that aim to be replacements for Adobe's commercial apps Photoshop, Illustrator, Premiere Pro, Lightroom, After Effects, InDesign, and Acrobat Pro. Artcraft claims these apps are \"clean-room reimplementations\" written from scratch in Rust using Anthropic Opus 5.5.&nbsp; Setting aside the question of whether enlisting an AI model to reimplement an app really immunizes the creator from legal risk, those making apps face the possibility that someone will have an LLM probe published app binaries and reconstruct them through reverse engineering. There's in fact a framework for this, Reverse Engineer Anything (REA). Zhang has faced some criticism on social media for creating a limited barrier to copying other people's work (which at this point might simply be the work of another LLM). But not everyone accepts that all publicly accessible binaries should be easily available for review and reuse. BLA cannot prevent committed reverse engineering efforts, but it may add a bit of friction to the process when LLMs are involved. \"It doesn't write app code — it hardens what you've already built,\" Zhang said. \"A transform pipeline (plus MCP tools / an agent Skill) applies renaming, lane splitting, seed-derived string encryption, build polymorphism, WASM export renaming, decoys, self-seal integrity checks, and a coverage matrix that won't claim protection it can't prove. Behavior stays equivalent; recovery cost goes up.\" Zhang said various evaluations like red teaming and CrackMe challenges to recover keys or flags from hardened artifacts show that BLA is effective.&nbsp; \"We also drive REA (a reverse-engineering agent) against those builds,\" he said. \"Fail-to-break is the pass. CI tracks defense score, self-verifies integrity coverage, and checks functional equivalence. We raise the cost — we don't claim it is unbreakable.\" The project website says as much, noting that it raises the effort for analysis and adds decoy code, but doesn't promise protection against traditional interactive reverse engineering tools like Ghidra or Frida. Zhang said he's aware of other software projects that aim to interfere with AI, such as Poison Fountain for poisoning training data and Anubis for deterring bots and scraping. BLA, he said, is different. It's for hardening shipping code against reverse engineering and LLM-aided analysis. ® ai ai and ml reverse engineering Make us preferred on Google",
       "summary": "Software security developers began implementing novel code-blinding techniques engineered specifically to neutralize autonomous artificial intelligence coding agents attempting automated decompilation and vulnerability exploitation. By injecting syntactic noise and non-deterministic logic gates, the defensive framework causes automated LLM-based analysis pipelines to hallucinate and fail. The defensive breakthrough counters the rapid weaponization of autonomous agents used by malicious actors to industrialize zero-day discovery.",
       "deck": "Developers implement deliberate code obfuscation architectures to break automated AI reverse-engineering tools.",
       "bullets": [
@@ -2385,8 +2385,8 @@
       ],
       "image_url": "https://image.theregister.com/?imageId=5308929&amp;width=800",
       "thumbnail_url": "https://image.theregister.com/?imageId=5308929&amp;width=800",
-      "word_count": null,
-      "read_time_minutes": null,
+      "word_count": 593,
+      "read_time_minutes": 3,
       "source_tier": 2,
       "source_lean": null,
       "cluster_label": "Autonomous Agent Defense Architectures",
@@ -2396,8 +2396,8 @@
       "trust_score": 7,
       "analysis_reasoning": "The Register covers a technical 'cat-and-mouse' game. It favors defensive innovation against malicious AI use.",
       "metadata": {
-        "author": null,
-        "paywall": false,
+        "author": "Thomas Claburn",
+        "paywall": true,
         "language": "en"
       }
     },
@@ -2412,7 +2412,7 @@
       "published_at": "2026-11-10T15:05:00+00:00",
       "category": "business",
       "tags": [],
-      "content": null,
+      "content": "Thank you for signing up for our free newsletter. By entering your email id you agree to receive our free newsletter and other promotional communication. Raenest, a Nigerian-founded fintech company established in 2022 by Victor Alade, Richard Oyome and Sodruldeen Mustapha, has acquired UK-based payments company Remitise, securing 100% ownership as it expands its international operations. The Lagos-based financial platform provides cross-border payment services, multi-currency accounts, international transfers and cards to individuals and businesses. The acquisition gives Raenest access to Remitise&#8217;s existing registration with the UK&#8217;s Financial Conduct Authority (FCA), strengthening its regulatory and operational presence in the market. Raenest serves more than 1.5 million registered customers and has processed over USD 3 B in lifetime transactions. The deal builds on its existing regulatory presence in Nigeria and Canada. Financial terms were not disclosed. A weekly roundup on VC, PE and M&A deals in the African continent A weekly newsletter that puts the African context, first. Business, Economy, Startups, State of Industries. All in one! Access to our database of 2500+ African private and public companies Here is our pre-launch offer Subscribe to WT Annual Premium subscription now and get upgraded to WT Premium Elite priced at $120 for free (on launch). That saves you 50% straight. Only 3 lucky winners who register during the campaign period will get a chance to avail this offer. Need more information on WT Premium Elite, please drop in your email and we will contact you soon.",
       "summary": "Nigerian financial technology startup Raenest has completed the strategic acquisition of UK payment firm Remitise, securing direct British regulatory licensing and clearing access. The acquisition allows African software professionals and digital exporters to invoice global clients directly while eliminating astronomical currency conversion losses and SWIFT settlement delays. By acquiring regulated European infrastructure, African fintech operators are building sovereign cross-border settlement channels that bypass predatory legacy banking conglomerates.",
       "deck": "Lagos-based Raenest acquires UK-regulated Remitise to establish frictionless cross-border liquidity corridors between Africa and Europe.",
       "bullets": [
@@ -2432,8 +2432,8 @@
       ],
       "image_url": null,
       "thumbnail_url": null,
-      "word_count": null,
-      "read_time_minutes": null,
+      "word_count": 243,
+      "read_time_minutes": 2,
       "source_tier": 2,
       "source_lean": null,
       "cluster_label": "African Fintech Cross-Border Expansion",
@@ -2443,7 +2443,7 @@
       "trust_score": 7,
       "analysis_reasoning": "Reports on African fintech growth. The framing is pro-tech and anti-incumbent (legacy banks), celebrating regional sovereignty.",
       "metadata": {
-        "author": null,
+        "author": "WT Data Labs",
         "paywall": false,
         "language": "en"
       }
@@ -2503,10 +2503,10 @@
       "source": "Asahi Shimbun",
       "source_url": "http://www.asahi.com",
       "url": "http://www.asahi.com/articles/ASVCB3JY5VCBUJHB00SM.html?ref=rss",
-      "published_at": "2026-11-11T21:06:50.716Z",
+      "published_at": "2026-11-12T21:20:50.789Z",
       "category": "policy",
       "tags": [],
-      "content": null,
+      "content": "つくば市新DC誘致「事業者任せにしない」 市長、市民に理解求める 2026年11月11日 6時15分 床並浩一 印刷する メールでシェアする Facebookでシェアする Xでシェアする はてなブックマークでシェアする 畑や山林が広がるデータセンター建設予定地周辺=2026年11月4日午前11時6分、茨城県つくば市高須賀、床並浩一撮影 [PR] 茨城県つくば市の五十嵐立青市長は10日の定例記者会見で、市内で計画されているデータセンター（DC）について、立地に伴う財源確保の必要性に加え、周辺環境への配慮や地域との共生を事業者に求める姿勢を強調。相次ぐDC進出を不安視する市民を念頭に、改めて理解を求めた。 市内では、二つの土地でDC建設計画が進む。一つは、不動産開発会社グッドマンジャパンがDC建設に着手した同市大穂の高エネルギー加速器研究機構南側用地（約46ヘクタール）。もう一つは、市が今月からDC開発事業者の公募を始めた同市高須賀、上郷両地区の圏央道つくば西スマートIC周辺地区の産業用地（約74ヘクタール）。いずれも新たな産業集積や経済成長による地方創生を目的にした国のグリーントランスフォーメーション（GX）戦略地域制度で地区認定された。 市長は会見で、「DCの誘致は全国でこぞって進められている。地域の経済や財政に与える影響も含め、プラスの面が大きい」と強調した。 スマートIC周辺での計画は、グッドマン社の計画と異なり、市が地権者に理解を求め、事業者に補助金を交付する。市長は「事業完了まで事業者任せにせず、伴走して継続関与する」と、市の主体的役割を示した。 市は10月に策定した「地域共生ガイドライン」や今回の事業者公募で再生可能エネルギーの100%利用を求めているが、市長は「法的拘束力はない」と説明。一方、参加者に制限を設けない説明会の開催を事業者に求めている。 市長は「技術的な部分は事業者が説明しなければならないが、（説明用の）パネルを出すとか、十分に考えられる」と述べ、スマートIC周辺の計画では一定程度、市民への説明に市が関与する考えを語った。 有料会員になると会員限定の 有料記事もお読みいただけます。 今すぐ登録（2カ月間月額100円） ログインする 【締め切り迫る】有料記事が2カ月間 月額100円で読み放題！ 詳しくは こちら 宅配紙面の購読者なら、ダブルコース半年割がお得です。 詳しくは こちら 関連トピック・ジャンル トピックス AIの時代 ジャンル 経済 印刷する メールでシェアする Facebookでシェアする Xでシェアする はてなブックマークでシェアする",
       "summary": "The mayor of Tsukuba City has moved to halt unconstrained datacenter development, announcing that local government will no longer leave project approvals entirely to corporate tech operators. The decision reflects growing civic pushback across Japan against energy-hungry server farms that devour municipal water and electrical grid capacity without producing local jobs. Tsukuba's intervention marks the arrival in Asia of Western-style regulatory resistance against the physical footprint of global artificial intelligence infrastructure.",
       "deck": "Tsukuba Mayor rejects unrestricted datacenter development, demanding municipal control over energy and land consumption.",
       "bullets": [
@@ -2526,8 +2526,8 @@
       ],
       "image_url": "https://imgopt.asahi.com/ogp/AS20261110003784_comm.jpg",
       "thumbnail_url": "https://imgopt.asahi.com/ogp/AS20261110003784_comm.jpg",
-      "word_count": null,
-      "read_time_minutes": null,
+      "word_count": 39,
+      "read_time_minutes": 1,
       "source_tier": 2,
       "source_lean": null,
       "cluster_label": "Datacenter Resource Pushback",
@@ -2537,8 +2537,8 @@
       "trust_score": 7,
       "analysis_reasoning": "Reports on local resistance to infrastructure. Neutral reporting on the tension between tech expansion and local resources.",
       "metadata": {
-        "author": null,
-        "paywall": false,
+        "author": "朝日新聞",
+        "paywall": true,
         "language": "en"
       }
     },
@@ -2600,7 +2600,7 @@
       "published_at": "2026-11-10T14:39:48+00:00",
       "category": "business",
       "tags": [],
-      "content": null,
+      "content": "Amazon, a global marketplace and logistics company, is looking to attract more South African small businesses to its marketplace as it targets a bigger share of the country’s growing e-commerce market&nbsp;",
       "summary": "Amazon is aggressively expanding its South African footprint by offering aggressive fulfillment subsidies, zero-percent introductory fees, and logistics support to lock in regional small businesses. The campaign represents an aggressive bid to crush Naspers-backed domestic e-commerce monopoly Takealot by cornering the local merchant ecosystem. By subsidizing regional enterprise onboarding, Amazon is executing its classic playbook of sacrificing near-term margins to establish permanent distribution hegemony across Africa's most industrialized economy.",
       "deck": "Amazon deploys predatory onboarding subsidies targeting South African small businesses to outflank local incumbent Takealot.",
       "bullets": [
@@ -2620,8 +2620,8 @@
       ],
       "image_url": null,
       "thumbnail_url": null,
-      "word_count": null,
-      "read_time_minutes": null,
+      "word_count": 31,
+      "read_time_minutes": 1,
       "source_tier": 2,
       "source_lean": null,
       "cluster_label": "Emerging Market Platform Monopolies",
@@ -2631,8 +2631,8 @@
       "trust_score": 7,
       "analysis_reasoning": "Critical of Big Tech's expansionist tactics in emerging markets. Frames Amazon's entry as predatory toward local monopolies.",
       "metadata": {
-        "author": null,
-        "paywall": false,
+        "author": "Phathisani Moyo",
+        "paywall": true,
         "language": "en"
       }
     },
@@ -2879,7 +2879,7 @@
       "source": "Asahi Shimbun",
       "source_url": "http://www.asahi.com",
       "url": "http://www.asahi.com/articles/ASVC71QQWVC7UTIL005M.html?ref=rss",
-      "published_at": "2026-11-11T21:06:50.716Z",
+      "published_at": "2026-11-12T21:20:50.789Z",
       "category": "ethics",
       "tags": [],
       "content": null,
@@ -2926,7 +2926,7 @@
       "source": "Taipei Times",
       "source_url": "https://www.taipeitimes.com",
       "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/11/11/2003867531",
-      "published_at": "2026-11-11T21:06:50.716Z",
+      "published_at": "2026-11-12T21:20:50.789Z",
       "category": "security",
       "tags": [],
       "content": null,
@@ -3020,7 +3020,7 @@
       "source": "Hankyoreh",
       "source_url": "https://www.hani.co.kr",
       "url": "https://www.hani.co.kr/arti/area/capital/1286750.html",
-      "published_at": "2026-11-11T21:06:50.716Z",
+      "published_at": "2026-11-12T21:20:50.789Z",
       "category": "security",
       "tags": [],
       "content": null,
@@ -3070,7 +3070,7 @@
       "published_at": "2026-11-10T16:37:44+00:00",
       "category": "technology",
       "tags": [],
-      "content": null,
+      "content": "After a long and expensive battle, news just dropped that Verisign is retracting its plan to terminate 22,000 domain names and email redirects. Although they will be closing new registrations for 3rd-level .name domains, all existing domains (including this website) and email redirects will remain indefinitely. This was a team effort. It was inspiring how many talented people joined this fight. From Doytchin who kicked everything off, to Jim who flew to Bali to make the case to ICANN in person, to Patrik, Troy, Huyen, Keith, Judy, Erik, and Ryan who wrote formal reconsideration requests, to my lawyers Jan, Flip and Diégo who threw the book at ICANN, to Beverly, Stefan, Vaughan, Irv, Pablo, Larry, Lionel, Daniel, Ori, Markus, Kirk, Ed, Jeremy, Stephan, Matija, Jan, Simon, Mark, and Evan who filed letters of support. I'd also like to sincerely thank selected individuals within ICANN who had the courage to stand up against the bureaucracy. Without exception, everyone I spoke with was a remarkable person.",
       "summary": "Verisign is quietly grandfathering the historic .name top-level domain, closing the door on two decades of early consumer internet identity infrastructure. Corporate domain registries are systematically sunsetting low-margin legacy namespaces to steer enterprise users toward expensive, proprietary brand extensions. The quiet retirement highlights how the decentralized internet of personal domains has been superseded by commercial corporate platforms.",
       "deck": "Registry grandfathering marks the quiet corporate consolidation of early internet personal identity domains.",
       "bullets": [
@@ -3090,8 +3090,8 @@
       ],
       "image_url": null,
       "thumbnail_url": null,
-      "word_count": null,
-      "read_time_minutes": null,
+      "word_count": 164,
+      "read_time_minutes": 1,
       "source_tier": 2,
       "source_lean": null,
       "cluster_label": "Domain Name System Infrastructure",
